@@ -49,7 +49,7 @@ article p{margin:4px 0;color:#333}
 .meta{font-size:17px;color:#888}
 .note{color:#666;background:#f6f6f6;padding:16px;border-radius:8px}
 .filters{margin-bottom:16px}
-.filter-btn{font-size:18px;padding:8px 16px;margin:0 8px 8px 0;border:1px solid #999;border-radius:20px;background:#fff;cursor:pointer}
+.filter-btn{font-size:16px;padding:6px 12px;margin:0 8px 8px 0;border:1px solid #999;border-radius:20px;background:#fff;cursor:pointer}
 .filter-btn.active{background:#222;color:#fff;border-color:#222}
 footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;padding-top:12px}
 </style>
