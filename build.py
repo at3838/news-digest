@@ -36,19 +36,19 @@ def render(data):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Andrew 的每日新聞摘要</title>
 <style>
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang HK","Microsoft JhengHei",sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px;color:#222;background:#fff;line-height:1.7}
-h1{font-size:26px;margin-bottom:4px}
-.sub{color:#666;font-size:14px;margin-bottom:32px}
-h2{font-size:20px;border-top:2px solid #222;padding-top:16px;margin-top:40px}
-h3{font-size:16px;color:#444;margin:24px 0 8px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang HK","Microsoft JhengHei",sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px;color:#222;background:#fff;line-height:1.75;font-size:18px}
+h1{font-size:30px;margin-bottom:4px}
+.sub{color:#666;font-size:16px;margin-bottom:32px}
+h2{font-size:24px;border-top:2px solid #222;padding-top:16px;margin-top:40px}
+h3{font-size:19px;color:#444;margin:24px 0 8px}
 article{margin:0 0 16px}
-article .t{font-size:16px;font-weight:600}
+article .t{font-size:19px;font-weight:600}
 article .t a{color:#1a56db;text-decoration:none}
 article .t a:hover{text-decoration:underline}
 article p{margin:4px 0;color:#333}
-.meta{font-size:13px;color:#888}
+.meta{font-size:15px;color:#888}
 .note{color:#666;background:#f6f6f6;padding:16px;border-radius:8px}
-footer{margin-top:48px;font-size:13px;color:#999;border-top:1px solid #ddd;padding-top:12px}
+footer{margin-top:48px;font-size:15px;color:#999;border-top:1px solid #ddd;padding-top:12px}
 </style>
 </head>
 <body>
