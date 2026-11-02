@@ -99,8 +99,6 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
                 else:
                     t = title
                 meta_bits = [f"來源：{html.escape(source)}"]
-                if briefing:
-                    meta_bits.append(briefing)
                 if it.get("date"):
                     y, m, d = (int(p) for p in it["date"].split("-"))
                     dt = f"{y}年{m}月{d}日"
