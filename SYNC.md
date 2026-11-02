@@ -2,7 +2,9 @@
 
 目的：將 Andrew 經 WhatsApp 收到嘅新聞 briefing，歸檔去新聞總匯頁
 （repo：~/workspace/news-digest，公開頁：https://at3838.github.io/news-digest/）。
-由 2026-11-02 起，之前嘅內容一律唔入。
+由 2026-11-02 起，之前嘅內容一律唔入。同步每 15 分鐘跑一轉，務求
+WhatsApp 一收到新聞，頁面 15 分鐘內就出到；冇新 briefing 嘅轉靜默，
+只推 watermark，唔好出聲。
 
 ## 固定規則（唔好違反）
 
