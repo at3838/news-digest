@@ -101,6 +101,8 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
                 meta_bits = [f"來源：{html.escape(source)}"]
                 if briefing:
                     meta_bits.append(briefing)
+                if it.get("time"):
+                    meta_bits.append(f"英國時間 {html.escape(it['time'])}")
                 parts.append(
                     f"<article><div class=\"t\">{t}</div>"
                     f"<p>{summary}</p>"

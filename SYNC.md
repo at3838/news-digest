@@ -13,7 +13,13 @@ WhatsApp 一收到新聞，頁面 15 分鐘內就出到；冇新 briefing 嘅轉
 - 只收新聞內容類 briefing（下面「入選」表）。數據類 briefing 見到都要跳過。
 - 每則 item：標題、廣東話撮要（一至兩句，照送出嘅原文撮要，唔好自己重寫）、
   原文 link（briefing 有先寫，冇就寫 null，絕對唔好估 link）。
-- 全文一律繁體廣東話口語，唔用簡體字、唔用普通話詞彙。
+- 每則 item 一定要有 time 欄：該 briefing 經 WhatsApp 送到嗰陣嘅倫敦時間，
+  格式 HH:MM（例如 07:05）。注意：呢個係 WhatsApp 送達時間，唔係原文刊登
+  時間（briefing 入面多數冇刊登時間，唔好估）。
+- 補時間：news.json 入面已有但冇 time 嘅 item，根據佢哋來源 briefing 當日
+  嘅 WhatsApp 送達時間補返 time（同一來源同一日有多轉嘅，盡量按標題對返
+  嗰一轉；對唔返就用當日該 briefing 最近嗰轉嘅時間，並喺嗰則 summary
+  尾加「（時間約數）」註明）。
 - 去重：同一日＋同一來源＋同一 URL 已經有就唔再入；冇 URL 嘅就用同一日＋
   同一來源＋同一標題去重。
 - 成功就靜音（唔使向任何 chat 報告）；失敗先向 main chat 報告邊一步失敗、
@@ -56,7 +62,8 @@ BA 查價、天氣換衫、任何非新聞嘅系統訊息。
    直到訊息時間早過 watermark 為止。只取 role=assistant 且有實質 briefing
    內容嘅訊息；純 handoff、靜音轉、系統訊息全部跳過。
 3. 按上面入選表抽 item，寫入 news.json 對應日期（倫敦日期）：
-   每則 {date, source, briefing, title, summary, url}。
+   每則 {date, source, briefing, title, summary, url, time}，
+   time 係該 briefing 嘅 WhatsApp 送達倫敦時間 HH:MM。
    source 用 briefing 來源名（例如 Benzinga、Threads、X財經台、TradingView、
    大行報告、FT、Substack、Reddit、YouTube、英國報章、蔡天鳳案）。
 4. 更新 .sync-state.json 嘅 watermark 去今轉處理過嘅最新訊息時間；
