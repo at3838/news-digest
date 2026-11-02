@@ -106,7 +106,7 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
                         dt += f" {it['time']}"
                     meta_bits.append(f"{html.escape(dt)}")
                 elif it.get("time"):
-                    meta_bits.append(f"英國時間 {html.escape(it['time'])}")
+                    meta_bits.append(f"{html.escape(it['time'])}")
                 parts.append(
                     f"<article><div class=\"t\">{t}</div>"
                     f"<p>{summary}</p>"
