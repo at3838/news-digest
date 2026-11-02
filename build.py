@@ -36,7 +36,7 @@ def render(data):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Andrew 的每日新聞摘要</title>
 <style>
-body{font-family:-apple-system,BlinkMacSystemFont,"PingFang HK","Microsoft JhengHei",sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px;color:#222;background:#fff;line-height:1.75;font-size:20px}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang HK","Microsoft JhengHei",sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px;color:#222;background:#faf6ef;line-height:1.75;font-size:20px}
 h1{font-size:26px;margin-bottom:4px}
 .sub{color:#666;font-size:18px;margin-bottom:32px}
 h2{font-size:28px;border-top:2px solid #222;padding-top:16px;margin-top:40px}
@@ -47,7 +47,7 @@ article .t a{color:#1a56db;text-decoration:none}
 article .t a:hover{text-decoration:underline}
 article p{margin:4px 0;color:#333}
 .meta{font-size:17px;color:#888}
-.note{color:#666;background:#f6f6f6;padding:16px;border-radius:8px}
+.note{color:#666;background:#f2ead9;padding:16px;border-radius:8px}
 .filters{margin-bottom:16px}
 .filter-btn{font-size:16px;padding:6px 12px;margin:0 8px 8px 0;border:1px solid #999;border-radius:20px;background:#fff;cursor:pointer}
 .filter-btn.active{background:#222;color:#fff;border-color:#222}
