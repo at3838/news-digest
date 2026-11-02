@@ -1,1 +1,289 @@
-{"days":[]}
+{
+  "days": [
+    {
+      "date": "2026-11-02",
+      "items": [
+        {
+          "date": "2026-11-02",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "歐美高收益債最弱一檔息差擴闊",
+          "summary": "引述 FT 話，最弱垃圾級發行人要俾嘅息差擴闊咗，同較高評級垃圾債之間嘅差距喺歐美兩邊都拉闊埋，反映同一個資產類別入面分化加劇，唔係齊齊郁。",
+          "url": "https://x.com/elerianm/status/2116970296523547108"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "用 AI 工具自動化工作流程",
+          "summary": "每年喺 Anthropic、Lovable、Grok Bot 等 token 同訂閱使費少過 4 萬美元，換返嚟嘅價值超過 200 萬美元，已經自動化咗起碼七個全職崗位嘅工作，平均任務速度快咗一倍。",
+          "url": "https://x.com/Jason/status/2117126320962351277"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "多 agent 自動交易系統",
+          "summary": "一個多 agent 自動交易系統，要求每個策略先寫死假設再跑數據，咁就唔會事後先編故事去合理化結果。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfOpI91G063"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "SemiAnalysis 新出 AI 代理基準測試 GDPx",
+          "summary": "SemiAnalysis 新出嘅 AI 代理基準測試 GDPx，涵蓋 11 個行業，最勁嘅模型做晶片設計、金融同法律呢類專業工作，平均都淨係攞到 12% 左右，金融同法律題更加全軍覆沒。",
+          "url": "https://www.threads.com/@whaleagent/post/DfOphLRE7Es"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "五十隊 AI agent 喺 Minecraft 起文明起唔成",
+          "summary": "五十隊 AI agent 喺 Minecraft 入面起文明起唔成，反而陷咗入開會、立規矩、互相批核嘅官僚程序，最後乜都起唔到。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfOpMw6G96f"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "擔心大家乜都交晒俾大模型去諗",
+          "summary": "有作者擔心大家而家乜都交晒俾大模型去諗，人淨係識接受同轉述，成個論證過程跳過晒。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfOo5ZWG8is"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "可以全程喺本機跑嘅細 agent",
+          "summary": "一個可以全程喺本機跑嘅細 agent，接駁 LFM3 細模型，仲有審批、瀏覽器同語音對話功能。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfOo3Lcmzhr"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "唔同 agent 框架寫同一個程式嘅比較",
+          "summary": "有人叫唔同 agent 框架各自寫同一個程式，再比較開發時間、耗用量、程式行數同評分，結論係「對 agent 更加友好」呢類講法好多都冇數據撐。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfOfSbxlLHI"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "用 JEPA 驗證「柏拉圖表示假說」",
+          "summary": "新論文用 JEPA 驗證同改良「柏拉圖表示假說」，解釋點解唔同模態嘅表示方法會慢慢趨向一致。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfOdgrMFDeG"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "逼模型慢慢寫文嘅方法",
+          "summary": "一個逼模型慢慢寫文嘅方法，每一步都要用程式檢查進度，唔俾佢跳步直接交成品。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfOdmeJFInF"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Threads",
+          "briefing": "Threads朝早",
+          "title": "用 AI 疊合 1922 年台北市全圖重繪",
+          "summary": "頻道用 AI 疊合 1922 年嘅台北市全圖逐點重繪，話做到以假亂真，係業餘 AI 粗製內容入面嘅極致之作。",
+          "url": "https://www.threads.com/@fox.hsiao/post/DfOp6nkFHml"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Facebook",
+          "briefing": "Facebook朝早",
+          "title": "幣安 63 億美元黑客案",
+          "summary": "講幣安 63 億美元黑客案，FBI 鎖定北韓網軍 TraderTraitor，仲起底被通緝嘅北韓駭客朴鎮赫同北韓點樣靠偷加密貨幣做外匯來源。",
+          "url": "https://facebook.com/100002226968119/posts/pfbid0myamPWdJUKPeLAqhprwZ8Ezoc4Fje5Rpk4BFJuPTwuzLXwdvXdZyFU9NXy3uwpvYl/"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Facebook",
+          "briefing": "Facebook朝早",
+          "title": "對比 OpenAI 同 Anthropic 商業模式",
+          "summary": "對比 OpenAI 同 Anthropic 嘅商業模式，話 OpenAI 靠 B2C 訂閱、Anthropic 靠企業 token 計量，結果 Anthropic 營收反超，因為大企業客戶嘅 AI 開支增長最快。",
+          "url": "https://facebook.com/100089589522303/posts/pfbid02wL8wh9FVBXLFybP6cR5yMmJePxqew1SSY1AErmJd3vn8Stt7LHqSez7ddMFxZYNcl/"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Facebook",
+          "briefing": "Facebook朝早",
+          "title": "慳 Claude Code／Codex 額度嘅工具",
+          "summary": "整理幾款慳 Claude Code／Codex 額度嘅工具，包括微軟研究院同柏克萊合作嘅 TokenEconomizer，論文實測同一個專案慳 18–31%，仲有 ccusage、caveman、rtk 同 context-mode。",
+          "url": "https://facebook.com/61564031484220/posts/pfbid0hs4uLtHWur7M14MUNxnifeD6NCePR14zwbNCvGcGnbmAYCQV7sSAjkieQewYxSkAl/"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Facebook",
+          "briefing": "Facebook朝早",
+          "title": "Grok Bot 最抵用嘅玩法",
+          "summary": "分享 Grok Bot 最抵用嘅玩法，話訂 Grok Bot 30 蚊方案再加 20 蚊 Claude Pro，叫 Grok Bot 喺雲端裝 Claude Code CLI 去處理食 token 又要用到 Opus 5.5 嘅任務，佢自己就用嚟做 AI 剪片。",
+          "url": "https://facebook.com/1247673748/posts/pfbid028CcG6NEa67RVqsudrT9RdzUAakoQ7Q2dGqwBXFDfo9MLriowuteyB25gQfMUb5LNl/"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Facebook",
+          "briefing": "Facebook朝早",
+          "title": "用 Grok Bot 一站式處理業配贊助查詢",
+          "summary": "展示用 Grok Bot 一站式處理業配贊助查詢，由回覆、客製化提案 PDF、簽約、用印到開發票同提供帳號資訊都包埋。",
+          "url": "https://facebook.com/649368317/posts/pfbid097MjTUfsvZivTw7sqnFubTGpDULBCkZJJeT7fUkATS9FPWAj6yjBCppgNapBdwnql/"
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "今日焦點：AI Trade 大潰散",
+          "summary": "Samuel Cheng、大叔、FUNDA 同 TMAD 同報，十月最後兩週係 AI Trade 由信仰走向審計嘅兩週：四份雲端財報營收冇一家差，但市場睇現金流量表最尾嗰行，Nasdaq 100 十月單月跌 6.7%，四家之中有三家單季自由現金流轉負，得 Microsoft 守住正數。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "大叔美股筆記：10 月 FOMC 詳解",
+          "summary": "大叔美股筆記詳解 10 月 FOMC：利率不動，聲明將經濟由 solid 升級做 strong，表決由 12 比 0 變成 10 比 2，兩票主張升息，基本情境仍然係十二月升一碼，機率約 75%，決定答案嘅會係 11 月 6 號就業數據同 11 月 10 號 CPI。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "TMAD 週報：Puts Pile Up Into the Midterms",
+          "summary": "TMAD 週報話呢個星期開頭似突破、結尾似崩盤，星期五係標普自六月以嚟最差一日，同時有人靜靜哋大手買入 1 月到期嘅 QQQ 認沽期權，期權市場嘅防守部署值得留意。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "MimiVsJames：2027 年支撐美股最大買盤減少",
+          "summary": "MimiVsJames 出咗一篇講 2027 年支撐美股最大買盤減少、長線資產配置邏輯要同步升級，附帶標普點位初步預測同五大潛力板塊，但封信本身只得標題同連結，正文要入 App 先睇到，呢度只係交代有呢篇，唔估佢內容。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "不預測漲跌：Amazon 2026 第三季拆解",
+          "summary": "不預測漲跌拆解 Amazon 2026 第三季：AWS 營收約 460 億美元，年增 39.3%，係連續第六季加速、近五年最快，但近十二個月自由現金流擴大到負 424 億美元，缺口出喺花錢速度，唔係本業收得少。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "FUNDA 週報：CSP 財報考驗 AI 支出回報",
+          "summary": "FUNDA 週報圍住 CSP 財報考驗 AI 支出回報呢個主題，話光係雲端增長強勁已經唔夠平息爭論，投資者要更清晰睇到由產能承諾到使用率、盈利同現金產生嘅路徑，Oracle 指引 27 至 28 財年資本支出見頂更加深焦慮。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "SemiAnalysis GDPx 基準測試",
+          "summary": "SemiAnalysis 出咗 GDPx 基準測試，橫跨遞歸自我改進、硬件設計、網絡安全、生物、金融、法律、量化交易、晶片設計、軟件工程、材料科學同對齊等多個最有價值領域，話首 1 萬億美元 AI 收入會集中喺能夠以高回報部署前沿智能嘅行業，不過全文要付費，呢度只係按導讀交代。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "ARK 每日 ETF 交易披露（10 月 30 號交易）",
+          "summary": "ARK 必包嘅每日 ETF 交易披露最新一封係 10 月 30 號交易、10 月 31 號凌晨披露：ARKK 買入 Illumina、Tempus AI、Circle、Coinbase 同 Pacific Biosciences，賣出 Bullish 同 Eli Lilly，整體方向係加碼加密相關同基因組學，減持 Bullish 同 Lilly。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "Terry Cheng 美股老司機：研究 LYNX",
+          "summary": "Terry Cheng 美股老司機研究咗 LYNX，一間專注國防科技、航太同先進通訊嘅高端技術企業，市值 13.3 億美元，暫時未賺錢，97% 以上營收來自美國政府同國防相關合約，預計 2026 年全年營收 5.2 到 5.3 億美元，佢自己暫時未買入。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "本週財報前瞻：Apple 同 Palantir",
+          "summary": "本週財報前瞻方面，Finimize 週報同 The Information 同報 Apple 同 Palantir 係大市能否扭轉頹勢嘅希望：Apple 星期一出季度業績，分析師預期營收按年升 10% 到 1,130 億美元，Palantir 星期一出業績，之前指引第三季按年增長 83%。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "Gmail股市信件",
+          "briefing": "Gmail股市信件每日摘要",
+          "title": "Beth Kindig：I/O Fund 十篇 timeless 免費文章合集",
+          "summary": "Beth Kindig 今轉封信係 I/O Fund 十篇 timeless 免費文章合集，冇新嘅市場判斷，重點係重溫佢哋 2018 年 11 月 Nvidia 喺 4.93 美元嗰陣講 CUDA 護城河嘅舊文，話 Nvidia 喺 GPU 驅動數據中心有 98% 市佔率，CUDA 軟件護城河係難以顛覆嘅主因。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "每週深度研究",
+          "briefing": "每週深度研究",
+          "title": "科技巨頭業績週：AI 燒錢燒到現金流見紅",
+          "summary": "過去一星期微軟、Alphabet、Meta、亞馬遜先後公布第三季業績，四間公司合共嘅資本開支已經大到超過佢哋自己賺返嚟嘅經營現金，三間出現季度自由現金流見紅，股價星期五全線大跌，納指單日跌 2.86%。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "歐洲新聞：德法示威、烏克蘭停火結束",
+          "summary": "德國星期六全國三十幾個城市有超過十萬年輕人上街，抗議生活成本同教育問題；法國連續第三個周末有大規模示威，全國約三十二萬人參加；烏克蘭赫爾松一帶為期五日嘅局部停火星期日結束，俄羅斯拒絕延長。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "英國新聞：對華政策報告、萬聖節刺傷案、再工業化",
+          "summary": "國會一份報告批評英國對華政策「行到邊諗到邊」，冇清晰策略；漢普郡 Chandler's Ford 星期六晚一個萬聖節派對發生刺傷案，五名十六至十七歲少年受重傷送院；大曼徹斯特市長 Andy Burnham 推出七億鎊計劃推動再工業化。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "歐洲財經：英倫銀行星期四議息、英鎊硬淨",
+          "summary": "英倫銀行星期四議息，市場普遍預期會加息四分一厘，由百分之三點七五加到百分之四，原因係九月通脹升到百分之三點五；英鎊上星期表現硬淨，兌美元約一點三四，兌歐元約一點一九九，係十九個月以來最高。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "首相 Burnham 飛去安提瓜參加英聯邦峰會",
+          "summary": "首相 Burnham 今日飛去安提瓜參加英聯邦峰會，之前話對正式為奴隸貿易道歉持開放態度，但排除賠償。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "安德魯王子搬離 Royal Lodge",
+          "summary": "王室方面繼續係頭條，據報安德魯王子要搬離 Royal Lodge，亦已放棄就住所打官司。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "國會委員會警告英國對華政策欠缺連貫策略",
+          "summary": "國會委員會警告，英國對華政策係「行到邊諗到邊」，欠缺連貫策略，令企業同國家安全都受影響。",
+          "url": null
+        },
+        {
+          "date": "2026-11-02",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "Binance 黑客事件後恢復提款",
+          "summary": "加密貨幣交易所 Binance 喺歷來最大宗黑客事件之後恢復提款，話已經補回大約九成半被盜資產。",
+          "url": null
+        }
+      ]
+    }
+  ]
+}
