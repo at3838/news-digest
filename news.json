@@ -1073,6 +1073,69 @@
      "summary": "台北市長選戰打到輝達都成攻防焦點，蔣萬安話搶到輝達研發總部設北士科係市政功績，但有輝達員工匿名反駁，作者話拉長時間睇真理會愈辯愈明。",
      "url": "https://facebook.com/100002304327218/posts/pfbid02j5BR51ZmLH7hzmCoBA2sNnVoeu4vkDKnitevCaU6Wbxs4GsGWXp3Kkd6Y1UX7oBPl/",
      "time": "19:07"
+    },
+    {
+     "date": "2026-11-02",
+     "source": "YouTube",
+     "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+     "title": "TWiT：點解 Sam Altman 唔鍾意本地 AI 模型",
+     "summary": "主持講 Sam Altman 同 OpenAI 傾向 AI 喺雲端跑，唔想用戶喺自己電腦本地用；記憶體價格急升同供應緊張，令本地跑大模型愈來愈貴，經濟誘因推用戶走向租用雲端 AI。",
+     "url": "https://www.youtube.com/watch?v=4YnXg9hlrfg",
+     "time": "19:23"
+    },
+    {
+     "date": "2026-11-02",
+     "source": "YouTube",
+     "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+     "title": "Andrei Jikh：北韓偷咗 60 億加密貨幣？",
+     "summary": "講幣安約 63 億美元失竊案，涉及供應鏈同硬件錢包層面，Tether 同 Circle 凍結咗約 30 億美元贓款；邊個做嘅未有定論，北韓只係傳聞之一，片中建議唔交易就唔好將幣放喺交易所。",
+     "url": "https://www.youtube.com/watch?v=NRGiu3CxuCI",
+     "time": "19:23"
+    },
+    {
+     "date": "2026-11-02",
+     "source": "YouTube",
+     "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+     "title": "a16z：機械人公司淨係有勁模型唔夠",
+     "summary": "Tutor Intelligence 行政總裁講機械人公司除咗模型，仲要部署、可靠度同營運；用 iPhone 包裝做例子，話實體經濟自動化程度其實好低，加上製造業工人平均約 55 歲，機械人係勞工同營運方案。",
+     "url": "https://www.youtube.com/watch?v=lXkjXSul6yg",
+     "time": "19:23"
+    },
+    {
+     "date": "2026-11-02",
+     "source": "YouTube",
+     "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+     "title": "All-In：Friedberg 睇好 AI 全條價值鏈都賺錢",
+     "summary": "Friedberg 講 AI 價值鏈每一層都有錢賺：Nvidia 約 1 蚊成本變 4 蚊收入，SpaceX／xAI 計埋折舊同電費約 83% 毛利率，Anthropic 增量毛利率約 85%，關鍵係客戶要賺到所花嘅 2 至 10 倍先維持到。",
+     "url": "https://www.youtube.com/watch?v=5wa4inzF0J8",
+     "time": "19:23"
+    },
+    {
+     "date": "2026-11-02",
+     "source": "YouTube",
+     "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+     "title": "Meet Kevin：伊朗最後關頭，要準備",
+     "summary": "伊朗最高領袖授權談判，卡塔爾居中斡旋，伊朗話開通霍爾木茲海峽嘅期限由 7 日縮到 2 日；Kevin 對 Tucker Carlson 講嘅核打擊傳聞持懷疑態度，話預測市場只俾近期達成協議約 20% 機會，整體審慎樂觀。",
+     "url": "https://www.youtube.com/watch?v=t0BEVSmy5xk",
+     "time": "19:23"
+    },
+    {
+     "date": "2026-11-02",
+     "source": "YouTube",
+     "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+     "title": "pjfp：Bill Perkins 講 Die With Zero",
+     "summary": "Perkins 話淨資產高峰應該係一個日期而唔係一個數字，身體係會衰退嘅資產；佢自認健康上虧待緊未來嘅自己，要請隨行教練補救；讀者最常改嘅係提早畀遺產，唔好等到子女 60 歲先收到。",
+     "url": "https://pjfp.com/bill-perkins-die-with-zero-my-first-million/",
+     "time": "19:23"
+    },
+    {
+     "date": "2026-11-02",
+     "source": "YouTube",
+     "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+     "title": "pjfp：Julia Turc 講 GPU、TPU、LPU 之爭",
+     "summary": "講 1945 年馮紐曼架構以來處理器同記憶體之間嘅樽頸：Google TPU 用權重固定嘅脈動陣列慳頻寬，Groq LPU 索性將權重全放片上 SRAM 做到時鐘級確定排程；Nvidia 200 億美元授權 Groq 技術之後，變成 GPU 做 prefill 同注意力、LPU 做解碼嘅分工。",
+     "url": "https://pjfp.com/julia-turc-gpu-tpu-lpu-von-neumann-bottleneck/",
+     "time": "19:23"
     }
    ]
   }
