@@ -2,7 +2,10 @@
 """Build index.html for Andrew's news digest page from news.json.
 
 Jocelin-style layout: newest day first, items grouped by source within the
-day. Each item: title (linked when an original URL exists), 1-2 sentence
+day. Within a day, source groups are ordered by their latest item time,
+newest first (so the day's latest briefing leads the page); items inside a
+group keep briefing order for equal times, newest briefing first otherwise.
+Each item: title (linked when an original URL exists), 1-2 sentence
 Cantonese summary, source meta line. Light mode only, Traditional Chinese.
 """
 import html
@@ -70,6 +73,18 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
         groups = {}
         for it in day.get("items", []):
             groups.setdefault(it.get("source", "其他"), []).append(it)
+        # within a group: newest briefing first (stable, so equal times keep
+        # briefing order); groups: newest latest-item time first.
+        # Missing time sorts last ("00:00").
+        ordered = {}
+        for source, items in groups.items():
+            items.sort(key=lambda it: it.get("time") or "00:00", reverse=True)
+            ordered[source] = items
+        groups = dict(sorted(
+            ordered.items(),
+            key=lambda kv: max(it.get("time") or "00:00" for it in kv[1]),
+            reverse=True,
+        ))
         day_groups.append((day, groups))
     if day_groups:
         seen = []

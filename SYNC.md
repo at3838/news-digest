@@ -6,6 +6,12 @@
 WhatsApp 一收到新聞，頁面 15 分鐘內就出到；冇新 briefing 嘅轉靜默，
 只推 watermark，唔好出聲。
 
+## 頁面排序（2026-11-02 Andrew 親口定）
+
+- 日由新到舊；同一日入面，來源組按最遲嗰則嘅 time 由新到舊排（即係當日最遲
+  嗰份 briefing 排第一）；組入面同時間嘅則保持 briefing 原來次序，唔同時段
+  嘅則新嗰轉行先。冇 time 嘅則排最後。呢個排序由 build.py 做，同步唔使理。
+
 ## 固定規則（唔好違反）
 
 - 絕對唔好改任何 briefing cron、唔好掂佢哋嘅 seen 檔、唔好喺 WhatsApp 度出聲。
