@@ -17,11 +17,6 @@ article .t a:hover{text-decoration:underline}
 article p{margin:4px 0;color:#333}
 .meta{font-size:17px;color:#888}
 .note{color:#666;background:#f6f6f6;padding:16px;border-radius:8px}
-.toc{background:#f6f6f6;padding:16px;border-radius:8px;margin-bottom:8px}
-.toc .day{margin-bottom:8px}
-.toc .day:last-child{margin-bottom:0}
-.toc a{color:#1a56db;text-decoration:none}
-.toc a:hover{text-decoration:underline}
 .filters{margin-bottom:16px}
 .filter-btn{font-size:18px;padding:8px 16px;margin:0 8px 8px 0;border:1px solid #999;border-radius:20px;background:#fff;cursor:pointer}
 .filter-btn.active{background:#222;color:#fff;border-color:#222}
@@ -33,9 +28,6 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
 <div class="sub">財經＋科技新聞摘要總匯。來源係每日經 WhatsApp 收到嘅新聞 briefing，自動歸檔，最新一日行先。</div>
 
 <div class="filters"><strong>來源：</strong><button class="filter-btn active" data-filter="全部">全部</button> <button class="filter-btn" data-filter="X財經台">X財經台</button> <button class="filter-btn" data-filter="Threads">Threads</button> <button class="filter-btn" data-filter="Facebook">Facebook</button> <button class="filter-btn" data-filter="Gmail股市信件">Gmail股市信件</button> <button class="filter-btn" data-filter="每週深度研究">每週深度研究</button> <button class="filter-btn" data-filter="英國報章">英國報章</button> <button class="filter-btn" data-filter="早晨簡報">早晨簡報</button> <button class="filter-btn" data-filter="大行報告">大行報告</button></div>
-<div class="toc" id="toc"><strong>目錄</strong>
-<div class="day"><a href="#day-2026-11-02">2026年11月2日（星期一）</a>：<a href="#day-2026-11-02-s0">X財經台</a> · <a href="#day-2026-11-02-s1">Threads</a> · <a href="#day-2026-11-02-s2">Facebook</a> · <a href="#day-2026-11-02-s3">Gmail股市信件</a> · <a href="#day-2026-11-02-s4">每週深度研究</a> · <a href="#day-2026-11-02-s5">英國報章</a> · <a href="#day-2026-11-02-s6">早晨簡報</a> · <a href="#day-2026-11-02-s7">大行報告</a></div>
-</div>
 <h2 id="day-2026-11-02">2026年11月2日（星期一）</h2>
 <section data-source="X財經台">
 <h3 id="day-2026-11-02-s0">X財經台</h3>
@@ -103,4 +95,4 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
 <article><div class="t"><a href="https://www.americanbankingnews.com/2026/11/02/skywest-nasdaqskyw-cut-to-hold-at-deutsche-bank-aktiengesellschaft.html" target="_blank" rel="noopener">德銀：SkyWest 降級</a></div><p>SkyWest（SKYW）由買入降至持有，目標價由 130 美元降至 105 美元。</p><div class="meta">來源：大行報告 · 大行新報告撮要</div></article>
 <article><div class="t"><a href="https://tradersunion.com/news/economic-data/show/4054589-hsbc-capital-outflow-limits-ringgit/" target="_blank" rel="noopener">滙豐：馬幣展望</a></div><p>資金外流限制馬幣升幅，料 2027 年兌美元徘徊喺 4.10 至 4.20。</p><div class="meta">來源：大行報告 · 大行新報告撮要</div></article>
 </section>
-<footer>最後更新：2026年11月02日 09:16（倫敦時間）。股價表、板塊資金流、財報數字表等數據類 briefing 唔入呢頁，淨係收新聞內容類摘要。</footer><script>function setFilter(src){document.querySelectorAll('.filter-btn').forEach(function(b){b.classList.toggle('active',b.dataset.filter===src);});document.querySelectorAll('section[data-source]').forEach(function(sec){sec.style.display=(src==='全部'||sec.dataset.source===src)?'':'none';});document.querySelectorAll('h2[id^="day-"]').forEach(function(h){var el=h.nextElementSibling,vis=false;while(el&&el.tagName!=='H2'){if(el.tagName==='SECTION'&&el.style.display!=='none'){vis=true;break;}el=el.nextElementSibling;}h.style.display=vis?'':'none';});var toc=document.getElementById('toc');if(toc){toc.style.display=(src==='全部')?'':'none';}}document.querySelectorAll('.filter-btn').forEach(function(b){b.addEventListener('click',function(){setFilter(b.dataset.filter);});});</script></body></html>
+<footer>最後更新：2026年11月02日 09:17（倫敦時間）。股價表、板塊資金流、財報數字表等數據類 briefing 唔入呢頁，淨係收新聞內容類摘要。</footer><script>function setFilter(src){document.querySelectorAll('.filter-btn').forEach(function(b){b.classList.toggle('active',b.dataset.filter===src);});document.querySelectorAll('section[data-source]').forEach(function(sec){sec.style.display=(src==='全部'||sec.dataset.source===src)?'':'none';});document.querySelectorAll('h2[id^="day-"]').forEach(function(h){var el=h.nextElementSibling,vis=false;while(el&&el.tagName!=='H2'){if(el.tagName==='SECTION'&&el.style.display!=='none'){vis=true;break;}el=el.nextElementSibling;}h.style.display=vis?'':'none';});}document.querySelectorAll('.filter-btn').forEach(function(b){b.addEventListener('click',function(){setFilter(b.dataset.filter);});});</script></body></html>

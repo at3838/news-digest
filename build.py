@@ -48,11 +48,6 @@ article .t a:hover{text-decoration:underline}
 article p{margin:4px 0;color:#333}
 .meta{font-size:17px;color:#888}
 .note{color:#666;background:#f6f6f6;padding:16px;border-radius:8px}
-.toc{background:#f6f6f6;padding:16px;border-radius:8px;margin-bottom:8px}
-.toc .day{margin-bottom:8px}
-.toc .day:last-child{margin-bottom:0}
-.toc a{color:#1a56db;text-decoration:none}
-.toc a:hover{text-decoration:underline}
 .filters{margin-bottom:16px}
 .filter-btn{font-size:18px;padding:8px 16px;margin:0 8px 8px 0;border:1px solid #999;border-radius:20px;background:#fff;cursor:pointer}
 .filter-btn.active{background:#222;color:#fff;border-color:#222}
@@ -88,17 +83,6 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
                 f'<button class="filter-btn" data-filter="{html.escape(src, quote=True)}">{html.escape(src)}</button>'
             )
         parts.append('<div class="filters"><strong>來源：</strong>' + " ".join(btns) + "</div>")
-        parts.append('<div class="toc" id="toc"><strong>目錄</strong>')
-        for day, groups in day_groups:
-            day_id = f"day-{day['date']}"
-            links = " · ".join(
-                f'<a href="#{day_id}-s{i}">{html.escape(src)}</a>'
-                for i, src in enumerate(groups)
-            )
-            parts.append(
-                f'<div class="day"><a href="#{day_id}">{html.escape(fmt_date(day["date"]))}</a>：{links}</div>'
-            )
-        parts.append("</div>")
     for day, groups in day_groups:
         day_id = f"day-{day['date']}"
         parts.append(f'<h2 id="{day_id}">{html.escape(fmt_date(day["date"]))}</h2>')
@@ -134,7 +118,6 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
         "document.querySelectorAll('h2[id^=\"day-\"]').forEach(function(h){var el=h.nextElementSibling,vis=false;"
         "while(el&&el.tagName!=='H2'){if(el.tagName==='SECTION'&&el.style.display!=='none'){vis=true;break;}el=el.nextElementSibling;}"
         "h.style.display=vis?'':'none';});"
-        "var toc=document.getElementById('toc');if(toc){toc.style.display=(src==='\u5168\u90e8')?'':'none';}"
         "}"
         "document.querySelectorAll('.filter-btn').forEach(function(b){b.addEventListener('click',function(){setFilter(b.dataset.filter);});});"
         "</script></body></html>"
