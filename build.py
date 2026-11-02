@@ -48,6 +48,11 @@ article .t a:hover{text-decoration:underline}
 article p{margin:4px 0;color:#333}
 .meta{font-size:15px;color:#888}
 .note{color:#666;background:#f6f6f6;padding:16px;border-radius:8px}
+.toc{background:#f6f6f6;padding:16px;border-radius:8px;margin-bottom:8px}
+.toc .day{margin-bottom:8px}
+.toc .day:last-child{margin-bottom:0}
+.toc a{color:#1a56db;text-decoration:none}
+.toc a:hover{text-decoration:underline}
 footer{margin-top:48px;font-size:15px;color:#999;border-top:1px solid #ddd;padding-top:12px}
 </style>
 </head>
@@ -61,14 +66,30 @@ footer{margin-top:48px;font-size:15px;color:#999;border-top:1px solid #ddd;paddi
             '<div class="note">由 2026 年 11 月 2 號起，WhatsApp 收到嘅新聞摘要會自動歸檔落呢度。'
             "朝早 briefing 送出之後，呢頁就會出現今日第一批內容。</div>"
         )
+    # group items by source per day first, so the directory and the body share it
+    day_groups = []
     for day in days:
-        parts.append(f"<h2>{html.escape(fmt_date(day['date']))}</h2>")
-        # group by source, preserving first-appearance order
         groups = {}
         for it in day.get("items", []):
             groups.setdefault(it.get("source", "其他"), []).append(it)
-        for source, items in groups.items():
-            parts.append(f"<h3>{html.escape(source)}</h3>")
+        day_groups.append((day, groups))
+    if day_groups:
+        parts.append('<div class="toc"><strong>目錄</strong>')
+        for day, groups in day_groups:
+            day_id = f"day-{day['date']}"
+            links = " · ".join(
+                f'<a href="#{day_id}-s{i}">{html.escape(src)}</a>'
+                for i, src in enumerate(groups)
+            )
+            parts.append(
+                f'<div class="day"><a href="#{day_id}">{html.escape(fmt_date(day["date"]))}</a>：{links}</div>'
+            )
+        parts.append("</div>")
+    for day, groups in day_groups:
+        day_id = f"day-{day['date']}"
+        parts.append(f'<h2 id="{day_id}">{html.escape(fmt_date(day["date"]))}</h2>')
+        for i, (source, items) in enumerate(groups.items()):
+            parts.append(f'<h3 id="{day_id}-s{i}">{html.escape(source)}</h3>')
             for it in items:
                 title = html.escape(it.get("title", ""))
                 summary = html.escape(it.get("summary", ""))
