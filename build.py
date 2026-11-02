@@ -53,6 +53,9 @@ article p{margin:4px 0;color:#333}
 .toc .day:last-child{margin-bottom:0}
 .toc a{color:#1a56db;text-decoration:none}
 .toc a:hover{text-decoration:underline}
+.filters{margin-bottom:16px}
+.filter-btn{font-size:18px;padding:8px 16px;margin:0 8px 8px 0;border:1px solid #999;border-radius:20px;background:#fff;cursor:pointer}
+.filter-btn.active{background:#222;color:#fff;border-color:#222}
 footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;padding-top:12px}
 </style>
 </head>
@@ -74,7 +77,18 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
             groups.setdefault(it.get("source", "其他"), []).append(it)
         day_groups.append((day, groups))
     if day_groups:
-        parts.append('<div class="toc"><strong>目錄</strong>')
+        seen = []
+        for _, groups in day_groups:
+            for src in groups:
+                if src not in seen:
+                    seen.append(src)
+        btns = ['<button class="filter-btn active" data-filter="全部">全部</button>']
+        for src in seen:
+            btns.append(
+                f'<button class="filter-btn" data-filter="{html.escape(src, quote=True)}">{html.escape(src)}</button>'
+            )
+        parts.append('<div class="filters"><strong>來源：</strong>' + " ".join(btns) + "</div>")
+        parts.append('<div class="toc" id="toc"><strong>目錄</strong>')
         for day, groups in day_groups:
             day_id = f"day-{day['date']}"
             links = " · ".join(
@@ -89,6 +103,7 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
         day_id = f"day-{day['date']}"
         parts.append(f'<h2 id="{day_id}">{html.escape(fmt_date(day["date"]))}</h2>')
         for i, (source, items) in enumerate(groups.items()):
+            parts.append(f'<section data-source="{html.escape(source, quote=True)}">')
             parts.append(f'<h3 id="{day_id}-s{i}">{html.escape(source)}</h3>')
             for it in items:
                 title = html.escape(it.get("title", ""))
@@ -107,10 +122,22 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
                     f"<p>{summary}</p>"
                     f"<div class=\"meta\">{' · '.join(meta_bits)}</div></article>"
                 )
+            parts.append("</section>")
 
     parts.append(
         f"<footer>最後更新：{updated}。股價表、板塊資金流、財報數字表等數據類 briefing 唔入呢頁，"
-        "淨係收新聞內容類摘要。</footer></body></html>"
+        "淨係收新聞內容類摘要。</footer>"
+        "<script>"
+        "function setFilter(src){"
+        "document.querySelectorAll('.filter-btn').forEach(function(b){b.classList.toggle('active',b.dataset.filter===src);});"
+        "document.querySelectorAll('section[data-source]').forEach(function(sec){sec.style.display=(src==='\u5168\u90e8'||sec.dataset.source===src)?'':'none';});"
+        "document.querySelectorAll('h2[id^=\"day-\"]').forEach(function(h){var el=h.nextElementSibling,vis=false;"
+        "while(el&&el.tagName!=='H2'){if(el.tagName==='SECTION'&&el.style.display!=='none'){vis=true;break;}el=el.nextElementSibling;}"
+        "h.style.display=vis?'':'none';});"
+        "var toc=document.getElementById('toc');if(toc){toc.style.display=(src==='\u5168\u90e8')?'':'none';}"
+        "}"
+        "document.querySelectorAll('.filter-btn').forEach(function(b){b.addEventListener('click',function(){setFilter(b.dataset.filter);});});"
+        "</script></body></html>"
     )
     return "\n".join(parts) + "\n"
 
