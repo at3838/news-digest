@@ -37,7 +37,7 @@ def render(data):
 <title>Andrew 的每日新聞摘要</title>
 <style>
 body{font-family:-apple-system,BlinkMacSystemFont,"PingFang HK","Microsoft JhengHei",sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px;color:#222;background:#fff;line-height:1.75;font-size:20px}
-h1{font-size:30px;margin-bottom:4px}
+h1{font-size:26px;margin-bottom:4px}
 .sub{color:#666;font-size:18px;margin-bottom:32px}
 h2{font-size:28px;border-top:2px solid #222;padding-top:16px;margin-top:40px}
 h3{font-size:22px;color:#444;margin:24px 0 8px}
