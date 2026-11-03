@@ -19,6 +19,12 @@ LONDON = ZoneInfo("Europe/London")
 
 WEEKDAY = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
 
+# 來源名歸一：同步嗰陣來源名偶爾差一個空格，頁面分組係按字串精確分，
+# 唔歸一就會同一個來源出兩個掣。key 係舊寫法，value 係正名（跟 SYNC.md 入選表）。
+SOURCE_ALIASES = {
+    "Gmail股市信件": "Gmail 股市信件",
+}
+
 
 def fmt_date(date_str):
     y, m, d = (int(p) for p in date_str.split("-"))
@@ -72,7 +78,8 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
     for day in days:
         groups = {}
         for it in day.get("items", []):
-            groups.setdefault(it.get("source", "其他"), []).append(it)
+            src = SOURCE_ALIASES.get(it.get("source", "其他"), it.get("source", "其他"))
+            groups.setdefault(src, []).append(it)
         # within a group: newest briefing first (stable, so equal times keep
         # briefing order); groups: newest latest-item time first.
         # Missing time sorts last ("00:00").

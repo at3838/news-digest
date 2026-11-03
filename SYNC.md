@@ -28,6 +28,9 @@ WhatsApp 一收到新聞，頁面 15 分鐘內就出到；冇新 briefing 嘅轉
   尾加「（時間約數）」註明）。
 - 去重：同一日＋同一來源＋同一 URL 已經有就唔再入；冇 URL 嘅就用同一日＋
   同一來源＋同一標題去重。
+- 來源名要跟上面入選表一字不差（例如 Gmail 一律寫「Gmail 股市信件」，
+  有空格）；舊寫法（冇空格嗰個）由 build.py 嘅 SOURCE_ALIASES 自動歸一，
+  但新入嘅一律用正名，唔好再靠歸一。
 - 成功就靜音（唔使向任何 chat 報告）；失敗先向 main chat 報告邊一步失敗、
   失敗前做到邊，唔好重複 push 同一批內容。
 
@@ -79,3 +82,8 @@ BA 查價、天氣換衫、任何非新聞嘅系統訊息。
    `news digest sync 2026-11-02 morning`），git push。
 6. curl 驗證公開頁返 200 同埋有新日期嗰節，唔得就先唔好報成功，
    睇下係 Pages 傳播延遲（隔幾分鐘再驗）定真係 push 失敗。
+
+## 親手同步規則（2026-11-02 Andrew 決定）
+- 助手喺 WhatsApp 親手送出 briefing 嗰陣，順手將該 briefing 嘅 item 入 news.json、行 build.py、git commit＋push，唔使等 15 分鐘嗰轉。
+- 每次親手同步都要將 .sync-state.json 嘅 watermark 推到該 briefing 送達時間之後，等 15 分鐘嗰支同步唔會重複入多次。
+- 15 分鐘同步 cron 留返做後備：萬一邊轉漏咗親手同步，佢會補返。
