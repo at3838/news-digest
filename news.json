@@ -1523,6 +1523,51 @@
           "summary": "VICI Properties 同 EPR Properties 雙雙上調全年展望，文章介紹兩間公司上調展望嘅背景。",
           "url": "https://www.fool.com/investing/2026/11/03/2-high-yield-dividend-stocks-that-just-raised-their-guidance/",
           "time": "19:30"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "人工智能股大洗倉，算力股由高位跌約六成",
+          "summary": "連大型科企都跌超過一成，基金大手減倉係 2016 年以來最勁一次，不過歷史上中期選舉前後洗倉之後，股市之後幾個月多數反彈。",
+          "url": "https://benemons.substack.com/p/ai-washout",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "中午市況窄幅偏好，芯片股帶住大市行",
+          "summary": "NVDA 一日成交超過 83 億美元，AMD 喺業績前升超過 5%，但標普仍然企喺 21 日平均線之下，新低股數目仲多過新高。",
+          "url": "https://confluencetradingtools.substack.com/p/ctt-ai-analyst-midday-briefing-nov-e4c",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Anthropic 入紙準備上市，傳聞估值高達 2 萬億美元",
+          "summary": "大股東 Blackstone 預期上市後信貸評級可能去到垃圾級高位，反映人工智能燒錢建算力嘅融資成本壓力愈來愈大。",
+          "url": "https://sergioiker.substack.com/p/the-digital-pulse-november-3-2026",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "機器經濟早報：OpenAI 提議電網緊張時減算力中心用電",
+          "summary": "Salesforce 買入語音代理業務，人形機械人公司 Agility 獲股東通過上市合併，預計 11 月 5 號開始交易。",
+          "url": "https://macromachinemandate.substack.com/p/mx3-morning-intelligence-brief-03",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "科技股調整討論：而家係咪近見底",
+          "summary": "科技板塊而家明顯回落，市場正諗緊係咪近見底，重點睇住 AAPL、PLTR 同槓桿 ETF 嘅波動風險。",
+          "url": "https://dailystockpick.substack.com/p/tuesday-office-hours-is-tech-near",
+          "time": "21:30"
         }
       ]
     },
