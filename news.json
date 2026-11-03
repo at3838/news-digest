@@ -308,6 +308,78 @@
           "summary": "AI 极客新闻：多鏡頭都記得住場景。",
           "url": "https://www.threads.com/@aigeeknews/post/DfRK4uXiUTA",
           "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Facebook",
+          "briefing": "Facebook 美股＋AI 摘要（朝早）",
+          "title": "道指升、納指跌，市場追問科技投入幾時回本",
+          "summary": "金融獵豹：道指升咗二百幾點、標普七成成分股上升，但納指跌超過百分之一、半導體指數跌超過百分之三，市場開始追問科技股投入咁多錢幾時先收得返。",
+          "url": "https://facebook.com/100063940294909/posts/pfbid0PtST9FUFcC577XKw6igBwnTutdrUXekBhdpqEtS9Y8g2NQioUvahRrcbzPcbyuWel/",
+          "time": "07:12"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Facebook",
+          "briefing": "Facebook 美股＋AI 摘要（朝早）",
+          "title": "Meta 傳再發至少 200 億美元債應付 AI 開支",
+          "summary": "老墨 Mofi：彭博話 Meta 上星期先為新股定價，跟住又打算發至少二百億美元公司債去應付 AI 資料中心同買晶片嘅開支，仲要留意最後要開幾多利息先借得到錢。",
+          "url": "https://facebook.com/100064002820759/posts/pfbid04E4stzXbaJy6krLTGDCNmwfekhfGuVZ1RxxkBJMpK8F5Fsw6eLvfQYx8Tso3Gsf5l/",
+          "time": "07:12"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Facebook",
+          "briefing": "Facebook 美股＋AI 摘要（朝早）",
+          "title": "預訓練資料落少少毒就可喺代理程式植入後門",
+          "summary": "Dennysora 空羽ノ境：研究話只要喺預訓練資料入面落少少毒，就可以喺代理程式入面植入後門，令佢喺特定情況下執行惡意指令，模型規模愈大成功率愈高。",
+          "url": "https://facebook.com/groups/gaitech/permalink/1828586694992204/",
+          "time": "07:12"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Facebook",
+          "briefing": "Facebook 美股＋AI 摘要（朝早）",
+          "title": "MIT 研究：直接改模型權重有機會慳大量算力",
+          "summary": "哈利說：MIT 最新研究講緊直接改模型權重嘅方法，有機會慳返大量訓練算力，成個 AI 圈都喺度討論緊。",
+          "url": "https://facebook.com/reel/1136309945522344/",
+          "time": "07:12"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Facebook",
+          "briefing": "Facebook 美股＋AI 摘要（朝早）",
+          "title": "Anthropic 增長大幅放緩，撞正 AI 上游硬件回調",
+          "summary": "Cfo講年報：Anthropic 增長大幅放緩，仲要撞正 AI 上游硬件板塊大幅回調嗰陣，值得留意。",
+          "url": "https://facebook.com/100064026915507/posts/pfbid02GbFRJgyQkCCVuBgnZ4kwnBNZ8LVEDrfCoLLjSi7hL6Nb7HLBtUGM6E5fejG8PVvCl/",
+          "time": "07:12"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Facebook",
+          "briefing": "Facebook 美股＋AI 摘要（朝早）",
+          "title": "用 AI 檢查 Google Maps 存低地點，近百間已結業",
+          "summary": "一股GoodJob：作者用 AI 幫手檢查自己喺 Google Maps 存低嘅地點，發現差唔多一百間已經永久歇業，仲可以直接將網上清單文嘅餐廳連推薦理由一齊存入地圖。",
+          "url": "https://facebook.com/61564031484220/posts/pfbid02pnrN5kLQdZjCxAVwNZPB4nFZtFYi71rbUiFHNw45UvXxaidURAX34hkggg1R9Harl/",
+          "time": "07:12"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Facebook",
+          "briefing": "Facebook 美股＋AI 摘要（朝早）",
+          "title": "AI 製片成為職場新趨勢，一個人低成本拍大片",
+          "summary": "HK 港生活：AI 製片成為職場新趨勢，一個人都可以低成本拍大片，劇本、生成、配音同剪輯一次過學齊。",
+          "url": "https://facebook.com/100064719244865/posts/pfbid028eiBTGtuekqtcU4rLU6AZGRnW1WCnPEZh8U2eSXwVptaUM9BzBq6AQKAqvJBP4gul/",
+          "time": "07:12"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Facebook",
+          "briefing": "Facebook 美股＋AI 摘要（朝早）",
+          "title": "Hugging Face Transformers：開源模型背後嘅統一框架",
+          "summary": "Chris Porter：Hugging Face 嘅 Transformers 框架係好多開源 AI 模型背後嘅模型定義框架，可以用同一個介面載入、微調同運行文字、影像、聲音同多模態模型。",
+          "url": "https://facebook.com/groups/vibecodingforbeginners/permalink/1660636825618215/",
+          "time": "07:12"
         }
       ]
     },
