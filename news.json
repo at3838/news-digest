@@ -1370,6 +1370,69 @@
           "summary": "引述美銀講法，德州呢場選舉係今個周期對數據中心、公用事業同電力最關鍵嘅一場；接駁申請接近九成係數據中心項目。",
           "url": "https://x.com/Jason/status/2117660861951295995",
           "time": "19:00"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚）",
+          "title": "The Financial Diet：住喺父母屋企、冇儲蓄、欠債，係咪應該申請破產？",
+          "summary": "個案欠債約 5 萬美元；破產係嚴重法律步驟，唔係快速重啟，申請前要先做全面債務審核，善用免租期先儲小額應急錢再還最高息債務。",
+          "url": "https://www.youtube.com/watch?v=VOrJaJzK-MM",
+          "time": "19:00"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚）",
+          "title": "Meet Kevin：特朗普接受伊朗協議框架，市場去到科網泡沫崩盤位？",
+          "summary": "據調解團隊消息人士講美國接受咗經卡塔爾交俾伊朗嘅諒解備忘錄草案；油價五日由約 117 跌到 102 美元；納指 100 出現 250 個交易日以來首次負 1.5 個標準差一日，但技術上未算崩盤。",
+          "url": "https://www.youtube.com/watch?v=uEAn9TO6aew",
+          "time": "19:00"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚）",
+          "title": "Unusual Whales：早期 AMD 同 Palantir 投資者 Antonio Linares 下一個大注",
+          "summary": "下一個大注係 Duolingo（未來超人 AI 老師）同 Hims & Hers（未來超人 AI 醫生）；論點核心係專有數據先係 21 世紀護城河；Hims 2030 年內在價值目標 2,000 美元一股。",
+          "url": "https://www.youtube.com/watch?v=3dPQl2L-TMM",
+          "time": "19:00"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚）",
+          "title": "London Real：Bill Browder 講一條法律點樣凍結普京啲錢",
+          "summary": "馬格尼茨基法案針對個人凍結資產同禁簽證，唔係全面貿易禁令；凍結咗俄羅斯央行儲備約 3,500 億美元加寡頭約 400 至 500 億美元；Browder 話西方俾咗普京 22 年通行證係最大失誤。",
+          "url": "https://www.youtube.com/watch?v=304U-pQTa_E",
+          "time": "19:00"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚）",
+          "title": "Rob Berger：中期選舉、戰爭、AI 陰霾之下點樣繼續投資？",
+          "summary": "核心係持有廣泛低成本全球分散指數組合捱過一切，假設每 10 至 20 年會跌五成；與其預測跌市原因，不如預先處理可控弱點，尤其係債務。",
+          "url": "https://www.youtube.com/watch?v=KXqhI42TrGw",
+          "time": "19:00"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "pjfp",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚）",
+          "title": "SemiAnalysis GDPx：點解最強 AI 模型做真實工作只得 12 分",
+          "summary": "206 個專家設計任務、11 個高價值領域，最強模型 Claude Opus 5.5 只得 12%；金融任務用真實私募交易 4,000 份文件做測試，除咗 Gemini 4 Carbon 做啱一題之外全部零分，輸在盡職審查唔夠細心。",
+          "url": "https://pjfp.com/semianalysis-gdpx-benchmark-best-model-scores-12-percent/",
+          "time": "19:00"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "pjfp",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚）",
+          "title": "DeepSeek Super-agent：點解重點係 harness 而唔係模型",
+          "summary": "一個長駐 Router 加多個獨立 Worker，全部由插件組成；同一個模型用唔同 harness 分數同成本可以差好遠；但保安問題未解決，原型文件講明執行 session 唔使批准就用操作員身份行命令。",
+          "url": "https://pjfp.com/deepseek-super-agent-harness-router-workers/",
+          "time": "19:00"
         }
       ]
     },
