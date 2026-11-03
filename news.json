@@ -227,6 +227,87 @@
           "summary": "ARK 每日交易披露：ARKK、ARKW、ARKF 齊買 Coinbase 同 Circle，ARKK 另買 Twist、PacBio，沽 Bullish 同 Tempus；ARKG 買 Illumina、Kymera 等，沽 CareDx，大手沽 Personalos 逾 34 萬股，佔基金 0.24%。",
           "url": null,
           "time": "07:15"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "北韓否認盜走 Binance 約 63 億美元",
+          "summary": "WhaleAgent：金正恩胞妹金與正透過朝中社發聲明，形容美國指控係荒謬說辭，亦係嚴重政治挑釁；FBI 早前將案件歸咎北韓黑客組織 TraderTraitor。",
+          "url": "https://www.threads.com/@whaleagent/post/DfRRvyRkzTn",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "初創 Trajectory 完成 4500 萬美元 A 輪融資",
+          "summary": "WhaleAgent：Trajectory 估值 3 億美元，平台俾律師同醫生自己訓練 AI 模型，唔使先請研究員。",
+          "url": "https://www.threads.com/@whaleagent/post/DfRQCEWE32d",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "DeepSeek 代理工具推出 Creator Mode",
+          "summary": "WhaleAgent：用文字描述需要就可以生成到安裝得用嘅插件。",
+          "url": "https://www.threads.com/@whaleagent/post/DfROUCJE1XX",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "OpenAI Codex 寫碼太快拖垮自家存碼系統",
+          "summary": "WhaleAgent：最後由 Codex 參與重建新後端，推送延遲減咗約八成。",
+          "url": "https://www.threads.com/@whaleagent/post/DfRMmFLE0-C",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "Anthropic 面試最後一關問股價歸零點諗",
+          "summary": "Fomo研究院：Anthropic 面試最後一關問應徵者，如果公司為咗安全放棄 AI 研發、股價歸零會點諗，正常答案反而大概率會被刷走。",
+          "url": "https://www.threads.com/@fomo_soc/post/DfRNcyWGQ9H",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "MIT 研究：直接調整模型權重可能慳大量算力",
+          "summary": "哈利說：MIT 最新研究話直接調整模型權重可能慳返大量訓練算力，成個 AI 圈都喺度討論。",
+          "url": "https://www.threads.com/@harryspeaks_/post/DfRCTA9lRv9",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "EXZA-Remote 俾模型遠程操作電腦",
+          "summary": "AI 极客新闻：EXZA-Remote 自托管又有權限控制。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfRIl6ZiYtD",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "EVOLV 工作區運行中自己改寫界面同插件",
+          "summary": "AI 极客新闻：EVOLV 單一程式本地跑到。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfRIeJaCZnA",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-03",
+          "source": "Threads",
+          "briefing": "Threads 美股＋AI 摘要（朝早）",
+          "title": "MiniMax H3 喺 ComfyUI 做時間線",
+          "summary": "AI 极客新闻：多鏡頭都記得住場景。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfRK4uXiUTA",
+          "time": "07:10"
         }
       ]
     },
