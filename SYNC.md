@@ -44,6 +44,10 @@ WhatsApp 一收到新聞，頁面 15 分鐘內就出到；冇新 briefing 嘅轉
 - X財經台（朝早／夜晚）
 - TradingView 新聞摘要（中午／夜晚）
 - 大行新報告撮要
+- Motley Fool 美股＋AI 文章（直接由 fool.com investing-news 列表頁入檔，
+  唔經 WhatsApp；script：~/workspace/news-digest/fetch_fool.py，每日倫敦
+  07:30＋19:30 各一轉，每轉最多 10 則；去重靠同一來源＋同一 URL，
+  唔好掂 .sync-state.json）
 - FT／FinGuider／Finimize／WSJ 即時推送（每篇獨立文章當一則）
 - Gmail 股市信件每日摘要（每封信／每主題當一則；太長就撮做一至兩句）
 - 美股老司機新一期（Terry Cheng，每期一則）
