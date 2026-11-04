@@ -218,6 +218,78 @@
      "summary": "SemiAnalysis 導讀指 SpaceX 正朝全球最大 AI 雲進發，13GW 規模一年半內成真，正文要付費先睇到全文。",
      "url": null,
      "time": "07:15"
+    },
+    {
+     "date": "2026-11-04",
+     "source": "X財經台",
+     "briefing": "X財經台（朝早）",
+     "title": "民主黨中期選舉大勝，科技／AI 股受壓",
+     "summary": "ZeroHedge 帖文指民主黨中期選舉大勝，科技同 AI 股下跌，特朗普推卸責任；帖文正文喺未登入 profile 睇唔到，只見標題同市場反應。",
+     "url": "https://x.com/zerohedge",
+     "time": "07:25"
+    },
+    {
+     "date": "2026-11-04",
+     "source": "X財經台",
+     "briefing": "X財經台（朝早）",
+     "title": "El-Erian：經濟係選民首要議題，主因係負擔能力",
+     "summary": "Mohamed El-Erian 帖文指多項指標確認經濟係中期選舉選民首要議題，入面主因係負擔能力，油價仍然係焦點。",
+     "url": "https://x.com/elerianm",
+     "time": "07:25"
+    },
+    {
+     "date": "2026-11-04",
+     "source": "X財經台",
+     "briefing": "X財經台（朝早）",
+     "title": "Chamath：太空經濟私人投資由 2012 年 5 億美元升到 2025 年 170 億美元",
+     "summary": "Chamath Palihapitiya 深挖太空經濟價值歸屬，引述 BlackRock 2026 年 7 月數據，私人投資由 2012 年 5 億美元升到 2025 年 170 億美元。",
+     "url": "https://x.com/chamath",
+     "time": "07:25"
+    },
+    {
+     "date": "2026-11-04",
+     "source": "X財經台",
+     "briefing": "X財經台（朝早）",
+     "title": "Oracle 取消同騰訊價值 70 億美元嘅晶片租賃交易",
+     "summary": "ZeroHedge 引述 FT，Oracle 取消同騰訊價值 70 億美元嘅晶片租賃交易；FT／路透社補充，交易本來係五年期、約十萬隻先進 AI 晶片、東南亞多個數據中心，美國官員曾向 Oracle 表達關注。",
+     "url": "https://x.com/zerohedge",
+     "time": "07:25"
+    },
+    {
+     "date": "2026-11-04",
+     "source": "X財經台",
+     "briefing": "X財經台（朝早）",
+     "title": "SemiAnalysis：AI 開支多數去工程，基板良率由四至六成升到 95% 影響好大",
+     "summary": "TBPN 節目 clip，SemiAnalysis Dylan Patel 指硬科學 AI 開支多數去工程，包括跑模型、調校、數據管道同吞吐／延遲，唔係發現；基板良率由約 40 至 60% 起步，升到 95% 影響好大。",
+     "url": "https://x.com/tbpn",
+     "time": "07:25"
+    },
+    {
+     "date": "2026-11-04",
+     "source": "X財經台",
+     "briefing": "X財經台（朝早）",
+     "title": "SemiAnalysis：前沿模型令材料科學假設測試快 10 至 100 倍",
+     "summary": "TBPN 節目 clip，SemiAnalysis Andrew Megalaa 講 GDPx 模型合作，材料科學博士用前沿模型快 10 至 100 倍測試假設，關鍵係模型本身超越舊有最佳水平，成本約 750 億美元。",
+     "url": "https://x.com/tbpn",
+     "time": "07:25"
+    },
+    {
+     "date": "2026-11-04",
+     "source": "X財經台",
+     "briefing": "X財經台（朝早）",
+     "title": "SemiAnalysis：頭一萬億 AI 開支留喺數據中心同供應鏈",
+     "summary": "TBPN 節目 clip，Dylan Patel 指頭一萬億 AI 開支唔會用嚟取代白領，留喺數據中心同供應鏈；前沿模型訓練／基建規模約 150 億美元對 10 年，吉瓦級建設約 4000 億美元。",
+     "url": "https://x.com/tbpn",
+     "time": "07:25"
+    },
+    {
+     "date": "2026-11-04",
+     "source": "X財經台",
+     "briefing": "X財經台（朝早）",
+     "title": "SemiAnalysis：Musk 點解限制 Grok 用量，SpaceX 變 neocloud",
+     "summary": "TBPN 節目 clip，Dylan Patel 講 Musk 限制 Grok Bot 用量嘅原因：SpaceX 變 neocloud 起大量算力，賬面約 800 億美元現金、約 200 億美元火箭、約 600 億美元算力，另籌約 400 億美元，13 吉瓦目標要 4000 億美元以上；現貨 GPU 約 15 美元一小時，對成本約 4 美元一小時。",
+     "url": "https://x.com/tbpn",
+     "time": "07:25"
     }
    ]
   },
