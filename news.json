@@ -929,6 +929,87 @@
           "summary": "晶片股拋售加劇，投資者評估「藍潮」對特朗普政府偏好行業嘅影響。科技股為主嘅納指開市後一小時跌 5%，Nvidia 股價急跌到六個月盤中低位。",
           "url": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c",
           "time": "15:57"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "道指中期選舉後勁彈 3%，AI 股冇份升",
+          "summary": "道指喺中期選舉之後勁彈 3%，不過 AI 股今次冇份升，資金轉去傳統板塊。",
+          "url": "https://www.tradingview.com/news/tradingview:37b6b717a094b:0-dji-dow-jones-jumps-3-in-stunning-post-election-turnaround-ai-stocks-miss-out/",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "Figma 出業績後跌 5%，AI 增長伴隨更大開支",
+          "summary": "Figma 出完業績跌 5%，AI 業務增長係快咗，但燒錢都多咗。",
+          "url": "https://www.tradingview.com/news/tradingview:f24ba18ee094b:0-fig-figma-stock-slides-5-after-earnings-as-ai-growth-comes-with-a-bigger-bill/",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "比特幣一日跌 6% 至七週低位",
+          "summary": "比特幣一日跌 6%，去到七週低位，美股抹走晒選舉後嘅升幅。",
+          "url": "https://www.tradingview.com/news/cointelegraph:19319652a094b:0-bitcoin-crashes-6-to-7-week-low-as-us-stocks-erase-election-gains/",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "24 小時 6.31 億美元加密槓桿多倉被清算",
+          "summary": "過去 24 小時有 6.31 億美元加密槓桿多倉俾人清算，槓桿又再出事。",
+          "url": "https://www.tradingview.com/news/cryptobriefing:dc0a6bb0c094b:0-631m-in-crypto-longs-liquidated-in-24-hours-as-leverage-bites-again/",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "波蘭央行：黃金儲備破 700 噸後仍可再買",
+          "summary": "波蘭央行行長話，黃金儲備啱啱衝破 700 噸目標之後，仲可以繼續買多啲。",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46M29V:0-poland-central-bank-chief-leaves-door-open-to-more-gold-buying-after-hitting-700-ton-target/",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "希臘國會通過向加密貨幣收益徵收 10% 稅",
+          "summary": "希臘國會通過向加密貨幣收益徵收 10% 稅，加密市場監管又收緊多一步。",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L5N46M1ZM:0-greek-parliament-approves-10-tax-on-cryptocurrency-gains/",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "Ondo Finance 成全球最大代幣化平台",
+          "summary": "Ondo Finance 成為全球最大代幣化平台，代幣化資產超過 40 億美元。",
+          "url": "https://www.tradingview.com/news/chainwire:23ca944e7094b:0-ondo-finance-becomes-world-s-largest-tokenization-platform/",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "富國維持 Circle 增持，目標價削至 101 美元",
+          "summary": "富國銀行維持 Circle 增持評級，不過目標價由 115 美元削到 101 美元。",
+          "url": "https://www.tradingview.com/news/tradingview:16901be627aa0:0-wells-fargo-maintains-circle-internet-group-at-overweight-lowers-price-target-to-101-from-115/",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "TradingView",
+          "briefing": "TradingView 新聞摘要（中午）",
+          "title": "StoneX 將 Hut 8 目標價由 195 美元削至 165 美元",
+          "summary": "StoneX 將 Hut 8 目標價由 195 美元大削到 165 美元，加密採礦股受壓。",
+          "url": "https://www.tradingview.com/news/DJN_DN20261105016068:0-hut-8-price-target-cut-to-165-00-share-from-195-00-by-stonex/",
+          "time": "17:00"
         }
       ]
     },
