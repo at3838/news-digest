@@ -1,6 +1,749 @@
 {
   "days": [
     {
+      "date": "2026-11-05",
+      "items": [
+        {
+          "date": "2026-11-05",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報",
+          "title": "英國同意就奴隸制歷史傷害展開有時限談判，Burnham 留低正式道歉空間",
+          "summary": "英國同意同英聯邦國家就跨大西洋奴隸貿易嘅歷史傷害展開有結構、有時限嘅對話，首相 Burnham 留低正式道歉空間但排除直接賠償，另撥 4000 萬鎊（三年）支援加勒比基建。",
+          "url": "https://www.glasgowtimes.co.uk/news/national/26700493.uk-agrees-time-bound-talks-historical-harms-slave-trade/",
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報",
+          "title": "俄軍空襲烏克蘭援助中心，死亡人數升至 40",
+          "summary": "俄軍星期一轟炸扎波羅熱地區一個派發援助物資嘅學校建築，死亡人數升至 40，仲有 30 幾人可能埋喺瓦礫下面，澤連斯基話係瘋狂襲擊。",
+          "url": "https://aapnews.aap.com.au/news/dozens-dead-as-russia-strikes-ukraine-aid-centre",
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報",
+          "title": "澳洲 F1 世界冠軍 Alan Jones 逝世，享年 80 歲",
+          "summary": "1980 年 F1 世界冠軍 Alan Jones 短病後逝世，享年 80 歲，啱啱先慶祝完 80 歲生日；佢係繼 Jack Brabham 之後第二位澳洲世界冠軍。",
+          "url": "https://www.reuters.com/sports/formula1/australian-f1-world-champion-alan-jones-dies-aged-80-2026-11-05/",
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報",
+          "title": "英倫銀行今日議息，市場預期加息至 4%",
+          "summary": "英倫銀行今日中午 12 點議息，市場普遍預期加息 0.25 厘至 4%，係三年幾嚟首次加息；英國 9 月 CPI 已升至 3.5%。",
+          "url": "https://gianlucabenigno.substack.com/p/uk-september-26-cpi-inflation-report",
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "歐盟開會傾烏克蘭戰後重建，摩爾多瓦或 2028 年初入盟",
+          "summary": "歐盟委員會星期三喺布魯塞爾主持烏克蘭戰後重建會議，烏克蘭、德法英美、北約同世界銀行都有份；歐盟話自開戰以來已提供 2315 億歐元援助，摩爾多瓦可能 2028 年初入盟、烏克蘭 2028 年底。",
+          "url": "https://agenceurope.eu/en/bulletin/article/13975/33/eu-and-partners-discuss-ukraines-reconstruction-and-prosperity",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "默茨見澤連斯基，承諾再加冬季援助，19 號主持自願聯盟峰會",
+          "summary": "德國總理默茨星期二喺柏林見澤連斯基，承諾再加冬季、能源同防空援助，11 月 19 號喺柏林主持自願聯盟峰會；美國下星期 10–11 號喺阿布扎比安排烏俄代表團會談。",
+          "url": "https://finchannel.com/germany-pledges-winter-support-for-ukraine-as-berlin-pushes-security-guarantees-before-abu-dhabi-talks/140474/world-2/2026/11/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "英法帶頭歐洲部隊下星期喺波蘭軍演，為戰後駐烏任務做準備",
+          "summary": "英法帶頭嘅多國部隊 11 月 9–22 號喺波蘭軍演，約 2800 人，為戰後駐烏克蘭任務做準備；俄羅斯已表明會視外國部隊為軍事目標。",
+          "url": "https://nexuseuropa.eu/en/article/european-troops-in-ukraine-can-a-uk-france-led-force-succeed-without-us-support",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "英倫銀行今日議息，預期加息至 4%，三年幾首次",
+          "summary": "英倫銀行今日中午 12 點議息，預期加息 0.25 厘至 4%，係 2023 年 8 月以來首次加息；追蹤按揭每月加約 31 鎊，貝利 12 點半開記者會。",
+          "url": "https://www.main-currents.news/stories/2026/11/05/the-bank-of-england-is-expecte",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "sflab 質疑「東升西降」講法",
+          "summary": "sflab 話拜登年代民主黨上場，對中國都冇俾過咩好面色，質疑「東升西降」呢個講法。",
+          "url": "https://www.threads.com/@sflab/post/DfWV_HvEXwx",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "WhaleStock 睇 2027 美股爆破，轉去 MCD、KO",
+          "summary": "WhaleStock 話自己觀察 2027 年美股九成會爆破，提早轉去非必須消費品例如 MCD、KO，熊市前仲有最後一升。",
+          "url": "https://www.threads.com/@whalestock.invest/post/DfWQwtlE1U9",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "sflab 揸住半導體叫苦",
+          "summary": "sflab 話自己揸緊半導體，配合星期三晶片股大跌，叫苦連天。",
+          "url": "https://www.threads.com/@sflab/post/DfWFFFXDi5s",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "哈利說：AI 資料中心耗水耗電係假議題",
+          "summary": "哈利說話 AI 資料中心耗水同電費影響其實係假議題，「好耗水」呢個講法最初嚟自一篇錯誤報告，連原作者都認錯，但民眾對 AI 嘅負面情緒之下，事實根本唔重要。",
+          "url": "https://www.threads.com/@harryspeaks_/post/DfWGaKWmX6v",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Samuel Cheng：藍潮贏家係超大型科技，輸家係 AI 基建鏈",
+          "summary": "Samuel Cheng 話道指星期三升 1569 點、3%，係史上第五大單日點數升幅；贏家係超大型科技重估，MSFT 升 6.7%、AMZN 升 6.1%、AAPL 升 5.3%，Mag 7 單日加 5940 億美元市值。輸家係 AI 基建鏈，德州、俄亥俄、喬治亞州長落入民主黨手，45 項限制數據中心地方公投 33 項通過，NVDA 跌 3.2%、MU 跌 7%、CRWV 跌 9.9%。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "大叔：國防預算三條管道，3500 億調和款最關鍵",
+          "summary": "大叔話 FY2027 1.5 兆美元國防預算分三條管道：基本預算約 1.15 兆相對穩；預算調和約 3500 億係金穹同次世代無人系統核心財源，民主黨唔推動就落唔到地；伊朗戰爭補充 876 億面臨嚴格審查。金穹短期有緩衝，但 FY2027 要 175 至 179 億，當中 97% 靠調和。AVAV 敏感度中低，KTOS 中等，RCAT 同 ONDS 中高。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "不預測漲跌：美光 5 億美元係借款，唔係環球晶營收",
+          "summary": "美光要認購環球晶最多 5 億美元可轉債，另規劃 10 年晶圓長約。作者話 5 億係借款，轉換前算負債，唔會變營收；真正營收係長約，估十年平均一年約新台幣 33 至 73 億元，最快 2027 年入賬，要等 12 月 21 日臨時股東會表決。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "G2AI：Groq 同 Cerebras 都轉向 3D 堆疊 DRAM",
+          "summary": "Groq 下代 LPU 據報考慮 3D 堆疊 DRAM 取代加大 SRAM；Cerebras 話 CS-6 會配晶圓 SRAM 加 3D 堆�叠 DRAM。兩間 SRAM 優先嘅推理公司都轉向垂直 DRAM，樽頸係容量唔係速度。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "TMT：APP 升 22%、QCOM 毛利率連跌四季、COHR 攞到 200 億長約",
+          "summary": "TMT post-call：APP 升 22.2%，遊戲業務年增近 50%，Q4 指引勝預期；QCOM 跌 6.9%，汽車收入 19.9 億年增 89% 創新高，但毛利率連跌四季至 52.4%，Q4 EPS 指引差過市場；COHR 升 7.6%，攞到五年 200 億美元 PhotonLink 長約；HUBS 跌 7.7%，Q4 指引差過預期，AI 改變客戶搵軟件嘅方式。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "HFI：預測到民主黨大勝，但估錯油市反應",
+          "summary": "HFI 話自己預測到民主黨大勝，仲喺 Robinhood 落注，但完全估錯油市反應：市場以為民主黨會逼出伊朗外交解決方案，油價暴跌。HFI 話市場諗錯咗，伊朗用荷姆茲海峽影響美國選舉，美國唔會俾伊朗話事，實質變化唔會有。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "美股送分題：民主黨會唔會真係拖慢 AI 建設",
+          "summary": "美股送分題話市場為未落地嘅政策風險定價，邏輯係民主黨想暫停新數據中心批核，要不斷起新機房嘅公司受壓，本身有算力嘅雲廠受惠；真正要擔心嘅係電網、水資源同成本由邊個埋單，佢用三種情境加組合壓力測試判斷邊啲係錯殺。",
+          "url": "https://facebook.com/61565422452677/posts/pfbid036xkRuxvCzQ8NSsruw7dBb5Sak8THXFuF8QgpBZRcXfpAt6nS6nN4x1rsGj4F8QaTl/",
+          "time": "07:20"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Yu Sir：科技股升勢邏輯係雲巨頭現金流增加",
+          "summary": "Yu Sir 話星期三美股集中升巨頭科技股，邏輯係民主黨可能暫緩 AI 數據中心發展，市場認為雲巨頭自由現金流增加，利好短期盈利，卻不利硬體股同 Neo Cloud；長期嚟講 AI 算力需求仍然超過供給。",
+          "url": "https://facebook.com/100063737808601/posts/pfbid0n9rH7W8X6fBDHgs1ijGgJrL8ehZEV3f7aFCgBSy6MntVAua48dT3w7FHsCHt1Xenl/",
+          "time": "07:20"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Yu Sir：Intel 執行長家族信託買入 971 萬美元自家股票",
+          "summary": "新 SEC 文件披露，Intel 執行長透過家族信託以每股 64.7 美元買入價值 971 萬美元嘅英特爾股票，作者話係相當大嘅信心投票。",
+          "url": "https://facebook.com/100063737808601/posts/pfbid02kH5NNRWq1S7os2PwKbVcw8XfiMNcY5ALhQParRrwNFdmPNosYxyCVtxWbVUZXsvrl/",
+          "time": "07:20"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "美股追夢路：QCOM、APP、MELI、ARM 財報日報",
+          "summary": "美股追夢路整理四間財報：QCOM 調整後 EPS 2.17 美元勝預期，但指引偏軟，盤後跌約 6 至 7%；APP 調整後 EPS 4.30 美元、營收 21.8 億美元都勝預期，Q4 指引高過預期，盤後升 22%；MELI EPS 8.83 美元差過預期，盤後跌約 6%；ARM 調整後 EPS 0.52 美元勝預期，盤後跌約 2%。",
+          "url": "https://facebook.com/61573395335523/posts/pfbid0FAaaJCTUvHcubXvTiNbukdQJNdubbqpHTN8sv1w8vw3AA427wt1fJqUQf5yqp4HVl/",
+          "time": "07:20"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Maple Kuo：Cat Wu 由 Anthropic 跳槽去 OpenAI",
+          "summary": "Maple Kuo 話 Cat Wu 由 Anthropic 跳槽去 OpenAI。",
+          "url": "https://facebook.com/groups/gaitech/permalink/1830438648140342/",
+          "time": "07:20"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "YouTube",
+          "briefing": "YouTube 朝早",
+          "title": "Andrei Jikh：政府係咪製造危機？先賣恐懼再賣控制",
+          "summary": "Andrei Jikh 話先賣恐懼，再賣解決方案，然後就係控制；佢舉 2015 年 193 個聯合國成員國簽署 Agenda 2030、英國今年試推強制數碼身份證、央行數碼貨幣同穩定幣起緊可編程貨幣軌道為例，話地區危機被包裝成集中更多權力嘅機會。呢條係約一分鐘短片，字幕中途斷咗。",
+          "url": "https://www.youtube.com/watch?v=zddHwsd3rak",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "YouTube",
+          "briefing": "YouTube 朝早",
+          "title": "Andrei Jikh：恐懼被用嚟對付你，國防承包商點都贏",
+          "summary": "Andrei Jikh 話無論打唔打仗，國防承包商都贏，因為準備打仗本身就係一盤生意；恐懼抓住注意力就值錢，亦令人買嘢，2017 年北韓恐慌令一間應急食品公司銷量翻倍。真正大錢唔係罐頭，而係 Fortress 為 200 個基地起微電網、電池儲能同便攜核反應堆。呢條係約一分鐘短片，字幕中途斷咗。",
+          "url": "https://www.youtube.com/watch?v=pdX1mCIjMwo",
+          "time": "07:10"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "El-Erian：選後一日市況，指數升 2 至 3%、金同 Bitcoin 升 3%",
+          "summary": "El-Erian 講中期選舉後一日市況：美股指數升 2 至 3%、金同 Bitcoin 各升約 3%、債息差收窄、油跌 8%、十年債息跌 6 點子。",
+          "url": "https://x.com/elerianm",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "zerohedge：INTC 跌穿 56 個分析師最低目標價",
+          "summary": "zerohedge 話 INTC 跌穿 56 個分析師嘅最低目標價，得 1 個沽、55 個買入或持有；INTC 收市 58.27 美元，低過 Roth 嘅最低目標價 70 美元，一個月內跌逾五成。",
+          "url": "https://x.com/zerohedge",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "zerohedge：Citrini 建議沽空 NBIS，已由高位跌 53%",
+          "summary": "zerohedge 話 Citrini 出報告建議客戶沽空 NBIS，隻股已由高位約 300 美元跌 53% 至約 141.52 美元。",
+          "url": "https://x.com/zerohedge",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "Unusual Whales：加州選民否決億萬富翁稅",
+          "summary": "Unusual Whales 引 AP 話加州選民似乎否決 Prop 40，一次性向身家逾 10 億美元人士徵 5% 稅，約 55% 投反對；反對陣營籌咗逾 3.33 億美元。",
+          "url": "https://x.com/unusual_whales",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "zerohedge：KOSPI 回購圖，回購都救唔起韓股",
+          "summary": "zerohedge 貼 KOSPI 回購圖，話回購都救唔起韓股。",
+          "url": "https://x.com/zerohedge",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "Jason：數據中心行內已做到德州要求仲多",
+          "summary": "Jason 話數據中心行內已經做到德州 Talarico 要求（自付能源、循環用水）仲多；市鎮應爭取資金畀學校同遊樂場。",
+          "url": "https://x.com/Jason",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "tbpn：Spiro 話 AI 會令官司打多咗",
+          "summary": "律師 Alex Spiro 話 AI 會令官司打多咗，公司幾日內判斷邊啲值得打。",
+          "url": "https://x.com/tbpn",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "tbpn：Spiro 話 AI 令客戶變半桶水律師",
+          "summary": "Alex Spiro 話 AI 令客戶變半桶水律師，唔好自己揀法律論據／醫療程序。",
+          "url": "https://x.com/tbpn",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "X財經台",
+          "briefing": "X財經台 朝早",
+          "title": "tbpn：Blasberg 講 AI 影像對攝影嘅衝擊",
+          "summary": "Derek Blasberg 講 AI 影像對攝影嘅衝擊，話有人用 AI 偽造影像。",
+          "url": "https://x.com/tbpn",
+          "time": "07:25"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "中期選舉完結，過去 8 次之後一年晶片股表現點樣",
+          "summary": "中期選舉之後，晶片股過往多數會升。不過今次開局同以往有幾相似，值得留意。",
+          "url": "https://www.fool.com/investing/2026/11/05/the-midterms-are-over-here-s-what-chip-stocks-did-in-the-year-after-each-of-the-last-8/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "Amazon 估值只係 Costco 嘅一小部分，呢個折讓合唔合理",
+          "summary": "正常嚟講，兩間公司嘅估值應該調轉。文章拆解投資者而家點解對 Amazon 咁審慎。",
+          "url": "https://www.fool.com/investing/2026/11/05/amazon-trades-at-a-fraction-of-costcos-valuation-i/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "歷史話總統任期第三年係入市最好時機，星期三升市會唔會係大牛市開端",
+          "summary": "歷史上，總統任期第三年股市多數大升。文章睇下星期三嘅升市係咪預示緊新一輪牛市。",
+          "url": "https://www.fool.com/investing/2026/11/04/history-says-this-is-the-best-time-of-the-presidential-cycle-to-invest-could-wednesday-s-rally-be-the-beginning-of-an-epic-bull-market/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "Chipotle 扭轉頹勢，最新業績點睇",
+          "summary": "Chipotle 同店銷售連續錄得正增長，扭轉勢頭持續。文章分析最新一季業績表現。",
+          "url": "https://www.fool.com/investing/2026/11/05/should-investors-buy-into-the-chipotle-turnaround/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "SpaceX 揀咗 Qualcomm 起自家 5G 網絡，幾萬個基站 2027 年起陸續上線",
+          "summary": "SpaceX 揀 Qualcomm 幫手起 5G 網絡，幾萬個發射站 2027 年開始興建。文章討論呢個消息有幾大程度已經反映喺股價入面。",
+          "url": "https://www.fool.com/investing/2026/11/04/spacex-just-picked-qualcomm-for-its-own-5g-network-i-still-see-the-stock-as-a-hold/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "AMD 公布業績後股價急升，預計明年收入增長超過八成",
+          "summary": "AMD 公布業績後股價急升，公司預計明年收入增長超過 80%。文章討論以呢個增長前景計，現價係咪合理。",
+          "url": "https://www.fool.com/investing/2026/11/04/amd-stock-jumped-after-its-report-i-d-wait-for-a-lower-price-to-buy/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "核能股回調之後，Oklo 定 BWX Technologies 更值得留意",
+          "summary": "核能股出現回調，文章比較 Oklo 同 BWX Technologies 兩間公司，睇下邊間喺現價更有吸引力。",
+          "url": "https://www.fool.com/investing/2026/11/04/better-nuclear-energy-stock-to-buy-after-the-sell/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "麥當勞股價今日急升，廉價餐單吸引返精打細算嘅食客",
+          "summary": "麥當勞推出新嘅超值餐單，吸引返唔少著重價錢嘅顧客，帶動今日股價上升。",
+          "url": "https://www.fool.com/investing/2026/11/04/why-mcdonald-s-stock-popped-today/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "核能供應鏈邊一環最值錢：採礦、濃縮、建造定營運",
+          "summary": "用電需求急速增長，核能愈嚟愈重要。文章逐環比較核能供應鏈，睇下邊一環現時最有潛力。",
+          "url": "https://www.fool.com/investing/2026/11/04/mine-enrich-build-operate-which-link-in-the-nuclea/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要",
+          "title": "高盛：人工智能表外承擔達 4.11 萬億美元",
+          "summary": "高盛信貸策略師估計，五間超大規模科技公司嘅租賃同採購承擔合共 3.6 萬億美元，加埋輝達、博通同 SpaceX，總數約 4.11 萬億美元；租賃承擔約 1.7 萬億美元，採購承擔約 1.9 萬億美元，超過四分三嘅租賃承擔仲未開始；自 2023 年以嚟租賃承擔升咗八倍，賬面債務同租賃負債只係約 1 萬億美元。",
+          "url": "https://cryptobriefing.com/goldman-sachs-ai-off-balance-sheet-commitments/",
+          "time": "08:55"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要",
+          "title": "美銀：Marvell 由買入降至中性，目標價由 400 美元大削至 225 美元",
+          "summary": "美銀將 Marvell 評級由買入降至中性，目標價由 400 美元大削至 225 美元，減幅約 44%，主因係公司計劃用全股票收購光學技術公司 Lumentum，市場擔心攤薄、監管批核、客戶衝突同執行風險；225 美元仍然高過星期二收市價約 172 美元。",
+          "url": "https://www.defenseworld.net/2026/11/04/marvell-technology-nasdaqmrvl-downgraded-by-bank-of-america-to-neutral.html",
+          "time": "08:55"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要",
+          "title": "花旗：Palantir 目標價由 250 美元上調至 265 美元，維持買入",
+          "summary": "花旗將 Palantir 目標價由 250 美元上調至 265 美元，維持買入評級；公司上季收入 23.1 億美元，按年升 96%，美國商業收入按年升 148% 至 9.84 億美元；新簽合約總值按年只係升 6%，遠慢過上一季嘅 49%，係短期主要隱憂。",
+          "url": "https://www.defenseworld.net/2026/11/04/palantir-technologies-nasdaqpltr-given-new-265-00-price-target-at-citigroup.html",
+          "time": "08:55"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT 新興市場早報",
+          "title": "萊茵金屬跌 17%，交易延遲後下調銷售預測",
+          "summary": "Boxer 裝甲車訂單延遲，德國國防集團再受打擊。",
+          "url": "https://www.ft.com/content/4d0c5a48-3ef7-494d-baf8-063ef9edb2e5",
+          "time": "11:30"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT 新興市場早報",
+          "title": "南非執政黨非國大地方選舉得票率大跌",
+          "summary": "星期四初步結果顯示，支持度比 2021 年大幅下滑。",
+          "url": "https://www.ft.com/content/28999849-fe65-419e-a36b-8ef8d2303ebe",
+          "time": "11:30"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT 新興市場早報",
+          "title": "中國太空競賽嘅「蜂群」策略",
+          "summary": "北京扶植咗新嘅全國冠軍企業藍箭航天。",
+          "url": "https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85",
+          "time": "11:30"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT 新興市場早報",
+          "title": "香港判民主派活躍人士黃之鋒入獄 10 年",
+          "summary": "第二條國安法判刑，預計出獄日期推遲到 2036 年。",
+          "url": "https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347",
+          "time": "11:30"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT 新興市場早報",
+          "title": "俄羅斯透過導彈發射器交易加深對伊朗支持",
+          "summary": "雖然烏克蘭戰爭令關係緊張，莫斯科仍然增加對德黑蘭嘅軍事援助。",
+          "url": "https://www.ft.com/content/19ec7782-9f22-4101-ba55-da88860310bc",
+          "time": "11:30"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT 新興市場早報",
+          "title": "銅價大升，但唔係人人賺到錢",
+          "summary": "銅價飆升，呢輪紅金熱潮對礦商有利過冶煉商。",
+          "url": "https://www.ft.com/content/6c4d1285-535d-4e86-895b-afddd1d15491",
+          "time": "11:30"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT 新興市場早報",
+          "title": "中國加強捍衛股市，力圖重振 AI 熱潮",
+          "summary": "北京常用嚟撐市嘅 ETF 錄得有紀錄以嚟第二高淨流入。",
+          "url": "https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5",
+          "time": "11:30"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "英倫銀行加息至 4%",
+          "summary": "英倫銀行加息至 4%，係 2023 年以嚟首次加息，央行要壓住不斷上升嘅通脹。",
+          "url": "https://tinyurl.com/2xrjj24k",
+          "time": "12:17"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Edit",
+          "title": "民主黨中期大勝之後想重塑美國",
+          "summary": "民主黨喺中期選舉大勝之後，想重塑美國。",
+          "url": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328",
+          "time": "12:17"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Edit",
+          "title": "「錢唔 work」：大型科技公司 6 億美元中期競選宣傳徒勞無功",
+          "summary": "大型科技公司喺中期競選宣傳使咗 6 億美元，最後徒勞無功。",
+          "url": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4",
+          "time": "12:17"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Edit",
+          "title": "特朗普時代開始終結（FT 社論）",
+          "summary": "FT 社論認為，特朗普時代開始終結。",
+          "url": "https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c",
+          "time": "12:17"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Edit",
+          "title": "下一屆美國總統大選已經開跑",
+          "summary": "下一屆美國總統大選已經開跑。",
+          "url": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074",
+          "time": "12:17"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Edit",
+          "title": "被法國極右妖魔化嘅城市",
+          "summary": "FT 報道一座被法國極右妖魔化嘅城市。",
+          "url": "https://www.ft.com/content/c01cff54-b6a1-484c-baae-fbf5c1b0c768",
+          "time": "12:17"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Edit",
+          "title": "賊佬揭露我數碼防衛有幾脆弱",
+          "summary": "賊佬揭露咗我哋數碼防衛有幾脆弱。",
+          "url": "https://www.ft.com/content/5a7fe0b8-07f0-4c29-b19a-1480b1978778",
+          "time": "12:17"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Edit",
+          "title": "競選路上嘅恐懼與衣著",
+          "summary": "講競選路上嘅恐懼同衣著。",
+          "url": "https://www.ft.com/content/1bb09139-ba0d-49f5-9470-46409ea995a5",
+          "time": "12:17"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "輝達盤前跌，資金由 AI 晶片股輪動走",
+          "summary": "輝達（NVDA）盤前跌約 1 至 1.8%，資金由 AI 晶片股輪動走，美光跌約 3%，半導體 ETF SOXX 跌近 3%。",
+          "url": "https://www.benzinga.com/news/market-movers/26/11/62915715/what-is-going-on-with-nvidia-stock-on-thursday",
+          "time": "14:02"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Dutch Bros 調低全年收入預測，盤前大跌 14.53%",
+          "summary": "Dutch Bros（BROS）雖然第三季業績好過預期，但調低全年收入預測，盤前大跌 14.53%。",
+          "url": "https://www.benzinga.com/news/market-movers/26/11/62913777/why-is-dutch-bros-stock-falling-on-thursday",
+          "time": "14:02"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Celsius 第三季業績好過預期，盤前升約 6.5%",
+          "summary": "Celsius（CELH）第三季收入升 16.8% 至 8.47 億美元，每股經調整盈利 0.41 美元好過預期，加上管理層換血，盤前升約 6.5%。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/62915344/celsius-shares-climb-after-q3-beat-leadership-overhaul-details",
+          "time": "14:02"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Six Flags 調低第四季盈利預測，盤前升約 9%",
+          "summary": "Six Flags（FUN）第三季每股蝕 3.59 美元，差過預期，加上十月天氣差同機動遊戲事故，要調低第四季盈利預測，不過股價盤前升約 9%。",
+          "url": "https://www.benzinga.com/news/earnings/26/11/62917818/six-flags-narrows-losses-but-octobers-double-blow-forces-profit-outlook-cut",
+          "time": "14:02"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Joby Aviation 調高全年預測，股價升 9.3%",
+          "summary": "Joby Aviation（JOBY）第三季收入好過預期，調高全年預測，美國聯邦航空局認證有進展，股價升 9.3%，不過有分析師調低預測。",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/62917278/these-analysts-slash-their-forecasts-on-joby-aviation-following-q3-results",
+          "time": "14:02"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Ed Yardeni：AI 基建放慢反而對大型科技股有利",
+          "summary": "策略師 Ed Yardeni 話 AI 基建放慢反而對大型科技股有利，現金流可以改善。",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62917838/yardeni-ai-spending",
+          "time": "14:02"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Arthur Hayes：比特幣短期可能跟 SPCX 一齊跌",
+          "summary": "Arthur Hayes 話比特幣短期可能跟 SPCX 一齊跌，之後先至有央行救市帶嚟嘅升浪。",
+          "url": "https://www.benzinga.com/news/market-movers/26/11/62914738/arthur-hayes-warns-bitcoin-could-fall-below-100000-in-the-near-term",
+          "time": "14:02"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "KFF 警告：聯邦醫療保險藥物計劃保費 2027 年可能大升 50%",
+          "summary": "研究機構 KFF 警告，美國聯邦醫療保險藥物計劃保費 2027 年可能大升 50%，超過 1,040 萬人面臨加價。",
+          "url": "https://www.benzinga.com/news/health-care/26/11/62917139/medicare-drug-plan-premiums-could-surge-50-in-2027-over-10-million-enrollees-face-higher-costs-kff-warns",
+          "time": "14:02"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "FT White House Watch：民主黨點樣贏到",
+          "summary": "特朗普同共和黨星期二晚喺中期選舉大敗，眾議院同參議院控制權雙雙失守。選民否定特朗普處理經濟同伊朗戰爭嘅手法，亦關注佢任內嘅貪腐問題。",
+          "url": "https://www.ft.com/content/b1eb9500-612a-4bb0-bdc3-0311cfc0ec99",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "特朗普大敗",
+          "summary": "2026 年特朗普同共和黨嘅敗仗係另一個層次——全國上下對總統、佢嘅盟友同第二任期議程嘅強烈否定。傳統搖擺州同選區輕易回流民主黨，共和黨喺南部同鄉郊深紅地區嘅老巢都失守。",
+          "url": "https://www.ft.com/content/862ca6ad-2781-4117-8799-3205bbdbc5ea",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "特朗普大敗",
+          "summary": "「慘烈嘅一晚！」前特朗普助手 Bryan Lanza 話。白宮星期二晚就擺出不服輸姿態，話冇特朗普結果會更差。連一向同白宮保持距離嘅緬因州資深參議員 Susan Collins 同賓州溫和派 Brian Fitzpatrick 都俾反特朗普浪潮沖走。",
+          "url": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "中期選舉可能重塑美國中東政策",
+          "summary": "中期選舉可能重塑美國中東政策，由伊朗戰爭到同以色列嘅關係，民主黨國會多數可以推動啲咩。",
+          "url": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "全國共和黨人喺中期選舉慘敗之後，公開鬧特朗普",
+          "summary": "全國共和黨人喺中期選舉慘敗之後，公開鬧特朗普，互相指責。",
+          "url": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "華爾街股市錄得幾個月以嚟最大單日升幅",
+          "summary": "華爾街股市尋日錄得幾個月以嚟最大單日升幅，投資者賭民主黨大勝可以約束白宮政策。",
+          "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "默多克傳媒帝國喺星期二結果之後開始轉向反對總統",
+          "summary": "默多克傳媒帝國（包括 Fox News 同紐約郵報）喺星期二結果之後開始轉向反對總統。",
+          "url": "https://www.ft.com/content/ead0309f-537a-4cc1-9d65-a3b9de01e69d",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "特朗普唔聽勸，將選舉變成對佢本人嘅公投",
+          "summary": "「特朗普唔聽勸，將選舉變成對佢本人嘅公投，」Edward Luce 寫道。「所以佢要為共和黨歷史性敗仗嘅規模負責。」",
+          "url": "https://www.ft.com/content/0a9d5d07-bc57-4348-b67e-54cf4f1a246e",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "民主黨大勝為投資者開返一條回復正常生活嘅路",
+          "summary": "民主黨大勝而家為投資者開返一條回復正常生活嘅路，Katie Martin 話。",
+          "url": "https://www.ft.com/content/fc404189-8dde-4dfe-8da7-0df8e92effd2",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "特朗普時代點樣垮台？",
+          "summary": "Janan Ganesh 話，總統同好多民粹主義者一樣，忘記咗民粹主義入面經濟嗰部分。",
+          "url": "https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "就算市場崩盤迫在眉睫，呢個代價都可能值得",
+          "summary": "就算市場崩盤迫在眉睫，呢個代價都可能值得，為美國價值觀同領導力迎嚟新嘅早晨，Stephen Roach 寫道。",
+          "url": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "如果共和黨想喺 2028 年保住白宮，應該將特朗普經濟政策分開睇",
+          "summary": "如果共和黨想喺 2028 年保住白宮，應該將特朗普經濟政策入面好嘅同差嘅分開，Michael Strain 話。",
+          "url": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
+          "time": "14:18"
+        },
+        {
+          "date": "2026-11-05",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "Jemima Kelly 直擊保守派觀票派對",
+          "summary": "Jemima Kelly 星期二去咗 Mar-a-Lago 附近一個保守派觀票派對，帶大家睇「Trumpsterz Tuesday Triumph」活動入面嘅選舉夜氣氛。",
+          "url": "https://www.ft.com/content/7a7f5d4f-8e82-48c2-be31-024f8b5a32d7",
+          "time": "14:18"
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "items": [
         {
@@ -4809,632 +5552,6 @@
           "summary": "Marvell 以 1150 億美元全股票收購 Lumentum，Lumentum 股東換股後佔合併公司 33%；同場提到 OpenAI 最新融資由 9 月想攞 300 億美元、估值 1.4 萬億，縮到約 200 億美元、估值 1.25 萬億。",
           "url": "https://app.finimize.com/content/anthropics-2-trillion-ipo-is-a-bet-on-almost-everything-going-right",
           "time": "23:01"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "items": [
-        {
-          "date": "2026-11-05",
-          "source": "早晨簡報",
-          "briefing": "早晨簡報",
-          "title": "英國同意就奴隸制歷史傷害展開有時限談判，Burnham 留低正式道歉空間",
-          "summary": "英國同意同英聯邦國家就跨大西洋奴隸貿易嘅歷史傷害展開有結構、有時限嘅對話，首相 Burnham 留低正式道歉空間但排除直接賠償，另撥 4000 萬鎊（三年）支援加勒比基建。",
-          "url": "https://www.glasgowtimes.co.uk/news/national/26700493.uk-agrees-time-bound-talks-historical-harms-slave-trade/",
-          "time": "07:00"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "早晨簡報",
-          "briefing": "早晨簡報",
-          "title": "俄軍空襲烏克蘭援助中心，死亡人數升至 40",
-          "summary": "俄軍星期一轟炸扎波羅熱地區一個派發援助物資嘅學校建築，死亡人數升至 40，仲有 30 幾人可能埋喺瓦礫下面，澤連斯基話係瘋狂襲擊。",
-          "url": "https://aapnews.aap.com.au/news/dozens-dead-as-russia-strikes-ukraine-aid-centre",
-          "time": "07:00"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "早晨簡報",
-          "briefing": "早晨簡報",
-          "title": "澳洲 F1 世界冠軍 Alan Jones 逝世，享年 80 歲",
-          "summary": "1980 年 F1 世界冠軍 Alan Jones 短病後逝世，享年 80 歲，啱啱先慶祝完 80 歲生日；佢係繼 Jack Brabham 之後第二位澳洲世界冠軍。",
-          "url": "https://www.reuters.com/sports/formula1/australian-f1-world-champion-alan-jones-dies-aged-80-2026-11-05/",
-          "time": "07:00"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "早晨簡報",
-          "briefing": "早晨簡報",
-          "title": "英倫銀行今日議息，市場預期加息至 4%",
-          "summary": "英倫銀行今日中午 12 點議息，市場普遍預期加息 0.25 厘至 4%，係三年幾嚟首次加息；英國 9 月 CPI 已升至 3.5%。",
-          "url": "https://gianlucabenigno.substack.com/p/uk-september-26-cpi-inflation-report",
-          "time": "07:00"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "英國報章",
-          "briefing": "英國報章",
-          "title": "歐盟開會傾烏克蘭戰後重建，摩爾多瓦或 2028 年初入盟",
-          "summary": "歐盟委員會星期三喺布魯塞爾主持烏克蘭戰後重建會議，烏克蘭、德法英美、北約同世界銀行都有份；歐盟話自開戰以來已提供 2315 億歐元援助，摩爾多瓦可能 2028 年初入盟、烏克蘭 2028 年底。",
-          "url": "https://agenceurope.eu/en/bulletin/article/13975/33/eu-and-partners-discuss-ukraines-reconstruction-and-prosperity",
-          "time": "07:05"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "英國報章",
-          "briefing": "英國報章",
-          "title": "默茨見澤連斯基，承諾再加冬季援助，19 號主持自願聯盟峰會",
-          "summary": "德國總理默茨星期二喺柏林見澤連斯基，承諾再加冬季、能源同防空援助，11 月 19 號喺柏林主持自願聯盟峰會；美國下星期 10–11 號喺阿布扎比安排烏俄代表團會談。",
-          "url": "https://finchannel.com/germany-pledges-winter-support-for-ukraine-as-berlin-pushes-security-guarantees-before-abu-dhabi-talks/140474/world-2/2026/11/",
-          "time": "07:05"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "英國報章",
-          "briefing": "英國報章",
-          "title": "英法帶頭歐洲部隊下星期喺波蘭軍演，為戰後駐烏任務做準備",
-          "summary": "英法帶頭嘅多國部隊 11 月 9–22 號喺波蘭軍演，約 2800 人，為戰後駐烏克蘭任務做準備；俄羅斯已表明會視外國部隊為軍事目標。",
-          "url": "https://nexuseuropa.eu/en/article/european-troops-in-ukraine-can-a-uk-france-led-force-succeed-without-us-support",
-          "time": "07:05"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "英國報章",
-          "briefing": "英國報章",
-          "title": "英倫銀行今日議息，預期加息至 4%，三年幾首次",
-          "summary": "英倫銀行今日中午 12 點議息，預期加息 0.25 厘至 4%，係 2023 年 8 月以來首次加息；追蹤按揭每月加約 31 鎊，貝利 12 點半開記者會。",
-          "url": "https://www.main-currents.news/stories/2026/11/05/the-bank-of-england-is-expecte",
-          "time": "07:05"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Threads",
-          "briefing": "Threads 朝早",
-          "title": "sflab 質疑「東升西降」講法",
-          "summary": "sflab 話拜登年代民主黨上場，對中國都冇俾過咩好面色，質疑「東升西降」呢個講法。",
-          "url": "https://www.threads.com/@sflab/post/DfWV_HvEXwx",
-          "time": "07:05"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Threads",
-          "briefing": "Threads 朝早",
-          "title": "WhaleStock 睇 2027 美股爆破，轉去 MCD、KO",
-          "summary": "WhaleStock 話自己觀察 2027 年美股九成會爆破，提早轉去非必須消費品例如 MCD、KO，熊市前仲有最後一升。",
-          "url": "https://www.threads.com/@whalestock.invest/post/DfWQwtlE1U9",
-          "time": "07:05"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Threads",
-          "briefing": "Threads 朝早",
-          "title": "sflab 揸住半導體叫苦",
-          "summary": "sflab 話自己揸緊半導體，配合星期三晶片股大跌，叫苦連天。",
-          "url": "https://www.threads.com/@sflab/post/DfWFFFXDi5s",
-          "time": "07:05"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Threads",
-          "briefing": "Threads 朝早",
-          "title": "哈利說：AI 資料中心耗水耗電係假議題",
-          "summary": "哈利說話 AI 資料中心耗水同電費影響其實係假議題，「好耗水」呢個講法最初嚟自一篇錯誤報告，連原作者都認錯，但民眾對 AI 嘅負面情緒之下，事實根本唔重要。",
-          "url": "https://www.threads.com/@harryspeaks_/post/DfWGaKWmX6v",
-          "time": "07:05"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Gmail 股市信件",
-          "briefing": "Gmail 股市信件",
-          "title": "Samuel Cheng：藍潮贏家係超大型科技，輸家係 AI 基建鏈",
-          "summary": "Samuel Cheng 話道指星期三升 1569 點、3%，係史上第五大單日點數升幅；贏家係超大型科技重估，MSFT 升 6.7%、AMZN 升 6.1%、AAPL 升 5.3%，Mag 7 單日加 5940 億美元市值。輸家係 AI 基建鏈，德州、俄亥俄、喬治亞州長落入民主黨手，45 項限制數據中心地方公投 33 項通過，NVDA 跌 3.2%、MU 跌 7%、CRWV 跌 9.9%。",
-          "url": null,
-          "time": "07:15"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Gmail 股市信件",
-          "briefing": "Gmail 股市信件",
-          "title": "大叔：國防預算三條管道，3500 億調和款最關鍵",
-          "summary": "大叔話 FY2027 1.5 兆美元國防預算分三條管道：基本預算約 1.15 兆相對穩；預算調和約 3500 億係金穹同次世代無人系統核心財源，民主黨唔推動就落唔到地；伊朗戰爭補充 876 億面臨嚴格審查。金穹短期有緩衝，但 FY2027 要 175 至 179 億，當中 97% 靠調和。AVAV 敏感度中低，KTOS 中等，RCAT 同 ONDS 中高。",
-          "url": null,
-          "time": "07:15"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Gmail 股市信件",
-          "briefing": "Gmail 股市信件",
-          "title": "不預測漲跌：美光 5 億美元係借款，唔係環球晶營收",
-          "summary": "美光要認購環球晶最多 5 億美元可轉債，另規劃 10 年晶圓長約。作者話 5 億係借款，轉換前算負債，唔會變營收；真正營收係長約，估十年平均一年約新台幣 33 至 73 億元，最快 2027 年入賬，要等 12 月 21 日臨時股東會表決。",
-          "url": null,
-          "time": "07:15"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Gmail 股市信件",
-          "briefing": "Gmail 股市信件",
-          "title": "G2AI：Groq 同 Cerebras 都轉向 3D 堆疊 DRAM",
-          "summary": "Groq 下代 LPU 據報考慮 3D 堆疊 DRAM 取代加大 SRAM；Cerebras 話 CS-6 會配晶圓 SRAM 加 3D 堆�叠 DRAM。兩間 SRAM 優先嘅推理公司都轉向垂直 DRAM，樽頸係容量唔係速度。",
-          "url": null,
-          "time": "07:15"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Gmail 股市信件",
-          "briefing": "Gmail 股市信件",
-          "title": "TMT：APP 升 22%、QCOM 毛利率連跌四季、COHR 攞到 200 億長約",
-          "summary": "TMT post-call：APP 升 22.2%，遊戲業務年增近 50%，Q4 指引勝預期；QCOM 跌 6.9%，汽車收入 19.9 億年增 89% 創新高，但毛利率連跌四季至 52.4%，Q4 EPS 指引差過市場；COHR 升 7.6%，攞到五年 200 億美元 PhotonLink 長約；HUBS 跌 7.7%，Q4 指引差過預期，AI 改變客戶搵軟件嘅方式。",
-          "url": null,
-          "time": "07:15"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Gmail 股市信件",
-          "briefing": "Gmail 股市信件",
-          "title": "HFI：預測到民主黨大勝，但估錯油市反應",
-          "summary": "HFI 話自己預測到民主黨大勝，仲喺 Robinhood 落注，但完全估錯油市反應：市場以為民主黨會逼出伊朗外交解決方案，油價暴跌。HFI 話市場諗錯咗，伊朗用荷姆茲海峽影響美國選舉，美國唔會俾伊朗話事，實質變化唔會有。",
-          "url": null,
-          "time": "07:15"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Facebook",
-          "briefing": "Facebook 朝早",
-          "title": "美股送分題：民主黨會唔會真係拖慢 AI 建設",
-          "summary": "美股送分題話市場為未落地嘅政策風險定價，邏輯係民主黨想暫停新數據中心批核，要不斷起新機房嘅公司受壓，本身有算力嘅雲廠受惠；真正要擔心嘅係電網、水資源同成本由邊個埋單，佢用三種情境加組合壓力測試判斷邊啲係錯殺。",
-          "url": "https://facebook.com/61565422452677/posts/pfbid036xkRuxvCzQ8NSsruw7dBb5Sak8THXFuF8QgpBZRcXfpAt6nS6nN4x1rsGj4F8QaTl/",
-          "time": "07:20"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Facebook",
-          "briefing": "Facebook 朝早",
-          "title": "Yu Sir：科技股升勢邏輯係雲巨頭現金流增加",
-          "summary": "Yu Sir 話星期三美股集中升巨頭科技股，邏輯係民主黨可能暫緩 AI 數據中心發展，市場認為雲巨頭自由現金流增加，利好短期盈利，卻不利硬體股同 Neo Cloud；長期嚟講 AI 算力需求仍然超過供給。",
-          "url": "https://facebook.com/100063737808601/posts/pfbid0n9rH7W8X6fBDHgs1ijGgJrL8ehZEV3f7aFCgBSy6MntVAua48dT3w7FHsCHt1Xenl/",
-          "time": "07:20"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Facebook",
-          "briefing": "Facebook 朝早",
-          "title": "Yu Sir：Intel 執行長家族信託買入 971 萬美元自家股票",
-          "summary": "新 SEC 文件披露，Intel 執行長透過家族信託以每股 64.7 美元買入價值 971 萬美元嘅英特爾股票，作者話係相當大嘅信心投票。",
-          "url": "https://facebook.com/100063737808601/posts/pfbid02kH5NNRWq1S7os2PwKbVcw8XfiMNcY5ALhQParRrwNFdmPNosYxyCVtxWbVUZXsvrl/",
-          "time": "07:20"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Facebook",
-          "briefing": "Facebook 朝早",
-          "title": "美股追夢路：QCOM、APP、MELI、ARM 財報日報",
-          "summary": "美股追夢路整理四間財報：QCOM 調整後 EPS 2.17 美元勝預期，但指引偏軟，盤後跌約 6 至 7%；APP 調整後 EPS 4.30 美元、營收 21.8 億美元都勝預期，Q4 指引高過預期，盤後升 22%；MELI EPS 8.83 美元差過預期，盤後跌約 6%；ARM 調整後 EPS 0.52 美元勝預期，盤後跌約 2%。",
-          "url": "https://facebook.com/61573395335523/posts/pfbid0FAaaJCTUvHcubXvTiNbukdQJNdubbqpHTN8sv1w8vw3AA427wt1fJqUQf5yqp4HVl/",
-          "time": "07:20"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Facebook",
-          "briefing": "Facebook 朝早",
-          "title": "Maple Kuo：Cat Wu 由 Anthropic 跳槽去 OpenAI",
-          "summary": "Maple Kuo 話 Cat Wu 由 Anthropic 跳槽去 OpenAI。",
-          "url": "https://facebook.com/groups/gaitech/permalink/1830438648140342/",
-          "time": "07:20"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "YouTube",
-          "briefing": "YouTube 朝早",
-          "title": "Andrei Jikh：政府係咪製造危機？先賣恐懼再賣控制",
-          "summary": "Andrei Jikh 話先賣恐懼，再賣解決方案，然後就係控制；佢舉 2015 年 193 個聯合國成員國簽署 Agenda 2030、英國今年試推強制數碼身份證、央行數碼貨幣同穩定幣起緊可編程貨幣軌道為例，話地區危機被包裝成集中更多權力嘅機會。呢條係約一分鐘短片，字幕中途斷咗。",
-          "url": "https://www.youtube.com/watch?v=zddHwsd3rak",
-          "time": "07:10"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "YouTube",
-          "briefing": "YouTube 朝早",
-          "title": "Andrei Jikh：恐懼被用嚟對付你，國防承包商點都贏",
-          "summary": "Andrei Jikh 話無論打唔打仗，國防承包商都贏，因為準備打仗本身就係一盤生意；恐懼抓住注意力就值錢，亦令人買嘢，2017 年北韓恐慌令一間應急食品公司銷量翻倍。真正大錢唔係罐頭，而係 Fortress 為 200 個基地起微電網、電池儲能同便攜核反應堆。呢條係約一分鐘短片，字幕中途斷咗。",
-          "url": "https://www.youtube.com/watch?v=pdX1mCIjMwo",
-          "time": "07:10"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "El-Erian：選後一日市況，指數升 2 至 3%、金同 Bitcoin 升 3%",
-          "summary": "El-Erian 講中期選舉後一日市況：美股指數升 2 至 3%、金同 Bitcoin 各升約 3%、債息差收窄、油跌 8%、十年債息跌 6 點子。",
-          "url": "https://x.com/elerianm",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "zerohedge：INTC 跌穿 56 個分析師最低目標價",
-          "summary": "zerohedge 話 INTC 跌穿 56 個分析師嘅最低目標價，得 1 個沽、55 個買入或持有；INTC 收市 58.27 美元，低過 Roth 嘅最低目標價 70 美元，一個月內跌逾五成。",
-          "url": "https://x.com/zerohedge",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "zerohedge：Citrini 建議沽空 NBIS，已由高位跌 53%",
-          "summary": "zerohedge 話 Citrini 出報告建議客戶沽空 NBIS，隻股已由高位約 300 美元跌 53% 至約 141.52 美元。",
-          "url": "https://x.com/zerohedge",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "Unusual Whales：加州選民否決億萬富翁稅",
-          "summary": "Unusual Whales 引 AP 話加州選民似乎否決 Prop 40，一次性向身家逾 10 億美元人士徵 5% 稅，約 55% 投反對；反對陣營籌咗逾 3.33 億美元。",
-          "url": "https://x.com/unusual_whales",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "zerohedge：KOSPI 回購圖，回購都救唔起韓股",
-          "summary": "zerohedge 貼 KOSPI 回購圖，話回購都救唔起韓股。",
-          "url": "https://x.com/zerohedge",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "Jason：數據中心行內已做到德州要求仲多",
-          "summary": "Jason 話數據中心行內已經做到德州 Talarico 要求（自付能源、循環用水）仲多；市鎮應爭取資金畀學校同遊樂場。",
-          "url": "https://x.com/Jason",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "tbpn：Spiro 話 AI 會令官司打多咗",
-          "summary": "律師 Alex Spiro 話 AI 會令官司打多咗，公司幾日內判斷邊啲值得打。",
-          "url": "https://x.com/tbpn",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "tbpn：Spiro 話 AI 令客戶變半桶水律師",
-          "summary": "Alex Spiro 話 AI 令客戶變半桶水律師，唔好自己揀法律論據／醫療程序。",
-          "url": "https://x.com/tbpn",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "X財經台",
-          "briefing": "X財經台 朝早",
-          "title": "tbpn：Blasberg 講 AI 影像對攝影嘅衝擊",
-          "summary": "Derek Blasberg 講 AI 影像對攝影嘅衝擊，話有人用 AI 偽造影像。",
-          "url": "https://x.com/tbpn",
-          "time": "07:25"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "中期選舉完結，過去 8 次之後一年晶片股表現點樣",
-          "summary": "中期選舉之後，晶片股過往多數會升。不過今次開局同以往有幾相似，值得留意。",
-          "url": "https://www.fool.com/investing/2026/11/05/the-midterms-are-over-here-s-what-chip-stocks-did-in-the-year-after-each-of-the-last-8/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "Amazon 估值只係 Costco 嘅一小部分，呢個折讓合唔合理",
-          "summary": "正常嚟講，兩間公司嘅估值應該調轉。文章拆解投資者而家點解對 Amazon 咁審慎。",
-          "url": "https://www.fool.com/investing/2026/11/05/amazon-trades-at-a-fraction-of-costcos-valuation-i/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "歷史話總統任期第三年係入市最好時機，星期三升市會唔會係大牛市開端",
-          "summary": "歷史上，總統任期第三年股市多數大升。文章睇下星期三嘅升市係咪預示緊新一輪牛市。",
-          "url": "https://www.fool.com/investing/2026/11/04/history-says-this-is-the-best-time-of-the-presidential-cycle-to-invest-could-wednesday-s-rally-be-the-beginning-of-an-epic-bull-market/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "Chipotle 扭轉頹勢，最新業績點睇",
-          "summary": "Chipotle 同店銷售連續錄得正增長，扭轉勢頭持續。文章分析最新一季業績表現。",
-          "url": "https://www.fool.com/investing/2026/11/05/should-investors-buy-into-the-chipotle-turnaround/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "SpaceX 揀咗 Qualcomm 起自家 5G 網絡，幾萬個基站 2027 年起陸續上線",
-          "summary": "SpaceX 揀 Qualcomm 幫手起 5G 網絡，幾萬個發射站 2027 年開始興建。文章討論呢個消息有幾大程度已經反映喺股價入面。",
-          "url": "https://www.fool.com/investing/2026/11/04/spacex-just-picked-qualcomm-for-its-own-5g-network-i-still-see-the-stock-as-a-hold/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "AMD 公布業績後股價急升，預計明年收入增長超過八成",
-          "summary": "AMD 公布業績後股價急升，公司預計明年收入增長超過 80%。文章討論以呢個增長前景計，現價係咪合理。",
-          "url": "https://www.fool.com/investing/2026/11/04/amd-stock-jumped-after-its-report-i-d-wait-for-a-lower-price-to-buy/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "核能股回調之後，Oklo 定 BWX Technologies 更值得留意",
-          "summary": "核能股出現回調，文章比較 Oklo 同 BWX Technologies 兩間公司，睇下邊間喺現價更有吸引力。",
-          "url": "https://www.fool.com/investing/2026/11/04/better-nuclear-energy-stock-to-buy-after-the-sell/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "麥當勞股價今日急升，廉價餐單吸引返精打細算嘅食客",
-          "summary": "麥當勞推出新嘅超值餐單，吸引返唔少著重價錢嘅顧客，帶動今日股價上升。",
-          "url": "https://www.fool.com/investing/2026/11/04/why-mcdonald-s-stock-popped-today/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Motley Fool",
-          "briefing": "Motley Fool",
-          "title": "核能供應鏈邊一環最值錢：採礦、濃縮、建造定營運",
-          "summary": "用電需求急速增長，核能愈嚟愈重要。文章逐環比較核能供應鏈，睇下邊一環現時最有潛力。",
-          "url": "https://www.fool.com/investing/2026/11/04/mine-enrich-build-operate-which-link-in-the-nuclea/",
-          "time": "07:26"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "大行報告",
-          "briefing": "大行新報告撮要",
-          "title": "高盛：人工智能表外承擔達 4.11 萬億美元",
-          "summary": "高盛信貸策略師估計，五間超大規模科技公司嘅租賃同採購承擔合共 3.6 萬億美元，加埋輝達、博通同 SpaceX，總數約 4.11 萬億美元；租賃承擔約 1.7 萬億美元，採購承擔約 1.9 萬億美元，超過四分三嘅租賃承擔仲未開始；自 2023 年以嚟租賃承擔升咗八倍，賬面債務同租賃負債只係約 1 萬億美元。",
-          "url": "https://cryptobriefing.com/goldman-sachs-ai-off-balance-sheet-commitments/",
-          "time": "08:55"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "大行報告",
-          "briefing": "大行新報告撮要",
-          "title": "美銀：Marvell 由買入降至中性，目標價由 400 美元大削至 225 美元",
-          "summary": "美銀將 Marvell 評級由買入降至中性，目標價由 400 美元大削至 225 美元，減幅約 44%，主因係公司計劃用全股票收購光學技術公司 Lumentum，市場擔心攤薄、監管批核、客戶衝突同執行風險；225 美元仍然高過星期二收市價約 172 美元。",
-          "url": "https://www.defenseworld.net/2026/11/04/marvell-technology-nasdaqmrvl-downgraded-by-bank-of-america-to-neutral.html",
-          "time": "08:55"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "大行報告",
-          "briefing": "大行新報告撮要",
-          "title": "花旗：Palantir 目標價由 250 美元上調至 265 美元，維持買入",
-          "summary": "花旗將 Palantir 目標價由 250 美元上調至 265 美元，維持買入評級；公司上季收入 23.1 億美元，按年升 96%，美國商業收入按年升 148% 至 9.84 億美元；新簽合約總值按年只係升 6%，遠慢過上一季嘅 49%，係短期主要隱憂。",
-          "url": "https://www.defenseworld.net/2026/11/04/palantir-technologies-nasdaqpltr-given-new-265-00-price-target-at-citigroup.html",
-          "time": "08:55"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT 新興市場早報",
-          "title": "萊茵金屬跌 17%，交易延遲後下調銷售預測",
-          "summary": "Boxer 裝甲車訂單延遲，德國國防集團再受打擊。",
-          "url": "https://www.ft.com/content/4d0c5a48-3ef7-494d-baf8-063ef9edb2e5",
-          "time": "11:30"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT 新興市場早報",
-          "title": "南非執政黨非國大地方選舉得票率大跌",
-          "summary": "星期四初步結果顯示，支持度比 2021 年大幅下滑。",
-          "url": "https://www.ft.com/content/28999849-fe65-419e-a36b-8ef8d2303ebe",
-          "time": "11:30"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT 新興市場早報",
-          "title": "中國太空競賽嘅「蜂群」策略",
-          "summary": "北京扶植咗新嘅全國冠軍企業藍箭航天。",
-          "url": "https://www.ft.com/content/9f5f8b20-8e6c-4332-a137-3193a2137d85",
-          "time": "11:30"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT 新興市場早報",
-          "title": "香港判民主派活躍人士黃之鋒入獄 10 年",
-          "summary": "第二條國安法判刑，預計出獄日期推遲到 2036 年。",
-          "url": "https://www.ft.com/content/8ea68e28-8239-44b5-8c0c-a26c2ded9347",
-          "time": "11:30"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT 新興市場早報",
-          "title": "俄羅斯透過導彈發射器交易加深對伊朗支持",
-          "summary": "雖然烏克蘭戰爭令關係緊張，莫斯科仍然增加對德黑蘭嘅軍事援助。",
-          "url": "https://www.ft.com/content/19ec7782-9f22-4101-ba55-da88860310bc",
-          "time": "11:30"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT 新興市場早報",
-          "title": "銅價大升，但唔係人人賺到錢",
-          "summary": "銅價飆升，呢輪紅金熱潮對礦商有利過冶煉商。",
-          "url": "https://www.ft.com/content/6c4d1285-535d-4e86-895b-afddd1d15491",
-          "time": "11:30"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT 新興市場早報",
-          "title": "中國加強捍衛股市，力圖重振 AI 熱潮",
-          "summary": "北京常用嚟撐市嘅 ETF 錄得有紀錄以嚟第二高淨流入。",
-          "url": "https://www.ft.com/content/b86cc3e7-e638-4b58-8d4d-4516c13c45f5",
-          "time": "11:30"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT Breaking News（即時）",
-          "title": "英倫銀行加息至 4%",
-          "summary": "英倫銀行加息至 4%，係 2023 年以嚟首次加息，央行要壓住不斷上升嘅通脹。",
-          "url": "https://tinyurl.com/2xrjj24k",
-          "time": "12:17"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT Edit",
-          "title": "民主黨中期大勝之後想重塑美國",
-          "summary": "民主黨喺中期選舉大勝之後，想重塑美國。",
-          "url": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328",
-          "time": "12:17"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT Edit",
-          "title": "「錢唔 work」：大型科技公司 6 億美元中期競選宣傳徒勞無功",
-          "summary": "大型科技公司喺中期競選宣傳使咗 6 億美元，最後徒勞無功。",
-          "url": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4",
-          "time": "12:17"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT Edit",
-          "title": "特朗普時代開始終結（FT 社論）",
-          "summary": "FT 社論認為，特朗普時代開始終結。",
-          "url": "https://www.ft.com/content/ab004bd1-4ae7-46a1-a41f-2266cd0f270c",
-          "time": "12:17"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT Edit",
-          "title": "下一屆美國總統大選已經開跑",
-          "summary": "下一屆美國總統大選已經開跑。",
-          "url": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074",
-          "time": "12:17"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT Edit",
-          "title": "被法國極右妖魔化嘅城市",
-          "summary": "FT 報道一座被法國極右妖魔化嘅城市。",
-          "url": "https://www.ft.com/content/c01cff54-b6a1-484c-baae-fbf5c1b0c768",
-          "time": "12:17"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT Edit",
-          "title": "賊佬揭露我數碼防衛有幾脆弱",
-          "summary": "賊佬揭露咗我哋數碼防衛有幾脆弱。",
-          "url": "https://www.ft.com/content/5a7fe0b8-07f0-4c29-b19a-1480b1978778",
-          "time": "12:17"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "FT",
-          "briefing": "FT Edit",
-          "title": "競選路上嘅恐懼與衣著",
-          "summary": "講競選路上嘅恐懼同衣著。",
-          "url": "https://www.ft.com/content/1bb09139-ba0d-49f5-9470-46409ea995a5",
-          "time": "12:17"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Benzinga",
-          "briefing": "Benzinga 美股頭條（開市前）",
-          "title": "輝達盤前跌，資金由 AI 晶片股輪動走",
-          "summary": "輝達（NVDA）盤前跌約 1 至 1.8%，資金由 AI 晶片股輪動走，美光跌約 3%，半導體 ETF SOXX 跌近 3%。",
-          "url": "https://www.benzinga.com/news/market-movers/26/11/62915715/what-is-going-on-with-nvidia-stock-on-thursday",
-          "time": "14:02"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Benzinga",
-          "briefing": "Benzinga 美股頭條（開市前）",
-          "title": "Dutch Bros 調低全年收入預測，盤前大跌 14.53%",
-          "summary": "Dutch Bros（BROS）雖然第三季業績好過預期，但調低全年收入預測，盤前大跌 14.53%。",
-          "url": "https://www.benzinga.com/news/market-movers/26/11/62913777/why-is-dutch-bros-stock-falling-on-thursday",
-          "time": "14:02"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Benzinga",
-          "briefing": "Benzinga 美股頭條（開市前）",
-          "title": "Celsius 第三季業績好過預期，盤前升約 6.5%",
-          "summary": "Celsius（CELH）第三季收入升 16.8% 至 8.47 億美元，每股經調整盈利 0.41 美元好過預期，加上管理層換血，盤前升約 6.5%。",
-          "url": "https://www.benzinga.com/markets/equities/26/11/62915344/celsius-shares-climb-after-q3-beat-leadership-overhaul-details",
-          "time": "14:02"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Benzinga",
-          "briefing": "Benzinga 美股頭條（開市前）",
-          "title": "Six Flags 調低第四季盈利預測，盤前升約 9%",
-          "summary": "Six Flags（FUN）第三季每股蝕 3.59 美元，差過預期，加上十月天氣差同機動遊戲事故，要調低第四季盈利預測，不過股價盤前升約 9%。",
-          "url": "https://www.benzinga.com/news/earnings/26/11/62917818/six-flags-narrows-losses-but-octobers-double-blow-forces-profit-outlook-cut",
-          "time": "14:02"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Benzinga",
-          "briefing": "Benzinga 美股頭條（開市前）",
-          "title": "Joby Aviation 調高全年預測，股價升 9.3%",
-          "summary": "Joby Aviation（JOBY）第三季收入好過預期，調高全年預測，美國聯邦航空局認證有進展，股價升 9.3%，不過有分析師調低預測。",
-          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/62917278/these-analysts-slash-their-forecasts-on-joby-aviation-following-q3-results",
-          "time": "14:02"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Benzinga",
-          "briefing": "Benzinga 美股頭條（開市前）",
-          "title": "Ed Yardeni：AI 基建放慢反而對大型科技股有利",
-          "summary": "策略師 Ed Yardeni 話 AI 基建放慢反而對大型科技股有利，現金流可以改善。",
-          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/62917838/yardeni-ai-spending",
-          "time": "14:02"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Benzinga",
-          "briefing": "Benzinga 美股頭條（開市前）",
-          "title": "Arthur Hayes：比特幣短期可能跟 SPCX 一齊跌",
-          "summary": "Arthur Hayes 話比特幣短期可能跟 SPCX 一齊跌，之後先至有央行救市帶嚟嘅升浪。",
-          "url": "https://www.benzinga.com/news/market-movers/26/11/62914738/arthur-hayes-warns-bitcoin-could-fall-below-100000-in-the-near-term",
-          "time": "14:02"
-        },
-        {
-          "date": "2026-11-05",
-          "source": "Benzinga",
-          "briefing": "Benzinga 美股頭條（開市前）",
-          "title": "KFF 警告：聯邦醫療保險藥物計劃保費 2027 年可能大升 50%",
-          "summary": "研究機構 KFF 警告，美國聯邦醫療保險藥物計劃保費 2027 年可能大升 50%，超過 1,040 萬人面臨加價。",
-          "url": "https://www.benzinga.com/news/health-care/26/11/62917139/medicare-drug-plan-premiums-could-surge-50-in-2027-over-10-million-enrollees-face-higher-costs-kff-warns",
-          "time": "14:02"
         }
       ]
     }
