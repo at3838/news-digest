@@ -138,7 +138,7 @@ footer{margin-top:48px;font-size:17px;color:#999;border-top:1px solid #ddd;paddi
 
     parts.append(
         f"<footer>最後更新：{updated}。股價表、板塊資金流、財報數字表等數據類 briefing 唔入呢頁，"
-        "淨係收新聞內容類摘要。</footer>"
+        "淨係收新聞內容類摘要（每日收市期權監察報告除外）。</footer>"
         "<script>"
         "function setFilter(src){"
         "document.querySelectorAll('.filter-btn').forEach(function(b){b.classList.toggle('active',b.dataset.filter===src);});"
