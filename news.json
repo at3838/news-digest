@@ -7069,6 +7069,141 @@
           "summary": "投資者擔心數據中心放緩，文章分析呢個憂慮係咪真係會成真。",
           "url": "https://www.fool.com/investing/2026/11/05/the-nasdaq-plunges-5-what-the-data-center-crash-means-for-investors/",
           "time": "07:26"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "今日焦點：AI 大跌，納指一日蒸發 2.3 萬億美元",
+          "summary": "星期四美股係選後狂歡嘅帳單到期日，道指跌 1,835 點、標普跌 4.3%、納指暴跌 5.5%正式入修正，費半單日崩跌 12.3%，納指 100 單日蒸發 2.3 萬億美元市值，史上最大。Samuel Cheng 指出唔單止係技術性去槓桿，超買股回落、超賣股無力反彈觸發全面連動性賣壓，加上年底對沖基金鎖定收益，Lam Research 一個月跌 36%、AMD 跌 22%、Nvidia 跌 15%。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Samuel Cheng：市場恐慌矯枉過正，底部要等三件事",
+          "summary": "Samuel Cheng 話 Micron 以 4.8 倍遠期市盈率、Nvidia 以 14 倍低過大盤 18.4 倍交易，反映嘅唔係合理重估，而係恐慌出逃後嘅真空，記憶體需求超循環未因一場選舉蒸發。真正嘅底部要等 Nvidia 11 月 17 日財報、超大型業者對 2027 年資本支出嘅態度，同埋州長就職後實際政策文字三件事同時成立，之前倉位寧輕勿重，唔追反彈。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Tae Kim：市場誤讀選舉，德州數據中心叫停係買跌機會",
+          "summary": "Tae Kim 話市場誤讀咗選舉，德州州長當選人 Hinojosa 係親商嘅民主黨人，唔係憎數據中心，係要停一停等保護社區嘅法律訂好先。德州佔全美數據中心發展管道約三成，星期四嘅拋售好大程度係驚佢會叫停德州 AI 建設，佢認為呢個係買跌機會。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "SemiAnalysis：TPU 正式威脅 CUDA 護城河",
+          "summary": "SemiAnalysis 話 Google TPUv7 Ironwood 喺推理測試性價比上已經追平甚至贏過 Nvidia B200、B300、GB300 同 AMD MI355X，每美元 token 數係對手嘅 1.2 至 2.7 倍。Nvidia 收到風即刻組突擊隊趕工反擊測試，結果大部份曲線仍然比 TPUv7 貴 1.64 倍，內部官僚主義已經係護城河最大風險之一。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "G2AI：Groq 同 Cerebras 都轉向 3D 堆疊 DRAM",
+          "summary": "G2AI 講 Groq 嘅 SRAM 優先路線撞到容量牆，Groq 3 每粒 LPU 得 500MB SRAM，256 粒機架先得 128GB，根本唔夠前沿模型加長 KV cache 用。兩間最大聲講 SRAM 優先推理嘅公司而家都轉向垂直 DRAM，綁死佢哋嘅唔再係延遲，而係容量。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "不預測漲跌：甲骨文發債——信用市場逐家挑 AI 借款人加價",
+          "summary": "甲骨文 11 月 2 日同一日定價 100 億美元新債加約 100 億美元普通股，新債利差比 2 月同天期寬 145 到 175 個基點，但同期公司債指數只擴約 25 個基點，信用市場明顯按資金缺口逐家挑 AI 借款人加價，甲骨文係被加得最多嗰間。甲骨文 2026 財年自由現金流負 237 億美元，全年股債已籌約 700 億美元，多過 2 月計劃嘅 450 至 500 億。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Unusual Whales：大跌前幾日有人捉到正，認沽期權一晚賺幾倍",
+          "summary": "有兩個交易員喺大跌前幾日捉到正，SMCI 認沽期權一晚賺 247%，AMAT 認沽期權分別賺 381% 同 937%，作者話係乾淨開倉 flow，唔係內幕消息。值得留意係 SMCI 財報本身其實好靚，非 GAAP 每股盈利 1.81 美元大勝預期，營收年增 298% 創紀錄，但宏觀拋售之下照跌。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Beth Kindig：Nvidia 回顧——2018 年已預言 AI 巨頭",
+          "summary": "Beth Kindig 今期係回顧多過新分析，話自己早喺 2018 年底至 2019 年初已經寫 Nvidia 會成為 AI 巨頭，傳媒同網紅四年之後先跟上，嗰陣已經錯失近 500% 升幅。呢封係佢歷年 Nvidia 預測嘅合集，冇針對星期四呢場大跌嘅新分析。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "財報：NET、ABNB 逆市大升，TEAM 再失望",
+          "summary": "Cloudflare 第三季營收年增 39.2%，係近四年最快，盤後升 18%，係今季軟件股最好嘅一份財報；Airbnb 第三季晚數年增 16%，係 2023 年第一季以來最快，盤後升 12%。Atlassian 雲業務年增 30.5% 但係六季以來首次減速，2027 財年雲增長指引低過暗盤預期，盤後跌 20%。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Michael Burry：MELI 業績唔擔心，等跌穿 1500 美元先入",
+          "summary": "Michael Burry 話 MercadoLibre 業績唔令佢擔心，雖然連續幾季盈利令人失望，但相信公司正建立可以長期保護嘅護城河，調整後內在價值 1,433 美元，等緊跌穿 1,500 美元先入。CFO 解釋今季毛利受壓主因係物流網絡擴張 20% 為第四季旺季準備，金融科技不良貸款率持平，業務繼續增長 62%。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "大叔：大跌時點樣搵下一個趨勢股",
+          "summary": "大叔話唔好急住問選舉之後買咩，應該先問市場接下來會將錢重新分配去邊，呢波其實係對沖基金去槓桿、將擠埋一齊嘅 AI 部位平倉造成，部位在崩，唔係經濟在崩。搵趨勢股嘅正確次序係政策或技術改變、資金重新配置、產業出現瓶頸、企業訂單增加，最後股價先被更多人發現，選舉之後佢會追四類公司。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "大叔：每日重點——今日踩踏味道出嚟喇，唔好失去信心",
+          "summary": "大叔另一封每日重點係付費牆後嘅聊天紀錄，導讀話今日踩踏味道出嚟喇，唔好失去信心，市場負面消息一直擾亂人心，四月係咁、七月都係咁。佢又話自 1962 年以來每次中期選舉之後 12 個月都係升，16 次入面 16 次都係咁。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Adam Mancini：ES 技術位——牛市要收復 7,490 先重新起步",
+          "summary": "Adam Mancini 話星期四係今年標普最大單日跌幅，星期二晚 ES 跌穿 7 月 31 日低位 7,495 後收復，係一個 Failed Breakdown，星期三彈到 7,739 但企唔穩，星期四又跌穿 7,490。牛市要重新起步，就要收復 7,490 呢個位，做出另一個 Failed Breakdown。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Samuel Cheng：油價同債市——WTI 回升至約 90.75 美元，十年債息跌至 4.84%",
+          "summary": "Samuel Cheng 話 WTI 星期三因為市場預期伊朗談判可能重啟而暴跌 8%，星期四部份回升到約 90.75 美元，布蘭特接近 98 美元；十年期美債孳息進一步跌到 4.84%，唔係債市睇好經濟，而係股市下跌引發避險需求。黃金微升到 4,099 美元，比特幣跌到 76,000 美元。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Trading Mindset & Data：中期選舉觸發油價急跌，黃金反彈能否持續成疑",
+          "summary": "Trading Mindset & Data 話中期選舉結果觸發 WTI 急跌穿 100 美元，市場將伊朗衝突歸咎於政府，短暫憧憬談判，但德黑蘭仍然拒絕和談條件，貴金屬短暫喘息，但黃金結構性反彈能唔能夠持續好成疑問。GoldFix 晚間簡報話白銀向上突破令黃金淡倉要急補倉，鉑金巨頭 Heraeus 面臨金屬測試造假危機擴大。",
+          "url": null,
+          "time": "07:15"
         }
       ]
     }
