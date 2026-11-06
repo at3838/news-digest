@@ -8113,6 +8113,267 @@
           "summary": "全美 41% 待建數據中心產能位於新當選州長承諾停建或暫停起數據中心嘅州，數據來自 Cleanview。",
           "url": "https://x.com/unusual_whales/status/2118780314445373842",
           "time": "19:20"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "星期五盤前晶片股強勁反彈，Micron 升 7.3%、AMD 升 7.7%",
+          "summary": "亞洲跟跌一晚之後回穩；十月非農新增 16.5 萬個職位、時薪升 0.4%，熱過預期，十年債息升到 4.9%。作者話星期四係 AI 資本開支鏈一次清倉，半導體指數跌 12.25%，VIX 升到 28.18。",
+          "url": "https://bankofvol.substack.com/p/chip-flush-asia-6-payrolls-at-1430",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "星期四回顧：標普跌 4.36%、納指跌 5.52% 跌入調整區",
+          "summary": "道指跌 3.44%，彭博話七大科技公司一日蒸發大約 1.1 萬億美元；VIX 收 28.18，單日升 11.57 點。晶片股重災，SanDisk 跌 22.2%、AMD 跌 17.3%、Micron 跌 17.5%；Airbnb 盤後升 11%，AppLovin 升 31%。",
+          "url": "https://rockandturner.substack.com/p/thur-nov-05-2026-the-market-today",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "跌市之後嘅分析：標普結束 394 個交易日冇跌超過 3% 嘅紀錄",
+          "summary": "納指 100 跌到比 52 週高位低 15.2%。文章話 AI 收入八成以上仲係業內互相買賣嘅循環資本開支，七大 AI 支出者大約 4 萬億美元債務同租賃承諾喺表外；12 月加息機率由 85% 跌到 68%。",
+          "url": "https://broadspectrum.substack.com/p/broad-spectrum-finance-101-the-morning",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "作者拆解 Anthropic 上市文件",
+          "summary": "2026 年頭九個月收入 332 億美元，經營現金流正 66 億美元，經營虧損 13 億美元；賬面淨虧損 1,040 億美元入面，943 億美元係可轉換融資工具估值變動嘅非現金賬。基建承諾合共 8,954 億美元，未來 12 個月要付 698 億美元，手頭現金 1,318 億美元。",
+          "url": "https://jg12133780.substack.com/p/anthropic-s-1-the-financial-anatomy",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "OpenAI 推出 GPT-6 Cyber，評為最高級網絡安全能力",
+          "summary": "喺自家框架評為最高級「Critical」網絡安全能力，ExploitGym 得分 48.5%，對比 GPT-5.6 Cyber 嘅 32.1%，只限已批核用戶用。獨立評估機構 METR 估計 Anthropic 研發進度加速咗大約 1.9 倍，但大部分關鍵證據俾 Anthropic 遮咗；瑞銀估計停建潮可能令 2028 年美國新增數據中心產能三成受影響。",
+          "url": "https://etheriumuniverse.substack.com/p/agi-files-daily-intelligence-brief-a56",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "AI 智能體開始變成收購目標",
+          "summary": "Meta 收購咗並行編程智能體初創 Conductor，價錢未披露，雲端服務 11 月 20 號關閉；Palo Alto Networks 傳緊用大約 5 億美元收購 AI 智能體保安初創 Clutch。另外 Claude 喺美國推出個人理財 beta，可以經 Plaid 連接銀行賬戶睇開支；Google 搗破咗由 130 萬部 Android 機頂盒組成嘅 XCPE 殭屍網絡。",
+          "url": "https://sergioiker.substack.com/p/the-digital-pulse-november-6-2026",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "長文問 AI 熱潮如果調整，損失會落喺邊個度",
+          "summary": "標普將 Meta 信貸展望調到負面，OpenAI 集資目標由 300 億美元 cut 到 200 億美元，估值由 1.4 萬億美元降到 1.25 萬億美元。美國五大科技借款人今年已經借咗 3,260 億美元，係上年三倍；地方公投 41 項數據中心議案入面，反對方贏咗 40 項。",
+          "url": "https://ifforesight.substack.com/p/insight-and-foresight-brief-n-21",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "北韓假 IT 員工騙局升級做間諜活動",
+          "summary": "CrowdStrike 話每日搵到一至兩宗可疑個案，FBI 搜查咗德州 40 幾個手提電腦農場，影響超過 70 間美國公司。另外 CVS 宣布 2028 年中之前分拆做兩間上市公司，股價跌大約 13%，加州州長將 548 個死刑減做終身監禁。",
+          "url": "https://dailyheadlines.substack.com/p/wall-street-just-had-a-brutal-day",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "星期五盤前簡報：晶片股反彈由 MU 同 SNDK 帶頭",
+          "summary": "Cloudflare 升 19.4%、Airbnb 升 13.9%，但 DraftKings 跌 24.3%、Atlassian 跌 15.4%，收入升 24% 都照跌；Axon 投資 12 億美元入無人機公司 Skydio，股價跌 11.5%。大戶星期四淨買入 81 億美元 SPY，之前一日淨賣出 48 億美元。",
+          "url": "https://confluencetradingtools.substack.com/p/ctt-ai-analyst-pre-market-briefing-ea3",
+          "time": "21:33"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "微軟逐步停租 Oracle AI 算力",
+          "summary": "舊一代 Nvidia 晶片唔再符合微軟規格，唔續租；Oracle 話 AI 基建需求依然強勁，討論話係硬件唔匹配，唔係需求崩塌。",
+          "url": "https://www.reddit.com/r/stocks/comments/1xpjkkr/microsoft_is_winding_down_oracle_deal_to_rent_ai/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "科技巨頭一日蒸發一萬億美元",
+          "summary": "民主黨中期選舉勝出之後，市場擔心數據中心／AI 擴張放慢，七巨頭一日合共跌走一萬億美元，納指跌超過 5.5%；討論質疑因果關係，話好多係未實現嘅估值。",
+          "url": "https://www.reddit.com/r/technology/comments/1xpc7j0/big_tech_loses_a_trillion_dollars_in_a_day_after/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "黃仁勳俾國會傳召",
+          "summary": "FT 報導，共和黨高層要求 Nvidia 老闆向國會委員會簡報，之前有報導話佢俾中國針對；討論多數講笑，話會唔會好似 TikTok 聽證會咁，佢會唔會著皮褸出嚟。",
+          "url": "https://www.reddit.com/r/technology/comments/1xpf7u9/nvidia_ceo_jensen_huang_summoned_by_congress_over/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "華爾街望企穩",
+          "summary": "路透話科技股暴跌幾萬億之後望企穩；討論唔多信，話跌 5.5% 之後升 1.4% 唔叫企穩，亦有人提到晶片股反彈 4.5–8%，同微軟 10-Q 顯示 3,646 億美元租賃未開始。",
+          "url": "https://www.reddit.com/r/StockMarket/comments/1xpemwn/wall_street_set_to_stabilise_after/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Anthropic 工程師警告「認知投降」",
+          "summary": "Claude Code 工程師 Addy Osmani 話，當你連經智能體得出嘅答案都解釋唔到，你就已經交出咗擁有權；好多留言話職場一樣，同事轉發 AI 輸出但自己解釋唔到。",
+          "url": "https://www.reddit.com/r/technology/comments/1xpe8zg/an_anthropic_engineer_warns_about_cognitive/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Mark Cuban 指控 Facebook 用 AI 換臉騙局賺錢",
+          "summary": "假 Cuban 糖尿病廣告令長者真金白銀受損，FBI 數據話 2025 年 60 歲以上人士損失 77 億美元；討論集中喺 160 億美元涉詐收入估算，有人要求用 RICO 式檢控。",
+          "url": "https://www.reddit.com/r/technology/comments/1xpkqxo/mark_cuban_accuses_facebook_of_running_ai/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "示威者闖入微軟阿姆斯特丹數據中心工地",
+          "summary": "歐洲出現反數據中心抗議浪潮；討論兩邊都有，有人支持，亦有人話用閉環用水同自發電就唔係問題。",
+          "url": "https://www.reddit.com/r/technology/comments/1xpazyf/protesters_break_into_microsoft_data_center_site/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "微軟申請專利：AI 可以喺直播期間改人口講嘅嘢",
+          "summary": "仲可以按個別觀眾喜好度身訂造；留言話以後螢幕上面乜都信唔過，要求立法，亦有人話可以用嚟即時翻譯或者刪走口頭禪。",
+          "url": "https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Airbnb 季績背後嘅隱藏取消問題",
+          "summary": "作者話「即訂遲付」計劃令客人取消大增，數字未完全反映喺頭條業績；反對聲音話取消已經計入預訂晚數，主要影響手續費入賬時間，10-Q 話遲付預訂取消率較高，但冇披露比率。",
+          "url": "https://www.reddit.com/r/investing/comments/1xp8rdu/airbnbs_quarterly_results_the_hidden_guest/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "14 隻晶片股遠期市盈率對照",
+          "summary": "作者用反向 DCF 計，ARM 71.3 倍要每年自由現金流升 39% 先合理，MU 4.0 倍只需 2.6%，SNDK 3.5 倍連零增長都唔值；NVDA 同 QCOM 都係 15.5 倍，但 NVDA 要升約 20%，QCOM 只需約 9%。",
+          "url": "https://www.reddit.com/r/stocks/comments/1xpbg1b/forward_pe_ratio_of_14_of_the_most_popular_chip/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "納指 100 反彈 2%",
+          "summary": "星期四 2020 年以來最差一日之後，星期五晶片股帶頭收復部分失地，係 9 月 21 號以來最好一日；十月非農勁過預期。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/62998202/stock-market-today-nasdaq-100-rebounds-chip-stocks-payrolls-beat",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "本週回顧：納指 100 創 2020 年以來最差一日",
+          "summary": "AI 交易連續第四個星期跌，今次打擊嚟自選票箱；就業數據勁，令 12 月加息預期維持。",
+          "url": "https://www.benzinga.com/markets/market-summary/26/11/63012338/nasdaq-100-worst-day-since-2020-midterm-sweep-ai-selloff-jobs-fed-this-week-on-wall-street",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Oracle 跌：傳微軟縮減同 Oracle 嘅 AI 算力合作",
+          "summary": "舊一代晶片唔合規格；同今日 Facebook 同 Reddit 講嘅一樣。",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63003689/oracle-stock-slides-as-microsoft-reportedly-pulls-back-from-ai-computing-deal",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Cloudflare 星期五升",
+          "summary": "星期四收市後第三季業績好過預期，收入升 39%，股價造好。",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62974106/cloudflare-shares-power-higher-friday-whats-going-on",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "DraftKings 大跌",
+          "summary": "第三季收入同盈利雙雙差過預期，兼且下調全年指引，股價急跌。",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62973734/draftkings-stock-plunges-after-double-miss-full-year-guidance-cut",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Lam Research 250 億美元回購",
+          "summary": "宣布 250 億美元股份回購授權，兼且加季度股息，星期五股價升。",
+          "url": "https://www.benzinga.com/markets/buybacks/26/11/62975570/lam-research-unleashes-25-billion-stock-buyback",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Nvidia 傳投數十億美元入先進封裝",
+          "summary": "先進封裝短缺限制咗 AI 晶片產量，Nvidia 傳出錢擴產能，解決呢個新樽頸。",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63010319/nvidia-chip-packaging",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Bernstein 話中期選舉 AI 拋售反應過度",
+          "summary": "德州、喬治亞、俄亥俄監管風險升溫，但預計數據中心項目受影響有限。",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/63002288/ai-stocks-got-hammered-after-midterms-but-this-analyst-says-the-panic-is-overblown",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Disney 下一章增長",
+          "summary": "新 CEO Josh D'Amaro 傳裁員數千人，Dan Ives 話係釋放盈利能力嘅聰明做法，幫公司進入下一章。",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/11/62999961/disney-set-for-next-chapter-of-growth-dan-ives-says-job-cuts-to-unlock-earnings-power",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-06",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Jason Calacanis 中期選舉拋售之後買入 8 隻股票",
+          "summary": "All-In Podcast 主持話唔怕，兩黨勝負參半加妥協，市場會創新高。",
+          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63010237/jason-calacanis-is-buying-these-8-stocks-after-the-midterm-selloff-markets-top-tick-and-set-new-records",
+          "time": "21:44"
         }
       ]
     }
