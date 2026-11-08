@@ -9847,8 +9847,8 @@
           "date": "2026-11-08",
           "source": "早晨簡報",
           "briefing": "早晨簡報新聞節",
-          "title": "克拉科夫市中心槍擊至少 6 死 16 傷",
-          "summary": "波蘭克拉科夫市中心廣場尋日發生槍擊，至少 6 死 16 傷，死者包括一名英國人。",
+          "title": "克拉科夫市中心槍擊合共 9 死",
+          "summary": "波蘭克拉科夫市中心廣場尋日發生槍擊，廣場 6 死 16 傷，死者包括一名英國人；警方之後喺疑犯屋企再發現 3 具遺體，合共 9 死。",
           "url": null,
           "time": "06:58"
         },
@@ -9857,7 +9857,7 @@
           "source": "早晨簡報",
           "briefing": "早晨簡報新聞節",
           "title": "美國政府停擺第 39 日，FAA 要求削減航班",
-          "summary": "美國政府停擺踏入第 39 日，FAA 要求航空公司喺 40 個主要機場削減 4% 航班，星期二加到 6%。",
+          "summary": "美國政府停擺踏入第 39 日，FAA 要求航空公司喺 40 個主要機場削減 4% 航班，星期三（11 月 11 日）加到 6%。",
           "url": null,
           "time": "06:58"
         },
@@ -9867,15 +9867,6 @@
           "briefing": "早晨簡報新聞節",
           "title": "以色列總統委任艾森科特組閣",
           "summary": "以色列總統委任反對派領袖艾森科特組閣，佢有 28 日時間籌組聯合政府。",
-          "url": null,
-          "time": "06:58"
-        },
-        {
-          "date": "2026-11-08",
-          "source": "早晨簡報",
-          "briefing": "早晨簡報新聞節",
-          "title": "Andy Burnham 再提英國重返歐盟",
-          "summary": "工黨嘅 Andy Burnham 再提英國重返歐盟，政府內部人士話唔會順利。",
           "url": null,
           "time": "06:58"
         },
@@ -9901,8 +9892,8 @@
           "date": "2026-11-08",
           "source": "早晨簡報",
           "briefing": "早晨簡報新聞節",
-          "title": "英鎊加息後徘徊喺 1.347 美元附近",
-          "summary": "英鎊加息後變化唔大，徘徊喺 1.347 美元附近；兩年期國債孳息微升至約 4.76%。",
+          "title": "英鎊加息後變化唔大，星期五收 1.346 美元",
+          "summary": "英鎊加息後變化唔大，星期五收 1.346 美元左右。",
           "url": null,
           "time": "06:58"
         },
@@ -9910,10 +9901,37 @@
           "date": "2026-11-08",
           "source": "早晨簡報",
           "briefing": "早晨簡報新聞節",
-          "title": "蘋果被揭喺新加坡慳咗 27 億美元稅",
-          "summary": "蘋果被揭透過喺新加坡入賬慳咗 27 億美元稅，新加坡已經超越愛爾蘭，成為佢最大嘅避稅地。",
+          "title": "蘋果 10-K 首次披露按地區交稅",
+          "summary": "蘋果新公布嘅 10-K 首次披露按地區交稅：舊年向美國交稅 190 億美元，愛爾蘭 50 億，新加坡 33 億。",
           "url": null,
           "time": "06:58"
+        },
+        {
+          "date": "2026-11-08",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "1M2%：選擇事前公開所有 live 賬戶",
+          "summary": "呢兩日 Threads 周圍都係事後股神，佢自己就選擇事前公開晒所有 live 賬戶，話當眾翻車嘅風險先最貼近大家日常交易。",
+          "url": "https://www.threads.com/@1month2percent/post/Dfd46hpG6Dr",
+          "time": "07:09"
+        },
+        {
+          "date": "2026-11-08",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "AI 極客新聞：畀 agent 用嘅瀏覽器工具 agent-browser",
+          "summary": "介紹咗一個畀 agent 用嘅瀏覽器工具 agent-browser，用 Rust 寫，將網頁讀成文字，每個元素帶住引用編號，瀏覽器喺指令之間唔會閂。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfeD3mam0eV",
+          "time": "07:09"
+        },
+        {
+          "date": "2026-11-08",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "AI 極客新聞：8192 個字形各配一個 token",
+          "summary": "講畀 8192 個字形各配一個 token，字形編號同 token id 一一對齊，詞表由 OpenAI 嘅 o200k_base 裁出嚟。",
+          "url": "https://www.threads.com/@aigeeknews/post/DfeDwvym2eF",
+          "time": "07:09"
         }
       ]
     }
