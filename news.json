@@ -12628,6 +12628,51 @@
           "summary": "特朗普話，FBI 正在「調查」黃仁勳。事緣輝達行政總裁承認同一個美國相信係中國間諜嘅女子有婚外情。",
           "url": null,
           "time": "22:31"
+        },
+        {
+          "date": "2026-11-09",
+          "source": "WSJ",
+          "briefing": "WSJ What's News（22:40）",
+          "title": "輝達股價因間諜調查大跌",
+          "summary": "晶片巨頭今日跌 4.3%，市值蒸發約 2,300 億美元，事緣董事會就行政總裁黃仁勳同一名懷疑為中國情報人員工作嘅高層有婚外情、並成為間諜行動目標嘅報道展開調查。黃仁勳冇明確二把手或接班人，公司好大一部分業務由佢親自管；佢作為公司關鍵人物嘅地位，而家變成輝達一大風險。",
+          "url": "https://www.wsj.com/business/nvidia-shares-slump-on-spy-probe-1d59bde7",
+          "time": "22:40"
+        },
+        {
+          "date": "2026-11-09",
+          "source": "WSJ",
+          "briefing": "WSJ What's News（22:40）",
+          "title": "眾議員 Massie 提出彈劾國防部長 Hegseth",
+          "summary": "共和黨眾議員 Thomas Massie 提出彈劾國防部長 Pete Hegseth，指佢非法發動伊朗戰爭，又無視國會要求撤軍嘅決議。Hegseth 可能成為 150 年來首位喺眾議院被彈劾嘅國防部長；Hegseth 駁回彈劾，話會留任到特朗普政府完結。",
+          "url": null,
+          "time": "22:40"
+        },
+        {
+          "date": "2026-11-09",
+          "source": "WSJ",
+          "briefing": "WSJ What's News（22:40）",
+          "title": "Anthropic 照推本月尾 IPO",
+          "summary": "Claude 母公司今個星期會同主要投資者會面，目標下星期四或五開始交易。投資者等緊公司今個星期初喺文件公布目標估值範圍；一個星期前市場預期估值約 1.5 萬億美元，但上星期四 AI 股大跌之後，部分大投資者而家想壓低估值。",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-prepares-to-push-ahead-with-ipo-despite-market-jitters-843dd16c",
+          "time": "22:40"
+        },
+        {
+          "date": "2026-11-09",
+          "source": "WSJ",
+          "briefing": "WSJ What's News（22:40）",
+          "title": "法國外長指伊朗襲擊歐洲超市雪櫃",
+          "summary": "法國外長 Jean-Noël Barrot 話，伊朗要為黑客攻擊歐洲超市雪櫃負責，攻擊造成數千萬美元食物同設備損失。美國官員確認，調查顯示攻擊有伊朗網絡手法特徵，調查仲進行緊。",
+          "url": "https://www.wsj.com/world/europe/france-u-s-suspect-iran-was-behind-cyberattack-on-european-fridges-6247965c",
+          "time": "22:40"
+        },
+        {
+          "date": "2026-11-09",
+          "source": "WSJ",
+          "briefing": "WSJ What's News（22:40）",
+          "title": "美國監管機構要求 GLP-1 藥加罕見失明風險警告",
+          "summary": "呢類藥可能增加一種叫 NAION 嘅病況風險，可以導致部分失明，FDA 喺安全通告咁講。數十名病人告緊 Novo Nordisk 同 Eli Lilly，話藥物令佢哋失明，兩間公司正抗辯；禮來話正評估 FDA 更新，Novo 話仍然相信好處大過風險。",
+          "url": "https://www.wsj.com/health/pharma/u-s-regulators-warn-glp-1-drugs-carry-possible-rare-blindness-risk-c36a4564",
+          "time": "22:40"
         }
       ]
     }
