@@ -13848,6 +13848,87 @@
           "summary": "軟銀由盈轉虧，顯示 AI 大舉擴張背後嘅財政壓力愈來愈大。",
           "url": "https://www.benzinga.com/markets/earnings/26/11/63106347/softbanks-profit-reversal-highlights-growing-financial-strain-behind-ai-expansion",
           "time": "17:39"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "Goodbye HK Hello Billy：輝達股東提出集體訴訟",
+          "summary": "輝達股東提出集體訴訟，指黃仁勳同黃樂嘅關係有誤導陳述，單日蒸發 1,920 億美元市值之後再被追討。",
+          "url": "https://facebook.com/100054171051898/posts/pfbid0EwuywLPL71xDjZJ1rbq8HS3p1dQAyxKzfjsStC27hEr4tkMm8CvQWyEZEETzF3GMl/",
+          "time": "19:05"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "Alexander Huang：《The Information》獨家調查揭露黃仁勳同黃樂嘅關係",
+          "summary": "《The Information》獨家調查揭露黃仁勳同黃樂嘅關係，牽涉中國同新加坡嘅輝達晶片交易網絡，上海世紀利通成立幾個月就攞到輝達優先合作夥伴資格。",
+          "url": "https://facebook.com/100027334114850/posts/pfbid0374RxRv16JV1cKLf75Zkjxg9UKn3nB5EagY29sdFyuKMZcAvSFSjRbWHgRQUAuPvPl/",
+          "time": "19:05"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "Enews 發燒熱新聞：48 億美元晶片採購案加 30 億美元不明資金",
+          "summary": "48 億美元晶片採購案加埋帳面莫名多出嘅 30 億美元資金，令黃仁勳婚外情由桃色新聞升級做美中角力嘅國安危機。",
+          "url": "https://facebook.com/100067182454904/posts/pfbid02ZkhoMbRF4rtR7mZrFAcpdneGcoAWjUqKC6AA8zociVnpqL8iDcxuRXc3TdAihvzsl/",
+          "time": "19:05"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "Chingwei Chang：NVDA 面對兩項犯罪調查，市場轉捧 AMD",
+          "summary": "NVDA 已經唔係股價見底問題，而係面對貿易禁運同違反技術管制兩項犯罪調查，市場開始轉捧 AMD。",
+          "url": "https://facebook.com/groups/334214320531228/permalink/2214220599197248/",
+          "time": "19:05"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "生酮感受 x Wellness Wonderland：黃仁勳唔係單純受害者",
+          "summary": "作者認為黃仁勳唔係單純受害者，佢明知黃樂帶住國家任務而來，係想借佢打開中國市場。",
+          "url": "https://facebook.com/100063959290718/posts/pfbid02hyjXSr6pBr8snpj2tiEz8MeZ3b6NdsSYyq2jbpVYjGA9MBhvZuQGnHtbc933qLACl/",
+          "time": "19:05"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "資工心理人的理財探吉筆記：Anthropic 最新規則限制中國用戶",
+          "summary": "Anthropic 最新規則話未列出嘅國家或地區一律唔支援，中國用戶去到當地用唔到，總部喺中國嘅機構員工無論身處邊度都唔用得。",
+          "url": "https://facebook.com/100045107583473/posts/pfbid0GHLvM2VYKQr1uyGbPRJTA9hm7KRh9NMKGk65s5EZYiQHevE3AVScqERsKduA8E1kl/",
+          "time": "19:05"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "I.T. 歐爸 Oppa：Google Antigravity 推出雙介面",
+          "summary": "Google Antigravity 推出「知識工作」同「軟體工程」雙介面，非程式背景用戶都可以用嚟讀報告、做企劃。",
+          "url": "https://facebook.com/61594053342988/posts/pfbid0bzEBPwo1hxeVmc6vWrbDmkJdC67rE2vKCPNHYcYwp1quL9CnviQ769cnYGkrVZKFl/",
+          "time": "19:05"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "Yen-fu Ji：分享 Image summon 工具",
+          "summary": "分享 Image summon 工具，令 Claude 可以一鍵叫 Codex 生成圖片，唔使將 API key 留喺本地。",
+          "url": "https://facebook.com/groups/1224997379198346/permalink/1443957507302331/",
+          "time": "19:05"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 夜晚",
+          "title": "Dave Gambrill：Muse Mail 似乎只限付費用戶",
+          "summary": "Muse Mail 而家似乎只限付費用戶用。",
+          "url": "https://facebook.com/groups/1625655219228182/permalink/1676939377433099/",
+          "time": "19:05"
         }
       ]
     }
