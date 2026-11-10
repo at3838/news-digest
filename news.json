@@ -12702,6 +12702,245 @@
           "time": "23:19"
         }
       ]
+    },
+    {
+      "date": "2026-11-10",
+      "items": [
+        {
+          "date": "2026-11-10",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "Nvidia 董事會調查 CEO 黃仁勳",
+          "summary": "特朗普話 FBI 正調查 CEO 黃仁勳，傳佢同疑似中國間諜有關係；Nvidia 董事會已展開獨立調查，股價尋日跌咗 4.3%。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "烏克蘭和談今日喺阿布扎比開會",
+          "summary": "美、烏、俄三方今日喺阿布扎比開會，係二月以嚟首次三方會談。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "特朗普話再攻打伊朗「好大機會唔會」",
+          "summary": "特朗普話戰事軍事上已經完咗；油價應聲回落，布蘭特大約 $91.6。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "中國貿易順差頭十個月突破 1 萬億美元",
+          "summary": "中國貿易順差頭十個月突破 1 萬億美元，創紀錄。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "Russell Brand 強姦及性侵罪成",
+          "summary": "Russell Brand 強姦及性侵罪成；今日約 650 名囚犯提早獲釋，係政府紓緩監獄擠迫計劃第三階段。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "pjfp：Claude Fable 5.2 and Mythos 5.2：Benchmarks, Safety and Tests vs Opus 5.5",
+          "summary": "Anthropic 一次過推出兩個新模型 Fable 5.2 同 Mythos 5.2，其實係同一個底層模型，分別只係安全限制；基準成績全面贏 Opus 5.5，價錢比 5.1 一代平咗。",
+          "url": "https://pjfp.com/claude-fable-5-2-mythos-5-2-anthropic-release/",
+          "time": "07:02"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "烏克蘭和談今朝喺阿布扎比開鑼",
+          "summary": "係二月以嚟首次三方會談，美方想將停火同成個歐洲安全大deal掛鈎，歐洲代表唔入主談判桌，只會另外聽烏方匯報。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "默茨話唔分擔援烏開支就阻住歐盟預算",
+          "summary": "德國總理默茨出信話，如果各國唔肯一齊分擔援烏開支，就會阻住歐盟 2028 至 2034 年七年預算；烏克蘭出年資金缺口 700 億歐元，歐盟已應承包大約 450 億，匈牙利等四國話唔跟。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "法國話十月超市雪櫃網攻係伊朗所為",
+          "summary": "法國外長話十月癱瘓近 700 間超市雪櫃嘅網攻係伊朗所為；法國同日喺巴黎 G7 外長會推出反毒港口網絡，聯繫 14 個港口打擊毒品走私。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "COP31 喺土耳其安塔利亞開幕",
+          "summary": "聯合國氣候主管話化石燃料價格亂晒籠，搞到通脹周圍擴散，全球好大機會三四年內衝破升溫 1.5 度；今次主打 2035 年前用電佔比由兩成升到三成半。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "Russell Brand 判囚十年半",
+          "summary": "Russell Brand 尋日喺南華克刑事法院判囚十年半，強姦罪判九年，另加三項性侵；要坐滿三分之二、大約七年先可以假釋，終身列入性罪犯名冊。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "今日約 650 名囚犯提早獲釋",
+          "summary": "今日英格蘭同威爾斯大約 650 名囚犯提早獲釋，係第三批，合資格嘅坐滿三分一刑期就放；目標到出年六月放 4,500 人，監獄而家逼爆到 97.6%。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "BBC 主席就 Panorama 剪接向國會道歉",
+          "summary": "BBC 風波未完，主席尋日向國會為 Panorama 剪接特朗普講話道歉，總幹事同新聞主管星期日已經一齊辭職，特朗普仲威脅索償 100 億美元。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "巴德諾赫承諾削 360 億鎊福利",
+          "summary": "保守黨黨魁巴德諾赫話福利開支拖垮經濟，承諾削 360 億鎊福利；政府就話正推招聘廣告強制列明人工，幫近 100 萬冇讀書冇工做嘅年輕人。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "英國同阿根廷為福克蘭石油項目拗起",
+          "summary": "英國同阿根廷為福克蘭群島石油項目拗起，漢堡法庭準備審理爭議，英方話唔接受阿根廷嘅講法。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "歐股尋日反彈，市場等美國十月 CPI",
+          "summary": "歐股尋日反彈，富時 100 升 1.02% 收 10,782.87 點，德國 DAX 升大約 1.7%，歐洲 Stoxx 50 升近 2%，市場等今午美國十月 CPI 出爐。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "英鎊企喺大約 1.345 美元",
+          "summary": "英鎊企喺大約 1.345 美元、1.199 歐元，貼近 1.2 歐元關口；英倫銀行上星期加息到 4 厘後，行長貝利話 AI 回報可能比預期慢，今日三名副行長同首席經濟師輪住講話。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "歐央行接班人選戰開鑼",
+          "summary": "拉加德出年二月卸任，西班牙同荷蘭各推一人選；歐元區十月通脹 4%，係三年高位，市場估十二月加息機會大約七成半。",
+          "url": null,
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Nor哥's investment Diary：閃迪 11 月 20 日 1 拆 8",
+          "summary": "閃迪 11 月 20 日 1 拆 8，作者提醒存儲股少掂，唔好以為跌得多就博反彈，記得停利。",
+          "url": "https://facebook.com/100069395994846/posts/pfbid02n2eJzKFqS2Dr4TQGJvW7ewgJpTkRBDFS3juwrMAS6ZsYSuCZJwD39X4kKRzpot1rl/",
+          "time": "07:07"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "基金事webzz：輝達資金流出，流入其他 AI 股",
+          "summary": "輝達資金流出，流入其他 AI 股而唔係其他產業，費半成分股得輝達一隻收跌，AMD 升 13.26%、博通升 8.78%、台積電 ADR 升 3.51%；作者話要留意循環融資，輝達係好多企業嘅共同金主。",
+          "url": "https://facebook.com/100071880366371/posts/pfbid02PPB5S4hVmhrWrMJ8eiWNb8gzWUBuujzU5u1Ua8799sjYFfH6s3AUJoKk5qSc5uGLl/",
+          "time": "07:07"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "陸行之：尋日盤面似係輝達資金外逃去各大龍頭",
+          "summary": "尋日盤面似係輝達資金外逃去各大龍頭，AMD 同 Google 產業鏈係少數受惠者，關鍵睇美國政府同輝達董事會對黃仁勳嘅態度。",
+          "url": "https://facebook.com/100044204661043/posts/pfbid02xzFGuqpAYRh3Xhr1h1dGe8DidtyBn4dus9Q3312hMNeqrst5tUm7PkaB9ddBdhDZl/",
+          "time": "07:07"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "易思行：黃仁勳緋聞搞到全世界食花生",
+          "summary": "黃仁勳緋聞搞到全世界食花生，Google 同日發佈新 TPU。",
+          "url": "https://facebook.com/100063850337797/posts/pfbid02jzv5m5HtVEML9iMCDFQAGvRxhWgFGruHgdfipT6guNwVLrCMF9EbqDrzt9sfkEPvl/",
+          "time": "07:07"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "I.T. 歐爸 Oppa：Anthropic 突發雙旗艦 Claude Fable 5.2 同 Mythos 5.2",
+          "summary": "Anthropic 突發雙旗艦 Claude Fable 5.2 同 Mythos 5.2，100 萬 context、單次輸出 12.8 萬 tokens，速度快 30%，長程代理之王降臨。",
+          "url": "https://facebook.com/61594053342988/posts/pfbid02wLaZ1YJh8aCuPTjUrLTSXXc8Pg1C9cW3qWf9gf6aRw57hUWrp51mBCBhb8tqDnC4l/",
+          "time": "07:07"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Drizzt Chen：Qwen3.5-9B 開源模型實測勁過 14B 模型",
+          "summary": "Hugging Face 有隻 Qwen3.5-9B 開源模型，係用 DeepSeek-V4-Pro 蒸餾出嚟、去咗審查限制嘅版本；作者實測話勁過 14B 模型，但一放佢接手記帳就自己拼 SQL 寫入數據庫，寫咗 7,130 萬筆垃圾記錄，教訓係提示詞禁令擋唔住，防線要起喺系統層。",
+          "url": "https://facebook.com/groups/gaitech/permalink/1835682490949291/",
+          "time": "07:07"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Kim Full：Grok Bot 回魂，底層用返 Opus 5.5",
+          "summary": "Grok Bot 回魂，底層用返 Opus 5.5，之前因為馬斯克嫌燒錢太多轉咗去自家 Grok 4.7，結果變笨變懶，網友哀嚎，依家終於返嚟；Anthropic 月底 IPO 能唔能突破 1.5 萬億美元，繼續睇。",
+          "url": "https://facebook.com/groups/vibecodingtaiwan/permalink/1111784891709981/",
+          "time": "07:07"
+        },
+        {
+          "date": "2026-11-10",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Chris Porter：700 幾條 Claude Opus 5.5 影片連原始提示詞收埋同一個 repo",
+          "summary": "有人將 700 幾條用 Claude Opus 5.5 整嘅影片連埋原始提示詞收埋同一個 GitHub repo，可以學人哋點整再自己翻做。",
+          "url": "https://facebook.com/groups/vibecodingforbeginners/permalink/1668175074864390/",
+          "time": "07:07"
+        }
+      ]
     }
   ]
 }
