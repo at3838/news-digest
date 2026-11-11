@@ -15086,6 +15086,78 @@
           "summary": "11 月 10 日星期二收市，標普跌 0.38% 至 7,520.93，納指跌 0.74%，只係回吐星期一升幅嘅一小部分，唔係全面拋售，科技板塊係 11 個板塊入面最差；VIX（Yahoo 收市數）由 19.92 回落至 19.46，繼續企喺 20 樓下，Cboe 最終 put/call 總數 0.95、指數 1.02、個股 0.77，個股比率由星期一 0.56 急升，單隻股份對沖買盤明顯增加。NVDA 再跌 5.47% 至 168.89 美元，連跌兩日約 9.5%，董事會調查加集體訴訟未完；AMD 升 1.30%、AVGO 升 3.91%，CoreWeave 業績勝預期兼上調指引，盤後升約一成。情緒中性偏審慎，星期三睇 VIX 守唔守得住 20 樓下、個股 put/call 會唔會繼續企喺 0.77 樓上，同埋 10 年債息 4.983%（星期三債市休市，要等星期四先再郁）。",
           "url": null,
           "time": "07:29"
+        },
+        {
+          "date": "2026-11-11",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@zerohedge：高盛加多一次加息預測",
+          "summary": "高盛話 10 月 CPI 明顯熱過預期，已經連續第三個月差過預期；維持 12 月加第二次 25 點子，新增預測 2027 年 3 月再加第三次，1 月提早加都有可能但機會細啲。",
+          "url": "https://x.com/zerohedge/status/2120366083219526117",
+          "time": "07:36"
+        },
+        {
+          "date": "2026-11-11",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@elerianm：聯儲局副主席 Bowman 講 AI 融資風險",
+          "summary": "Bowman 話 AI 相關債務升得好快，今年有望衝破 8,000 億美元，表外責任潛在付款估計係債務三倍以上；風險集中喺少數 AI 服務公司，如果收入追唔上成本，AI 股可能急跌、融資成本上升。",
+          "url": "https://x.com/elerianm/status/2120272027693035987",
+          "time": "07:36"
+        },
+        {
+          "date": "2026-11-11",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@unusual_whales：Anthropic IPO 估值或上 1.5 萬億美元",
+          "summary": "據 FT 消息，Anthropic 嘅銀行家準備將 IPO 估值提高到 1.5 萬億美元或以上，比之前定價範圍 $70–78、最高約 1.4 萬億再上調一級。",
+          "url": "https://x.com/unusual_whales/status/2120331422850548202",
+          "time": "07:36"
+        },
+        {
+          "date": "2026-11-11",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@zerohedge：美中正建立 AI 危機機制",
+          "summary": "引述 Perdue 話，美國同中國正合作建立一個關於 AI 嘅危機機制；帖文只係講「危機機制」，冇講係熱線，詳情未有。",
+          "url": "https://x.com/zerohedge/status/2120366626314780687",
+          "time": "07:36"
+        },
+        {
+          "date": "2026-11-11",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@Jason：蘋果會押注本地模型",
+          "summary": "Jason 話新 CEO John Ternus 會將蘋果成副身家押喺本地模型上面；引述報道話蘋果 Harbor app 會令喺多部 Mac 上面跑本地 AI 變得好簡單。",
+          "url": "https://x.com/Jason/status/2120351279088071163",
+          "time": "07:36"
+        },
+        {
+          "date": "2026-11-11",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@Jason：Waymo 高速公路未準備好",
+          "summary": "Jason 話 Waymo 無人監督行高速公路可能未準備好，高速加邊緣情況極度危險；引述 ABC7 新聞片段，三藩市 I-280 有部 Waymo 喺公路巡警做交通管制嗰陣超速駛過巡邏車。",
+          "url": "https://x.com/Jason/status/2120347022897139875",
+          "time": "07:36"
+        },
+        {
+          "date": "2026-11-11",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@tbpn：《晶片戰》作者講 H200 矛盾",
+          "summary": "《晶片戰》作者 Chris Miller 指出矛盾：一邊中國派間諜跟蹤黃仁勳，另一邊中國公司買咗嘅 H200 困喺香港海關入唔到數據中心；佢話如果中國真係全心相信通用人工智能，唔會咁做。",
+          "url": "https://x.com/tbpn/status/2120277618138489104",
+          "time": "07:36"
+        },
+        {
+          "date": "2026-11-11",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@tbpn：為中國客戶服務嘅數據中心或受審查",
+          "summary": "Miller 預測，隨著輝達調查展開，為中國客戶服務嘅數據中心（例如 Oracle 同 ByteDance 嗰啲）可能面對大量審查同新限制。",
+          "url": "https://x.com/tbpn/status/2120281629591777758",
+          "time": "07:36"
         }
       ]
     }
