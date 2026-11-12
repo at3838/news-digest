@@ -16456,6 +16456,47 @@
           "time": "23:18"
         }
       ]
+    },
+    {
+      "date": "2026-11-12",
+      "items": [
+        {
+          "date": "2026-11-12",
+          "source": "FinGuider",
+          "briefing": "FinGuider 美股盤後新聞（即時）",
+          "title": "Meta 基礎設施主管換人",
+          "summary": "Santosh Janardhan 明年初卸任，由 7 月自 AWS 加入嘅前資深副總裁 David Brown 接手，Brown 同時擔任 Meta Compute 計劃技術長；Janardhan 會協助過渡至 2027 年第一季。",
+          "url": null,
+          "time": "00:16"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "FinGuider",
+          "briefing": "FinGuider 美股盤後新聞（即時）",
+          "title": "微軟承諾自行負擔資料中心用電成本",
+          "summary": "雲端營運暨創新總裁 Noelle Walsh 喺 BloombergNEF 會議上話，微軟唔靠政府補貼，亦唔會將增長成本攤分去其他用電客戶；另外微軟同雪佛龍喺西德州合作嘅 Project Kilby 資料中心同電力項目，因德州暫停批核新資料中心而延宕，雪佛龍仍預計 2028 年啟用、2031 年全面運轉。",
+          "url": null,
+          "time": "00:16"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "FinGuider",
+          "briefing": "FinGuider 美股盤後新聞（即時）",
+          "title": "聯合航空收緊訂票政策",
+          "summary": "禁止未經授權嘅第三方個人 AI 代理人喺佢哋數碼平台運作，範圍包括旅行社同比價平台；原因係同 AI 助理分享登入資料可能洩漏敏感資料、導致非預期購票或兌換哩程，自動報到亦可能違反聯邦安全規定。行政總裁 Scott Kirby 話唔想再多個中間人；旅客仍然可以用 AI 查航班同票價，但要自己完成購買。",
+          "url": null,
+          "time": "00:16"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "FinGuider",
+          "briefing": "FinGuider 美股盤後新聞（即時）",
+          "title": "CoreWeave、Rocket Lab 業績同選後美股展望",
+          "summary": "同封信另外仲有三篇深度文：CoreWeave Q3 營收狂飆、積壓訂單創新高，但資本開支同利息負擔沉重；Rocket Lab Q3 營收同訂單雙創新高，Neutron 首飛延至最早 2027 年，但未升空已經展現定價權；期中選舉後美股點睇，AI 資料中心風險同市場輪動。",
+          "url": null,
+          "time": "00:16"
+        }
+      ]
     }
   ]
 }
