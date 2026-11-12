@@ -16729,6 +16729,51 @@
           "summary": "Nvidia CEO 黃仁勳緋聞消息令股東擔心，文章分析如果佢真係辭職，股價可能面對幾大壓力。",
           "url": "https://www.fool.com/investing/2026/11/11/how-far-could-nvidia-stock-fall-if-jensen-huang-resigns/",
           "time": "07:26"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "今日焦點：黃仁勳董事會星期三晚開會，無決定",
+          "summary": "The Information話董事會星期三晚開會討論黃仁勳去留，結果無決定；Samuel Cheng點名第二段婚外情對象係Kimberly Powell，Nvidia健康業務副總裁，喺公司做咗15年以上，係黃仁勳直屬下屬，更加接近2018年Intel行政總裁Krzanich因同下屬有親密關係而辭職嘅先例。Baird成為第一間公開要求黃仁勳辭職嘅大行，由跑贏大市降至中性，目標價由500美元大劈至200美元；不過82個分析師入面仲有77個維持買入，平均目標價大約332美元。關鍵日子：11月17日NVDA業績，11月18日Anthropic定價。",
+          "url": null,
+          "time": "07:35"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "宏觀大市：通脹熱過預期，加息預期升溫；中期選舉後AI換咗定價邏輯",
+          "summary": "Samuel Cheng話Goolsbee形容十月CPI「borderline disturbing」，三個月年化CPI達到5.72%，市場預期12月加息25點子機率91%，加50點子機率9%；Robin Brooks懷疑聯儲局真係會做晒市場定價緊嘅三次加息，結論係繼續持有貶值交易，捱過短期雜音。中期選舉之後，AI定價邏輯由「擴張會一路暢通」切到「監管同約束都要計入估值」，地方公投幾乎一面倒偏向限制數據中心；美銀話AI十大巨頭市值佔比觸及41%，同2000年互聯網泡沫時期科技股集中度持平。",
+          "url": null,
+          "time": "07:35"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "AI 半導體：CoreWeave融資憂慮紓緩，Anthropic IPO認購數倍於供應",
+          "summary": "CoreWeave新融資以客戶合約做抵押，利率7至7.5%，對比無抵押債券約15%，星期三股價升約25%；公司計劃經摩根士丹利同MUFG籌至少40億美元投資級貸款。Anthropic IPO兩日之內訂單已經係供應量嘅幾倍，金融時報話銀行家預期定價會高過70至78美元區間，估值超過1.5萬億美元，係有紀錄以來最大IPO，預計11月19日喺Nasdaq掛牌。商務部正在敲定規則，阻止中國AI公司經其他國家數據中心遠程使用先進AI晶片，管制擴展到馬來西亞、新加坡同泰國等七個國家；不預測漲跌逐間拆解最新10-Q，Google、Meta、微軟、亞馬遜同Nvidia嘅AI基建擔保底牌各異，2028年係要睇嘅年份。",
+          "url": null,
+          "time": "07:35"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "策略組合：ARK買入Kratos、Archer、Rocket Lab；交易員仍60%現金",
+          "summary": "ARK 11月11日披露：ARKK、ARKQ同ARKX買入Kratos、Archer同Rocket Lab，ARKG買入Prime Medicine 1,744,714股；當日無Nvidia交易。TMAD話呢幾日見到好多FOMO，被打殘嘅股票急彈，但大彈唔代表大趨勢改變，佢而家仲係60%現金，未配置任何長線新倉；要留意嘅風險包括Nvidia風波、可能加息50點子、通脹更高、油價向上同美元持續走強。",
+          "url": null,
+          "time": "07:35"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "每日收市期權監察報告",
+          "briefing": "每日收市期權監察報告",
+          "title": "11月11日收市：標普升1.31%、納指升1.60%，VIX回落至17.49",
+          "summary": "11月11日星期三收市，標普升1.31%至7,619.38，納指升1.60%，費半勁升5.66%，係11月5號急跌以嚟最高；VIX（Yahoo收市數）由19.46跌至17.49，跌穿18。Cboe 11月11日最終put/call總數0.92、指數1.05、個股0.59、SPX 1.08，個股比率由0.77急跌，避險買盤減少，但指數比率仍企喺1樓上，對沖未散。NVDA反彈2.87%至173.73美元，AMD升7.32%、MU升11.89%，但MSFT逆市再跌2.26%，連跌兩日約4.4%。情緒中性偏樂觀，短線方向未確認；聽日睇10年債息復市後點開、Cisco同Applied Materials業績，NVDA 11月17日出業績前波幅仍然高企。",
+          "url": null,
+          "time": "07:38"
         }
       ]
     }
