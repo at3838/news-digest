@@ -17143,6 +17143,69 @@
           "summary": "特朗普今朝喺 Truth Social 發文，話「我哋唔需要同伊朗達成協議，嗰啲日子早就過去」，仲話美國已經攞咗伊朗幾千億美元同埋霍爾木茲海峽。佢同時叫副總統萬斯唔使再理伊朗，轉去處理民主黨城市嘅貪污同罪案。喺美伊戰爭進行緊嘅時候，總統公開話唔再尋求外交解決，即係談判條路正式閂埋，局勢升級風險增加，值得留意油價同美股反應。",
           "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
           "time": "13:30"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "FT",
+          "briefing": "FT Breaking News（即時）",
+          "title": "黃仁勳辭任 Nvidia CEO",
+          "summary": "美國晶片巨頭 Nvidia 行政總裁黃仁勳已經辭職，之前爆出佢有兩段婚外情，一段對象係疑似中國間諜，另一段係公司內部高層。CFO Colette Kress 暫代 CEO，董事會搵緊永久接任人；NVDA 盤前跌逾 10%，Q3 業績照舊 11 月 17 日公布。",
+          "url": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f",
+          "time": "14:05"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "傳英偉達董事會考慮黃仁勳去留，NVDA 盤前跌約 8%",
+          "summary": "傳英偉達董事會考慮黃仁勳去留，NVDA 盤前跌約 8%，拖低納指同標普期貨，納指期貨跌得較多。呢篇寫嗰陣黃仁勳仲未辭職，啱啱 FT 已經證實佢辭咗，NVDA 盤前跌幅擴大到逾 10%。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63174263/stock-market-today-nvda-rout-drags-nasdaq-sp-500-futures-lower-as-nvidia-board-weighs-jensen-huangs-future-crwv-ttek-fnv-in-focus",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "分析師將 NVDA 目標價大削 100 美元",
+          "summary": "有分析師將 NVDA 目標價大削 100 美元，由 350 蚊劈到 250 蚊，話係「非常傷心的一日」。",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63183072/nvidia-stock-price-target-100-haircut-cantor-jensen-huang",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "IonQ 今日下跌，文章拆解回落原因",
+          "summary": "IonQ 今日下跌，文章拆解股價回落背後原因。",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63183149/why-is-ionq-stock-falling-on-thursday",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "應用材料今晚出業績，分析師臨開業績前調整預測",
+          "summary": "應用材料今晚出業績，分析師臨開業績前調整預測。",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63183966/applied-materials-earnings-are-imminent-these-most-accurate-analysts-revise-forecasts-ahead-of-earnings-call-6",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "禮來喺中國攞到首隻減肥藥丸批文，潛在市場 45 億美元",
+          "summary": "禮來喺中國攞到首隻減肥藥丸批文，搶先一步，潛在市場有 45 億美元。",
+          "url": "https://www.benzinga.com/news/health-care/26/11/63183337/eli-lilly-wins-china-approval-for-first-glp-1-weight-loss-pill-giving-it-first-mover-edge-in-potential-4-5-billion-market-report",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-12",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "比特幣跌穿 73,000 美元，受 NVDA 大跌拖累",
+          "summary": "比特幣跌穿 73,000 美元，受 NVDA 大跌拖累。",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63182823/bitcoin-dumps-below-73000-as-nvda-plunges-8-on-huang-ouster-report",
+          "time": "14:07"
         }
       ]
     }
