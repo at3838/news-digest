@@ -18174,6 +18174,402 @@
           "summary": "Palantir 喺民主黨重新控制國會之後，請咗前蒙大拿州參議員 Jon Tester 做顧問應對國會審查；CEO Alex Karp 話自己一生都係民主黨人，產品「本質上係進步派」，又話 AI 令富人可能富 20 倍，預測以後每次選舉都會係對呢件事嘅公投。",
           "url": "https://pjfp.com/alex-karp-palantir-jon-tester-progressive-pivot/",
           "time": "06:58"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "Nvidia 大地震：黃仁勳辭任 CEO，據報涉及同疑似中國間諜嘅婚外情，仲被國會傳召作供",
+          "summary": "黃仁勳辭任 CEO，CFO Colette Kress 暫代，股價開市一度跌 14%。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "微軟全球大死機：Outlook 同 Teams 齊齊受影響",
+          "summary": "微軟全球大死機，Outlook 同 Teams 齊齊受影響。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "烏克蘭：普京同意歐洲加入下一輪和談；烏克蘭無人機喺芬蘭灣擊中俄羅斯軍艦",
+          "summary": "普京同意歐洲加入下一輪烏克蘭和談；烏克蘭無人機喺芬蘭灣擊中俄羅斯軍艦。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "油價急升：四艘油輪喺霍爾木茲海峽遇襲爆炸，布蘭特油升 3.3% 至每桶 $95.82",
+          "summary": "四艘油輪喺霍爾木茲海峽遇襲爆炸，布蘭特油升 3.3% 至每桶 $95.82。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "歐盟領袖今日喺都柏林開峰會，傾 AI 主權、烏克蘭代表人選同預算",
+          "summary": "歐盟領袖今日喺都柏林開峰會，傾 AI 主權、烏克蘭代表人選同預算。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "美方話普京同意歐洲加入下一輪烏克蘭和談，俄烏同意擴大換俘",
+          "summary": "美方話普京同意歐洲加入下一輪烏克蘭和談，俄烏同意擴大換俘。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "法德傾向沿用 E3 格式，暫時未有共識",
+          "summary": "法德傾向沿用 E3 格式，暫時未有共識。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "第三季 GDP 升 0.7%，係兩年幾最快，AI 投資帶動",
+          "summary": "第三季 GDP 升 0.7%，係兩年幾最快，AI 投資帶動。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "風暴 Claudia 琥珀色暴雨警告，中南部英格蘭同威爾斯局部可落 100–150mm 雨",
+          "summary": "風暴 Claudia 琥珀色暴雨警告，中南部英格蘭同威爾斯局部可落 100–150mm 雨。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "Burnham 話英歐可以傾成雙贏協議",
+          "summary": "Burnham 話英歐可以傾成雙贏協議。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "Bicester 軍營庇護住宿獲批，可住 1,256 人",
+          "summary": "Bicester 軍營庇護住宿獲批，可住 1,256 人。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "Milburn 檢討建議部分 25 歲以下人士減少福利",
+          "summary": "Milburn 檢討建議部分 25 歲以下人士減少福利。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "富時 100 約 10,851 點，跌 0.35%",
+          "summary": "富時 100 約 10,851 點，跌 0.35%。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "英鎊兌美元約 1.324，兌歐元約 1.196",
+          "summary": "英鎊兌美元約 1.324，兌歐元約 1.196。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "英國報章",
+          "briefing": "英國報章",
+          "title": "英倫銀行 11 月 5 日已加息至 4%，下次議息 12 月 17 日",
+          "summary": "英倫銀行 11 月 5 日已加息至 4%，下次議息 12 月 17 日。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "WhaleAgent：Binance 用自家錢補回約 63 億美元被盜客戶資產，動用逾 63.4 億美元",
+          "summary": "Binance 用自家錢補回約 63 億美元被盜客戶資產，動用逾 63.4 億美元。",
+          "url": "https://www.threads.com/@whaleagent/post/DfrBsjtk5pU",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "TheStreet：高盛話 Anthropic 大型上市有 660 億美元問題",
+          "summary": "高盛話 Anthropic 大型上市有 660 億美元問題。",
+          "url": "https://www.threads.com/@thestreet/post/Dfq_bBHkcz6",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "WhaleAgent：比特幣跌穿 7 萬美元，係 8 月以來最低，一日內逾 12 億美元槓桿倉位俾人斬咗",
+          "summary": "比特幣跌穿 7 萬美元，係 8 月以來最低，一日內逾 12 億美元槓桿倉位俾人斬咗。",
+          "url": "https://www.threads.com/@whaleagent/post/Dfq-Q0Fk4MT",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "TheStreet：分析師警告比特幣投資者，仲提到黃金",
+          "summary": "分析師警告比特幣投資者，仲提到黃金。",
+          "url": "https://www.threads.com/@thestreet/post/Dfq8BRODrN2",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "TheStreet：五星分析師因為黃仁勳離任，調整咗 Nvidia 目標價",
+          "summary": "五星分析師因為黃仁勳離任，調整咗 Nvidia 目標價。",
+          "url": "https://www.threads.com/@thestreet/post/Dfq4jpMjozg",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "WhaleAgent：Microsoft 365 全球故障逾 9 小時，Outlook、Teams、Word、Excel 大範圍用唔到",
+          "summary": "Microsoft 365 全球故障逾 9 小時，Outlook、Teams、Word、Excel 大範圍用唔到。",
+          "url": "https://www.threads.com/@whaleagent/post/Dfq3ZP4E-15",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "M觀點：SpaceX 同 Tesla 合併談判進入實質階段，最早可能 12 月公布",
+          "summary": "SpaceX 同 Tesla 合併談判進入實質階段，最早可能 12 月公布。",
+          "url": "https://www.threads.com/@miulaviewpoint/post/Dfq0dYQkx3t",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "TheStreet：Target 押注一項關鍵服務，Costco 就想吸引更多人入實體店",
+          "summary": "Target 押注一項關鍵服務，Costco 就想吸引更多人入實體店。",
+          "url": "https://www.threads.com/@thestreet/post/Dfqxsb3jm2N",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "stockfundamentalslab：NVIDIA 最大風險未必係失去黃仁勳，而係美國管制之下仲有幾多商業自由度",
+          "summary": "NVIDIA 最大風險未必係失去黃仁勳，而係美國管制之下仲有幾多商業自由度。",
+          "url": "https://www.threads.com/@sflab/post/DfquiyuEwSz",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "TheStreet：聯儲局 10 月決議入面藏住一個結構性變化，市場仲消化緊點樣定價",
+          "summary": "聯儲局 10 月決議入面藏住一個結構性變化，市場仲消化緊點樣定價。",
+          "url": "https://www.threads.com/@thestreet/post/DfqnZHJjgSV",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "Stock Sharks：軟銀為 AI 基建押注燃氣輪機失敗，提列 37 億美元撥備",
+          "summary": "軟銀為 AI 基建押注燃氣輪機失敗，提列 37 億美元撥備。",
+          "url": "https://www.threads.com/@stocksharks/post/DfrAeTgCmYG",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "M觀點：未來兩年，靠 AI 提升生產力嘅人會發現實體商業世界嘅摩擦力好大",
+          "summary": "未來兩年，靠 AI 提升生產力嘅人會發現實體商業世界嘅摩擦力好大。",
+          "url": "https://www.threads.com/@miulaviewpoint/post/Dfq7-THEwfL",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "WhaleAgent：北韓黑客用 AI 偽造視像會議，18 個月盜走逾 4 億美元加密貨幣",
+          "summary": "北韓黑客用 AI 偽造視像會議，18 個月盜走逾 4 億美元加密貨幣。",
+          "url": "https://www.threads.com/@whaleagent/post/Dfq61JQE7NF",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Threads",
+          "briefing": "Threads 朝早",
+          "title": "WhaleAgent：微軟 AI 團隊喺 Linux 核心搵到 59 個漏洞，最舊一個藏咗至少 21 年",
+          "summary": "微軟 AI 團隊喺 Linux 核心搵到 59 個漏洞，最舊一個藏咗至少 21 年。",
+          "url": "https://www.threads.com/@whaleagent/post/Dfq5HSMkwKq",
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Sheraton Wu：黃仁勳三個字值幾多？",
+          "summary": "佢計過，如果新 CEO 冇黃仁勳嘅經驗、威望同人脈，輝達變返普通優秀晶片公司，黃仁勳一個人約值市值四成、約 1.8 兆美元；Vera Rubin 晶片到 2028 年唔會斷，真正風險係政治打壓，好似 2020 年嘅阿里巴巴。",
+          "url": "https://facebook.com/647765631/posts/pfbid0yBArQGkCAnUMkHYZDRgcWMFxXQjnryuQ1Z133vUDmTYqAkxjDx58U436FqDVvXsCl/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "王伯達觀點：黃仁勳撐起嘅「循環融資保證體系」仲延唔延續到",
+          "summary": "關鍵唔係輝達競爭力，而係黃仁勳撐起嘅「循環融資保證體系」仲延唔延續到。2025 年 9 月話投資 OpenAI 最高 1,000 億美元，但季報附註只係意向書、唔保證簽正式協議；今年 2 月實際投入嘅係一輪募資入面嘅 300 億美元股權。",
+          "url": "https://facebook.com/100044589152245/posts/pfbid0pBUSk8NoM3SmvVs6DyhpzVf25vUAehCTeR9E7HX7yUEaMDMcszM5gkNYyBY82J1Zl/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "廖奕安：眾議院外交委員會要求黃仁勳 12 月 1 日出席閉門聽證會",
+          "summary": "眾議院外交委員會發文，要求黃仁勳 12 月 1 日出席閉門聽證會，全程逐字記錄；要喺美東 11 月 13 日晚上 8 點前書面確認，否則正式發傳票。",
+          "url": "https://facebook.com/groups/1093778194422330/permalink/2582245082242293/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "CJay Tech：Kress 接班背後有三層考量",
+          "summary": "Kress 有 25 年財務資歷，德州儀器起步、微軟 13 年、思科財務資深副總裁 3 年，2013 年加入輝達時公司市值仲未夠 100 億美元，見證公司由遊戲顯示卡變成 AI 運算龍頭。",
+          "url": "https://facebook.com/100045240550117/posts/pfbid0VKxEipDTas3WfpapERpn6hMtMBYngv8vqnWyuGD444yRo9pXAgYfKALNGXM2B9Pbl/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "I.T. 歐爸 Oppa：微軟全球大當機，Microsoft 365、Outlook、Teams 集體癱瘓",
+          "summary": "微軟全球大當機，Microsoft 365、Outlook、Teams 集體癱瘓，始於美東星期四下午約 1 時；Downdetector 上 Outlook 單項回報突破 13 萬筆。",
+          "url": "https://facebook.com/61594053342988/posts/pfbid028qrbA1CEFym2HqdZLM4QiQ5Du447Y4sEMCaFunE1WxzRQkvZ6dusuKseyQahj1dXl/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "沈榮欽：特朗普考慮撤換商務部長盧特尼克",
+          "summary": "特朗普考慮撤換商務部長盧特尼克，話佢拖延對中國出口禁令、未將 Megaspeed 列入實體清單；撤換意味住恢復緊縮對中國半導體出口管制。",
+          "url": "https://facebook.com/1640627496/posts/pfbid02VziqamtPZbqNFtWPXNzaX48kbTDfkyvL9stkJN6Ex2c9QgqpZG6us9Y6rYy3SGYml/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "CJay Tech：特斯拉改裝業者提議接手營運 Cybertruck 生產線",
+          "summary": "特斯拉改裝業者 Unplugged Performance 提議由投資人財團出資，接手營運 Cybertruck 生產線，產能優先畀 Cybercab，特斯拉收技術授權費兼分享 FSD 同 Robotaxi 收益；特斯拉同馬斯克暫未回應。",
+          "url": "https://facebook.com/100045240550117/posts/pfbid02x4dHhGoE4xHpXGhjxmZMd4R5Bi2aNHFbpZ2PBCkA3d7RrTb8P2CZhQdPnExQzjTrl/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "Will 保哥的技術交流中心：Anthropic 約 4,000 萬客戶，但 0.03% 客戶貢獻咗 74% 營收",
+          "summary": "Anthropic 約 4,000 萬客戶，但 0.03% 客戶貢獻咗 74% 營收，訂閱收入今年只佔營收 21%。",
+          "url": "https://facebook.com/100064322940906/posts/pfbid02LFzm6n9nxtTkRzgRnVERys4ivNzZs82h4vSbgBGX8JfWge51hTJ496C1XUytYuadl/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "張維峰：Claude Meetings 可以進 Google Meet 會議室",
+          "summary": "Claude Meetings 可以進 Google Meet 會議室，開口叫佢開白板、分類便利貼、查團隊文件答問題，會議未完筆記、待辦同時間表就寫好；測試版，只開放 Team 同 Enterprise 方案，先支援 Google Meet。",
+          "url": "https://facebook.com/reel/1429098226050868/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Facebook",
+          "briefing": "Facebook 朝早",
+          "title": "一股GoodJob：Orca 創辦人一個人管 400 幾個 AI 任務",
+          "summary": "Orca 創辦人一個人管 400 幾個 AI 任務，GitHub 已經破 10 萬星；每個任務只睇三種狀態——做緊、卡住等你覆、做完等你審；佢話 AI 只會帶你去到 prototype 同真正上線中間條鴻溝邊，最後嗰段仲要人。",
+          "url": "https://facebook.com/61564031484220/posts/pfbid0JDwYKgYUzDHFbHpuxKBooj1b1dqMzzZuXxVBT6Yeu64Ff8zjG3UzyULJXyfEQW8Pl/",
+          "time": "07:03"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "今日焦點：黃仁勳辭職，輝達急跌後反彈",
+          "summary": "輝達 11 月 12 日宣布黃仁勳辭去總裁、CEO 同董事，即時生效，CFO Colette Kress 暫代 CEO 兼任 CFO，73 歲董事 Harvey Jones 出任公司史上首位董事長，第三季財報照原訂 11 月 17 日公布；股價開市一度跌約 14% 至 $148.80，收市收窄至 $166.19 跌 4.34%，市值一日蒸發約 1,800 億美元。Samuel Cheng 話跌嘅唔係成個市場、只係輝達生態圈，AMD 升 5.9%、博通升 5.5%。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "宏觀大市：CPI 熱過預期，加息定價升溫；二手樓銷售創 2010 年以來最低",
+          "summary": "10 月 CPI 整體升 0.4%、核心升 0.3%，雙雙高過預期，市場預期 12 月 9 日加息 25 點子機會約九成；10 月二手樓銷售年率 375 萬間，按年跌 8.8%，創 2010 年 8 月以來最低，30 年按揭息率 7.11% 仍然高企。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "AI 半導體：輝達估值要重算；Anthropic 認購超額六倍",
+          "summary": "大叔話 Dan Ives 估有黃仁勳值 300 美元、冇佢值 225 美元，折價 25%，關鍵觀察係 11 月 17 日財報會唔會維持 FY2028 營收升約 70% 嘅講法；Anthropic IPO 訂單約為供應量六倍，11 月 18 日定價、11 月 19 日開始交易，輝達已承諾以 100 億美元認購私募配股。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "財報：思科、應用材料勝預期；Nebius 跌 16.84%",
+          "summary": "思科第一季調整後 EPS 1.40 美元、營收 185 億美元，雙雙勝預期，預計 FY2027 超大規模 AI 基建收入達 90 億美元；應用材料第四季營收 104 億美元、調整後 EPS 4.16 美元，雙雙勝預期；Nebius 第三季營收按年升 571%，但全年指引落喺區間低端，股價跌 16.84%。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "策略組合：ARK 買入 Kratos、Archer、Rocket Lab",
+          "summary": "ARK 11 月 11 日披露買入 Kratos、Archer 同 Rocket Lab，ARKG 買入 Prime Medicine 1,744,714 股，當日冇輝達交易，11 月 12 日嗰份披露暫時未到。",
+          "url": null,
+          "time": "07:15"
         }
       ]
     }
