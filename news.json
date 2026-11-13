@@ -20145,6 +20145,42 @@
           "summary": "Anthropic 行政總裁同 Jamie Dimon 講，希望 IPO「承諾少啲、做到多啲」。",
           "url": "https://www.wsj.com/finance/anthropic-chief-tells-jamie-dimon-he-hopes-ipo-will-underpromise-and-overdeliver-1ba2dd71",
           "time": "22:48"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Finimize",
+          "briefing": "Finimize Daily（即時）",
+          "title": "微軟故障，企業停工又蝕錢",
+          "summary": "微軟部分伺服器星期四出事，Outlook、Teams 同 Copilot 喺 74 個國家受影響，問題延續到星期五，印度航空、多倫多一間醫院同台灣基金經理都受波及，損失嘅生產力以十億計；今次只係影響 Microsoft 365 唔係 Azure，但暴露雲端集中風險，亞馬遜、微軟同 Alphabet 三間攞咗全球企業雲端基建開支 61%。",
+          "url": "https://app.finimize.com/content/microsofts-big-ai-bet-has-been-costing-it-but-it-could-soon-pay-off",
+          "time": "23:17"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Finimize",
+          "briefing": "Finimize Daily（即時）",
+          "title": "今日研究：AI 泡沫儀表板——30 個線索判斷熱潮係咪失控",
+          "summary": "華爾街最大爭論係 AI 係咪等爆嘅大泡沫，Finimize 自己起咗個 AI 泡沫儀表板，用 30 個指標分五組——neocloud、AI 模型開發商、超大規模雲端商、晶片製造商同整體股市——以數據判斷熱潮係咪失控。",
+          "url": "https://app.finimize.com/content/the-ai-bubble-dashboard-30-clues-to-tell-whether-the-boom-is-getting-out-of-hand",
+          "time": "23:17"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Finimize",
+          "briefing": "Finimize Daily（即時）",
+          "title": "奢侈品失寵：Richemont",
+          "summary": "Richemont 截至 9 月六個月珠寶銷售升 19%、利潤升 39%，但最近一季珠寶銷售升幅由 24% 放慢到 14%，美國銷售升 19%、中東收入跌 7%，股價星期五跌 4%；奢侈品今年對投資者嚟講係墳場，開雲跌 41%、LVMH 跌 35%、愛馬仕跌 37%。",
+          "url": null,
+          "time": "23:17"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Finimize",
+          "briefing": "Finimize Daily（即時）",
+          "title": "Andrew's Digest：10 月 PPI 略降溫、東南亞 AI 數據中心面對更嚴晶片規則、字節跳動 60 億美元回購",
+          "summary": "10 月 PPI 按月升 0.3%，低過預期 0.4%，但核心通脹企硬；美國議員想堵塞中國公司租用海外算力嘅漏洞，馬來西亞考慮立法監察數據中心晶片使用；Cerebras 將 2026 年經調整收入預測上調到 9.4–9.6 億美元兼意外盈利，字節跳動以每股 241.35 美元回購 60 億美元，估值 4,000 億美元。",
+          "url": null,
+          "time": "23:17"
         }
       ]
     }
