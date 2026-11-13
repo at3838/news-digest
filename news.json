@@ -18162,6 +18162,20 @@
           "time": "23:18"
         }
       ]
+    },
+    {
+      "date": "2026-11-13",
+      "items": [
+        {
+          "date": "2026-11-13",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "pjfp 文章：Alex Karp：點解 Palantir 請 Jon Tester、又話自己產品「本質上係進步派」",
+          "summary": "Palantir 喺民主黨重新控制國會之後，請咗前蒙大拿州參議員 Jon Tester 做顧問應對國會審查；CEO Alex Karp 話自己一生都係民主黨人，產品「本質上係進步派」，又話 AI 令富人可能富 20 倍，預測以後每次選舉都會係對呢件事嘅公投。",
+          "url": "https://pjfp.com/alex-karp-palantir-jon-tester-progressive-pivot/",
+          "time": "06:58"
+        }
+      ]
     }
   ]
 }
