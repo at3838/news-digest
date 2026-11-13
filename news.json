@@ -19803,6 +19803,186 @@
           "summary": "美國聯邦航空局今日下晝發出全國停飛令，所有美國航班停飛，入境國際航班逐班處理，原因只係話「特殊情況，出於安全考慮」，暫時未有進一步解釋。停飛令仍然生效，極之罕見，上一次全國停飛係 2023 年 1 月，再之前就係 911。",
           "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
           "time": "21:27"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Nebius Group 上季收入接近十億美金，按年升五倍有多",
+          "summary": "Nebius Group 上季收入接近十億美金，按年升五倍有多，AI 雲收入佔大頭，管理層話 2027 年收入指引去到 120 至 130 億。",
+          "url": "https://mvcinvesting.substack.com/p/nebius-group-nbis-q3-earnings-review",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "美媒：川普一邊要贏中國 AI，一邊放寬路俾黃仁勳向中國供貨",
+          "summary": "美媒話川普一邊要贏中國 AI，一邊放寬路俾黃仁勳向中國供貨，早前仲有警告話佢有風險。",
+          "url": "https://www.thebulwark.com/p/jensen-huang-donald-trump-nvidia-friends-with-benefits",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "文章講黃仁勳承認同被指係中國間諜嘅女子有外遇",
+          "summary": "文章講黃仁勳承認同被指係中國間諜嘅女子有外遇，話 Nvidia 董事會長年橡皮圖章，冇交接部署，將美方由禁售先進晶片變成批 H200 去中國，形容 Nvidia 係美國 AI 領導嘅單一故障點。",
+          "url": "https://www.profgmedia.com/p/spy-vs-ai",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "經濟學家：黃仁勳辭任消息出咗之後 Nvidia 跌近兩成，蒸發八千億美金",
+          "summary": "經濟學家話黃仁勳辭任由 CFO 暫代 CEO，消息出咗之後 Nvidia 跌近兩成，估計蒸發八千億美金，認為問題係管治同接班風險唔係淨得醜聞。",
+          "url": "https://newsletter.platypuseconomics.com/p/bad-governance-has-a-price-tag",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Burry：重點唔係外遇，雲端大廠夏天已經轉走 Nvidia 晶片",
+          "summary": "Burry 話重點唔係外遇，而係今年夏天雲端大廠已經轉走 Nvidia 晶片同準備替代方案，所以股價早就跌。",
+          "url": "https://michaeljburry.substack.com/p/say-it-aint-so-nvidia-on-fire-read",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Nvidia 自十月起蒸發 1.7 萬億美金，生意冇變過",
+          "summary": "作者引 Motley Fool 講 Nvidia 自十月起蒸發 1.7 萬億美金，生意冇變過，反問 Nvidia、蘋果、微軟有幾多係炒作，同埋用 Opendoor 做例子講美股迷因化。",
+          "url": "https://www.bonnerprivateresearch.com/p/fun-house-of-cards",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "大叔美股筆記：Ondas Q3 收入 1.675 億，按季翻倍按年升 16 倍",
+          "summary": "大叔美股筆記講 Ondas Q3 收入 1.675 億，按季翻倍按年升 16 倍，勝預期，但毛利只多 40 萬，EBITDA 虧損擴大到 5970 萬，現金跌 5.8 億，當日股價跌 7%。",
+          "url": "https://unclestocknotes.substack.com/p/ondas-inc-onds-2026-646",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Claude Fable 5.2 比 Opus 5.5 勁 14 分，Remote Labor Index 攞 41.3%",
+          "summary": "文章教點用 Claude Fable 5.2，話佢比 Opus 5.5 勁 14 分，Remote Labor Index 攞 41.3%，兩月前得 18%，建議大件嘢用 Fable，執細件就交 Opus，另外講 Claude 出咗多人 Sheet、白板同儀表板。",
+          "url": "https://ruben.substack.com/p/prompt-52",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "AI 公司安全意識職員應該組織起來",
+          "summary": "作者話 AI 公司安全意識職員應該組織起來，用美國勞動法非正式集體行動爭取保護、計算資源透明同安全承諾，提到 OpenAI 十月炒咗三個安全研究員。",
+          "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "週報頭條：黃仁勳因外遇兼被指涉中國情報而辭任",
+          "summary": "週報頭條係黃仁勳因外遇兼被指涉中國情報而辭任，引起國安同知情疑雲，文內攞埋同篇調查同議員訪談。",
+          "url": "https://www.contrariannews.org/p/evening-roundup-november-10-a0f",
+          "time": "21:34"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "本週總結：輝達黃仁勳離任、AMD 同 Broadcom 受惠、聯儲局加息預期",
+          "summary": "本週總結：輝達黃仁勳離任、AMD 同 Broadcom 受惠、聯儲局加息預期，係今個星期華爾街主線。",
+          "url": "https://www.benzinga.com/markets/market-summary/26/11/63269563/this-week-on-wall-street-nvidia-huang-amd-broadcom-fed-hike",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "今日大市：晶片股全日拋售，AMD 同輝達領跌",
+          "summary": "今日大市：晶片股全日拋售，AMD 同輝達領跌，思科同 Modine 有消息。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63259862/stock-market-today-amd-nvidia-chip-selloff-cisco-modine-november-13",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Broadcom 呢個星期表現歷史性跑贏輝達",
+          "summary": "Broadcom 呢個星期表現歷史性跑贏輝達，黃仁勳離任之後資金轉投對手。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63264147/broadcom-stock-beating-nvidia-record-week-jensen-huang",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "輝達接觸前員工、Arm 行政總裁 Rene Haas，搵佢接任",
+          "summary": "輝達接觸前員工、Arm 行政總裁 Rene Haas，搵佢接任。",
+          "url": "https://www.benzinga.com/markets/tech/26/11/63258750/nvidia-courting-a-former-insider-arm-ceo-rene-haas",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "財長貝森特同商務部長盧特尼克就 Megaspeed 制裁問題公開內訌",
+          "summary": "財長貝森特同商務部長盧特尼克就 Megaspeed 制裁問題公開內訌。",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63257278/bessent-lutnick-feud",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "比特幣 ETF 走資 10 億美元，機構對加密貨幣需求係咪轉弱成疑問",
+          "summary": "比特幣 ETF 走資 10 億美元，以太幣同 Solana 基金都流出，機構對加密貨幣需求係咪轉弱成疑問。",
+          "url": "https://www.benzinga.com/etfs/specialty-etfs/26/11/63256503/bitcoin-etfs-face-1b-exodus-as-ethereum-solana-funds-bleed-is-institutional-crypto-demand-cracking",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "OpenAI 拆散獨立機械人團隊，押注更大嘅 AI 模型",
+          "summary": "OpenAI 拆散獨立機械人團隊，押注更大嘅 AI 模型。",
+          "url": "https://www.benzinga.com/markets/private-markets/26/11/63266906/openai-dismantles-standalone-robotics-team-as-it-bets-on-bigger-ai-models",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "馬斯克 SpaceX 同 Tesla 合併計劃，可能遇上民主黨阻力",
+          "summary": "馬斯克 SpaceX 同 Tesla 合併計劃，可能遇上民主黨阻力。",
+          "url": "https://www.benzinga.com/m-a/26/11/63256475/elon-musk-spacex-tesla-merger-democrat-roadblock-work-his-magic",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "AMD 股價跑贏輝達，但估值追近之後有隱憂",
+          "summary": "AMD 股價跑贏輝達，但估值追近之後有隱憂。",
+          "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/11/63259929/amd-stock-nvidia-valuation-catch",
+          "time": "21:37"
+        },
+        {
+          "date": "2026-11-13",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "民主黨準備將信用卡息率上限設為 10%",
+          "summary": "民主黨準備將信用卡息率上限設為 10%，Graham Stephan 話係好心做壞事嘅政策。",
+          "url": "https://www.benzinga.com/opinion/26/11/63258376/democrats-prepare-to-cap-credit-card-interest-rates-at-10-graham-stephan-says-its-classic-help-the-poor-policy-that-does-the-opposite",
+          "time": "21:37"
         }
       ]
     }
