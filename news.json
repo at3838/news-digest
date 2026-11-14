@@ -20735,6 +20735,60 @@
           "summary": "抗議薪酬同人手安排。",
           "url": null,
           "time": "07:08"
+        },
+        {
+          "date": "2026-11-14",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "今日焦點：Nvidia 換 CEO 後續，星期五再跌 2%",
+          "summary": "星期五 NVDA 再跌 2%，收 $162.85，一個月跌咗兩成，由 10 月高位計跌咗 33%，單週市值蒸發 $639.1B，Samuel Cheng 話係史上最大單週跌幅。董事局轉軚關鍵係 Kimberly Powell 未申報嘅上下級關係變成管治失職，獨立調查由 Wachtell Lipton 負責；下星期二 11 月 17 號業績係 NVDA 史上最重要一次，由 Kress 主持。",
+          "url": null,
+          "time": "07:37"
+        },
+        {
+          "date": "2026-11-14",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "宏觀大市：10 月 PPI 按年升 6.5%，十年債息企 5.15%",
+          "summary": "10 月 PPI 按年升 6.5%，係 2022 年 11 月以來最大，市場繼續押注 12 月加息，十年債息企喺 5.15%。星期五納指跌 0.9%、標普跌 0.4%、道指升 0.1%，SOXX 跌 4%。",
+          "url": null,
+          "time": "07:37"
+        },
+        {
+          "date": "2026-11-14",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "AI 半導體：Neocloud 成重災區，AMD 週升 23% 後回吐",
+          "summary": "Neocloud 係星期五重災區：Nebius 連跌兩日，CEO 承認部分 12 月收入要推遲到 2 月；Nscale 將 NVDA 可換股貸款由 $10 億加到 $20 億，IPO 好大機會推遲到 2027 年初。AMD 星期一至四升咗 23%，星期五回吐 8.8%，係標普當日跌得最多嗰隻。",
+          "url": null,
+          "time": "07:37"
+        },
+        {
+          "date": "2026-11-14",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "Anthropic IPO：認購超額 6 倍，定價 11 月 18 號",
+          "summary": "Anthropic 認購超額 6 倍，定價 11 月 18 號、11 月 19 號首日交易，825M 股、$70–78，市值大約 $1.4 萬億，私人配售 $26B。90s.pm 質疑估值：十年後營收要佔全球 IT 開支 5–10% 先撐得住，而家大約 1%。",
+          "url": null,
+          "time": "07:37"
+        },
+        {
+          "date": "2026-11-14",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "財報個股：思科訂單放慢跌 6.2%，Cerebras 升 11%",
+          "summary": "Cisco Q1 勝預期但產品訂單增長由 35% 放慢到 21%，星期五跌 6.2%；Cerebras Q3 營收按年升 70%，星期五升 11%。Ondas Q3 營收按年升 16.5 倍但虧損擴大；Kraft Heinz 分拆計劃暫停，轉攻翻身。",
+          "url": null,
+          "time": "07:37"
+        },
+        {
+          "date": "2026-11-14",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "商品幣圈：Bitcoin 跌穿 7 萬美元，金價約 3,900 美元",
+          "summary": "Bitcoin 跌穿 $70,000，星期五收 $68,248，一個月跌大約 16%，星期六朝早再跌穿 $67,000，係 8 月以來最低。金價跌到約 $3,900 附近，但黃金 ETF 持倉反而升穿 2025 年 2 月水平；布蘭特星期五收 $96.29，升 0.49%。",
+          "url": null,
+          "time": "07:37"
         }
       ]
     }
