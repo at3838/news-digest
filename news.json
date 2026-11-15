@@ -21523,6 +21523,15 @@
           "summary": "伊朗海軍話，星期六有三隻油輪喺霍爾木茲海峽撞到水雷着火，朝早一隻喺東面，夜晚再有兩隻話係行禁區航道嗰陣出事。消息淨係嚟自伊朗官方媒體，路透社話暫時核實唔到，亦未講船名同有冇人傷亡；呢個係近一個月內第三次同類事件，星期一開市油價好大機會有反應。",
           "url": "https://www.reuters.com/world/middle-east/irans-navy-says-oil-tanker-fire-after-hitting-mine-hormuz-2026-11-14/",
           "time": "02:35"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "pjfp 文章：Lauren Tan：Grok Bot 點樣每月出 11,000 個 AI PR 而唔出 Slop",
+          "summary": "Lauren Tan 個人上個月出咗 3,000 個 pull request 落 production，成個團隊 11,000 個，revert 率約 0.5%；關鍵唔係 agent 更聰明，而係環境設計同驗證取代 code review，七成 token 係用嚟驗證，唔係寫 code。",
+          "url": "https://pjfp.com/lauren-tan-grok-bot-ai-agents-code-quality-slop/",
+          "time": "05:58"
         }
       ]
     }
