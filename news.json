@@ -22117,6 +22117,114 @@
           "summary": "數據中心喺陸地受阻，轉向海上。（briefing 其他要聞一欄只列標題同連結，未附撮要）",
           "url": "https://www.wsj.com/tech/ai/data-centers-ocean-f676429a",
           "time": "17:20"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（夜晚 7 點）",
+          "title": "WhaleAgent：加密貨幣回落，市場傳 Binance 拋售持倉；比特幣現貨 ETF 連續七日淨流出約 19 億美元",
+          "summary": "加密貨幣回落，市場傳 Binance 拋售持倉，創辦人 CZ 喺 X 否認，話自己收到穩定幣之後過去幾日有買入；美國比特幣現貨 ETF 連續七個交易日淨流出約 19 億美元。",
+          "url": "https://www.threads.com/@whaleagent/post/DfxW0P1k_Ip",
+          "time": "18:00"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（夜晚 7 點）",
+          "title": "TheStreet：Cramer 話黃仁勳「無可取代」，扁平決策結構轉移唔到",
+          "summary": "Cramer 警告 Nvidia 投資者，話黃仁勳係「無可取代」，問題唔係邊個做 CEO，而係佢嗰套扁平決策結構轉移唔到；Stephanie Link 雖然話基本面極強，但已經沽咗 NVDA 轉去 Micron。",
+          "url": "https://www.threads.com/@thestreet/post/DfxKPlyFDvy",
+          "time": "18:00"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（夜晚 7 點）",
+          "title": "Stock Sharks：Applied Digital 要求 Oracle 同 Meta 等租戶提供數十億美元擔保先攞到電力",
+          "summary": "Applied Digital 要求 Oracle 同 Meta 等租戶提供數十億美元擔保，先至可以為新數據中心攞到電力。",
+          "url": "https://www.threads.com/@stocksharks/post/DfxFJr6CtvU",
+          "time": "18:00"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Threads",
+          "briefing": "Threads AI 摘要（夜晚 7 點）",
+          "title": "TestingCatalog：Bloomberg 話 Apple 智能眼鏡重點係 Siri AI 整合",
+          "summary": "Bloomberg 話 Apple 智能眼鏡嘅重點係 Siri AI 整合，Apple 而家將 AI 視為更認真嘅優先事項。",
+          "url": "https://www.threads.com/@testingcatalog/post/DfxO9XggGDA",
+          "time": "18:00"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Threads",
+          "briefing": "Threads AI 摘要（夜晚 7 點）",
+          "title": "TestingCatalog：Claude Code 可以為 Coordinator 同 Threads 各自設定唔同模型",
+          "summary": "Claude Code 而家可以喺 Project 設定入面，為 Coordinator 同 Threads 各自設定唔同模型，仲有自訂檢視同指派 artifacts 等小升級。",
+          "url": "https://www.threads.com/@testingcatalog/post/DfxHkLIgMA-",
+          "time": "18:00"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（夜晚 7 點）",
+          "title": "Anne Yang：傳聞話輝達核心高管同數百名頂尖工程師醞釀聯名信，要求董事會請黃仁勳復職",
+          "summary": "傳聞話輝達核心高管同數百名頂尖工程師醞釀聯名信，要求董事會即刻請黃仁勳復職，馬斯克話輝達嘅人過嚟就照單全收、加入 SpaceX Terafab 晶片項目（作者自己都話未經官方證實）；已證實嗰部分係 Altimeter＋Atreides 聯名信，同埋聲援網站實名支持人數超過 12 萬。",
+          "url": "https://facebook.com/groups/1974693462806123/permalink/4601159563492820/",
+          "time": "18:05"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（夜晚 7 點）",
+          "title": "Roger Liu：黃仁勳被逼退係因為 Nvidia 大到「唔受控」，貝森特重點係一定要有新 CEO",
+          "summary": "佢認為黃仁勳被逼退係因為 Nvidia 大到「唔受控」，話貝森特嘅重點根本唔係間諜問題，而係一定要有新 CEO；又話台灣半導體供應鏈因為黃仁勳而直通美國生態，造就台股史詩級成長。",
+          "url": "https://facebook.com/12630034/posts/pfbid02kYG9Eejoy68xZ6uTPNbLCK7PDJnbc4DoRQAB4ckXWxJFMogyXgXbYJHEMz6GCWQHl/",
+          "time": "18:05"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（夜晚 7 點）",
+          "title": "Yahoo!奇摩新聞：黃仁勳請辭後，Nvidia 董事會成員背景成焦點",
+          "summary": "黃仁勳請辭後，Nvidia 董事會成員背景成焦點，成員來自創投、餐飲同大學術界；馬斯克吐槽，質疑呢個就係決定曾經全球市值最高企業命運嘅董事會。",
+          "url": "https://facebook.com/100065029920777/posts/pfbid02vpL8ap5j1WZ7vGV7qohg2wvvKJBCo9pqWmb4SoVRgNx4W5YUcGykUkjH1qp6W44pl/",
+          "time": "18:05"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（夜晚 7 點）",
+          "title": "歪講堂：匿名微軟員工話 M365 當機超過 24 小時，資深工程師走晒",
+          "summary": "匿名微軟員工喺 Blind 話，M365 當機超過 24 小時，連內部事件處理工具都打唔開，識得核心系統嘅資深工程師走晒，以前 45 分鐘搞掂嘅 rollback 而家要 5 個鐘。",
+          "url": "https://facebook.com/100069719736278/posts/pfbid0jdQUs1z9ugFX8huPsGBFbjB3s6eHDayWg98XUTg5BbB4rgfLhcorZtsFD393bCgVl/",
+          "time": "18:05"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（夜晚 7 點）",
+          "title": "加州樂誌：Meta 9 月推出個人 AI 助理 Muse，授權後可以幫手處理日常瑣事",
+          "summary": "Meta 9 月推出個人 AI 助理 Muse，唔止答問題，授權後可以幫手查機票差價、比較車保、處理手機帳單講價等日常瑣事。",
+          "url": "https://facebook.com/100063772713814/posts/pfbid02gqzUB1wzWR5nnrm9X5TQLF8Xpw19YVZLsCM84k5uwg32nhaVL8sGySMSix6K6MJYl/",
+          "time": "18:05"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（夜晚 7 點）",
+          "title": "Hungen Hsieh：Meta 同 Sierra 推出 Poppy 1.0 協定，Muse 係第一個支援嘅個人 agent",
+          "summary": "Meta 同 Sierra 推出 Poppy 1.0 協定（11 月 13 日發布），商家放 poppy.json 宣告接待方式，agent 要表明身分、用戶喺商家頁面授權先可以辦事；Muse 係第一個支援嘅個人 agent，Shopify 全商家預設開啟。",
+          "url": "https://facebook.com/660510468/posts/pfbid01UxN7U7aNWKBDwNrkYbj8xkSb6rqsfkiZuKsz6itySwSm7HqhwHWxZ4FXYpHTrK9l/",
+          "time": "18:05"
+        },
+        {
+          "date": "2026-11-15",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（夜晚 7 點）",
+          "title": "Yu Ho Wang：大部份人只用到 Claude 10% 功能，列出 20 個功能加可複製 prompt",
+          "summary": "X 上一篇西班牙文長文有 337 萬次瀏覽，話大部份人只用到 Claude 10% 功能，列出 20 個功能加可以直接複製嘅 prompt，佢翻譯晒做中文，建議每次只挑一個嚟設定。",
+          "url": "https://facebook.com/100002418677898/posts/pfbid0KHeRuttT2x7Gg24QJyhKb2Q5iK3vSTzukxE63Jcj755H7s82cfnmDrcvxumTAMEYl/",
+          "time": "18:05"
         }
       ]
     }
