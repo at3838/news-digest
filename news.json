@@ -23040,6 +23040,78 @@
           "summary": "11 月 13 日星期五收市，標普跌 0.40% 至 7,561.67，納指跌 0.91%，道指升 0.10%，唔係全面跌市，係星期四晶片輪動即刻倒轉，AMD 跌 8.75% 係全日標普跌幅最大一隻；VIX（Yahoo 收市數）升 0.60 至 19.30，VVIX 抽返上 101.53，10 年債息抽上 5.15%，10 月 PPI 按年升 6.5% 創近四年新高。Cboe 11 月 13 日最終 put 對 call 總數 0.85、指數 0.96、個股 0.63、SPX 1.19，總數輕微回落但 SPX 對沖加重，係全日最值得留意嘅分化。情緒中性偏審慎：超過六成標普股份星期五係升，沽壓集中喺晶片；星期一要睇 VIX 守唔守得住 19 樓下、NVDA 業績前隱含波幅同 158.39 美元低位，星期二收市後 NVDA 出業績，期權定價波動約正負 9% 至 10%。",
           "url": null,
           "time": "07:07"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要（過去24小時）",
+          "title": "高盛：2027年油市料大幅供過於求",
+          "summary": "高盛11月15日報告話，2027年原油供應每日會多過需求大約200萬桶，數字已經預留咗每日約100萬桶供應中斷風險；布蘭特期油2027年平均料88美元，年底回落至78美元，美國原油平均78美元，年底70美元。",
+          "url": "https://longbridge.com/en/news/305612895",
+          "time": "07:54"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要（過去24小時）",
+          "title": "美銀：市況波動之下推介科技股以外五隻買入股",
+          "summary": "美銀揀咗五隻買入評級股份，話可以喺科技股波動之外搵機會：Madison Square Garden Entertainment、U.S. Bancorp、AT&T、L3Harris同Krispy Kreme；頭兩隻今年跑贏大市，其餘三隻今年仲係跌緊。",
+          "url": "https://skncbba.com/skn-bank-of-america-highlights-five-stocks-with-potential-as-market-volatility-intensifies/",
+          "time": "07:54"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要（過去24小時）",
+          "title": "美銀：National Health Investors由買入降至跑輸大市",
+          "summary": "美銀將呢隻美國醫療地產信託由買入降至跑輸大市，目標價由86美元削至67美元，削幅約22%；報告喺星期五出，今日先見報。",
+          "url": "https://www.americanbankingnews.com/2026/11/16/national-health-investors-nysenhi-cut-to-underperform-at-bank-of-america.html",
+          "time": "07:54"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要（過去24小時）",
+          "title": "花旗：Roblox由買入降至中性",
+          "summary": "花旗將Roblox由買入降至中性，目標價維持55美元，較當時股價大約49.93美元仍有約一成潛在升幅，降級原因係擔心增長前景。",
+          "url": "https://www.dailypolitical.com/2026/11/15/roblox-nyserblx-rating-lowered-to-neutral-at-citigroup.html",
+          "time": "07:54"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要（過去24小時）",
+          "title": "瑞銀：Cerebras目標價由250美元大削至155美元",
+          "summary": "瑞銀將呢隻人工智能晶片股目標價由250美元大削至155美元，削幅約38%，維持買入評級；以新目標價計，較當時股價仍有約42.6%潛在升幅。",
+          "url": "https://www.defenseworld.net/2026/11/15/cerebras-systems-nasdaqcbrs-stock-price-target-cut-by-ubs-group.html",
+          "time": "07:54"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要（過去24小時）",
+          "title": "瑞銀：Kodiak目標價由120美元上調至150美元",
+          "summary": "瑞銀將呢隻生物科技股目標價由120美元上調至150美元，升幅25%，維持買入評級；以新目標價計，較當時股價有約34.9%潛在升幅。",
+          "url": "https://www.thestockobserver.com/2026/11/15/ubs-group-forecasts-strong-price-appreciation-for-kodiak-sciences-nasdaqkod-stock.html",
+          "time": "07:54"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要（過去24小時）",
+          "title": "德銀：埃及鎊視乎伊朗戰局料48至60",
+          "summary": "德銀研究話，如果美伊達成可持續外交協議結束戰爭，埃及鎊兌美元料走強至48；如果戰事升級，會跌穿60，埃及央行上星期四報價係53.39，啱啱喺兩個情景中間。",
+          "url": "https://enterpriseam.com/egypt/2026/11/16/deutsche-bank-research-sees-egp-at-48-60-depending-on-the-iran-war-expects-cbe-to-hold-rates-into-next-year/",
+          "time": "07:54"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "大行報告",
+          "briefing": "大行新報告撮要（過去24小時）",
+          "title": "滙豐：全球貿易脈搏調查，能源係最大成本壓力",
+          "summary": "滙豐訪問咗26個市場共1萬名高級商業領袖，44%話能源係過去半年最大成本壓力，其次係關稅43%同運費41%；86%受訪企業話對未來兩年擴大國際貿易有信心，91%已經用緊或者計劃用人工智能提升效率。",
+          "url": "https://www.tbsnews.net/economy/bangladeshi-firms-lead-26-markets-supply-chain-shifts-91-confident-trade-expansion-hsbc",
+          "time": "07:54"
         }
       ]
     }
