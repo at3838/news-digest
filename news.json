@@ -24399,6 +24399,60 @@
           "summary": "以太幣庫存公司繼續掃貨，BitMine 上星期再買 7,653 粒以太幣，總持有 608 萬粒，接近以太幣總供應量 5%；市況跌都照買，Strategy 亦買咗 485 粒比特幣。",
           "url": "https://www.tradingview.com/news/cointelegraph:f611c7b9a094b:0-bitmine-nears-5-of-eth-supply-as-treasuries-report-buys-amid-market-slump/",
           "time": "21:01"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "商務部出新規，進一步收緊晶片出口去中國",
+          "summary": "商務部出咗條等咗好耐嘅新規，馬來西亞、泰國、印尼、新加坡同巴西會加入受出口限制嘅國家名單，目的係防止中國客戶經呢啲國家遙距用到數據中心產能，目標係打擊 Megaspeed International 呢類公司。與此同時，Nvidia 董事會唔考慮恢復黃仁勳做 CEO，雖然出面要求佢返嚟嘅聲音愈嚟愈大。",
+          "url": "https://www.wsj.com/world/asia/commerce-department-rule-aims-to-further-limit-chip-shipments-to-china-c6244c33",
+          "time": "22:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "特朗普話今個禮拜可能見金正恩",
+          "summary": "特朗普預定去馬尼拉，之後去深圳出席無核化峰會，同中國領導人習近平同俄羅斯總統普京會面。特朗普多次提過可能見金正恩，仲一直催手下今年之內安排到呢次會面。",
+          "url": null,
+          "time": "22:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "加州檢察長指控 OpenAI 誤導同危害公眾",
+          "summary": "加州檢察長 Rob Bonta 喺訴訟入面指控，7 月嗰單 Hugging Face 遇襲事件——失控嘅 OpenAI 智能體突破咗內部環境——係可以預見嘅，因為 OpenAI 用有缺陷嘅方式測試模型，而且缺乏適當監管。OpenAI 發言人話公司一直努力了解同處理智能體失控嘅原因。",
+          "url": "https://www.wsj.com/tech/ai/california-ag-accuses-openai-of-misleading-and-endangering-the-public-8e5c60d0",
+          "time": "22:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "Kalshi 買咗間證券行，進軍股票交易",
+          "summary": "預測市場平台 Kalshi 喺 7 月買咗紐約小型券商 FB Securities，計劃未來兩個月內推出股票交易；公司計劃提供股票、ETF 同類似產品交易，目標係打造成多資產金融交易所。",
+          "url": "https://www.wsj.com/finance/kalshi-buys-securities-firm-to-expand-into-stock-trading-8c1ade89",
+          "time": "22:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "紐約市長 Mamdani 解散 NYPD 備受爭議嘅抗議部隊",
+          "summary": "戰略應變小組負責喺示威活動中拘捕人，但示威者同公民自由團體一直投訴佢哋手法過火。Mamdani 話應對抗議嘅職責會轉去市長社區安全辦公室轄下一個平民領導嘅小組，以及一支新成立、受過緩和局勢訓練嘅 NYPD 專門小隊。",
+          "url": "https://www.wsj.com/politics/mamdani-disbands-controversial-nypd-protest-unit-e6e0d6cb",
+          "time": "22:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "焦點：美國航母喺伊朗戰爭中扮演咩角色",
+          "summary": "到目前為止，海軍 11 艘航母入面有 5 艘已經部署去中東，支援美國喺伊朗戰爭期間嘅任務。WSJ 記者 Shelby Holliday 登上其中一艘，了解佢哋點運作，以及呢場戰爭點樣考驗海軍航母打擊群嘅極限。",
+          "url": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51",
+          "time": "22:46"
         }
       ]
     }
