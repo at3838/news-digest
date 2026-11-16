@@ -23949,6 +23949,60 @@
           "summary": "股市下跌本身已經令人難受，但投資者喺跌市時臨時作出嘅反應，隨時令情況變得更差。",
           "url": "https://www.fool.com/investing/2026/11/16/the-stock-markets-biggest-risk-isnt-a-crash-its-what-investors-might-do-when-one-arrives/",
           "time": "18:30"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "Meet Kevin：The Nvidia & Jensen Market Collapse Begins.",
+          "summary": "今次跌市係政治同信心衝擊，唔係實質需求崩潰；觸發點係 SemiAnalysis 大幅下調 2027–2030 年全球 AI 資本開支預測，合共削約 1.6 萬億美元，NVDA 2030 年數據中心收入預測削 66%，但 Kevin 認為轉向誇張咗，訂單同積壓訂單冇跌。",
+          "url": "https://www.youtube.com/watch?v=jUlIobFTg5E",
+          "time": "18:23"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "Andrei Jikh：New AI Laws Will Benefit China",
+          "summary": "新國會多數派準備緊 AI 法規，模型推出前要強制安全測試，開發者要為模型造成嘅傷害負責；開源開發者負擔唔起合規成本會被逼出市場，最大得益者係中國開源模型。",
+          "url": "https://www.youtube.com/watch?v=2MntiX70yyk",
+          "time": "18:23"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "PBD Podcast：Elon Musk Pushes to Reinstate Jensen Huang, Putin Greenlights Zelensky Hit? | PBD #891",
+          "summary": "馬斯克推動黃仁勳復任，特朗普態度軟化，貝森特仍然係主要阻力，約 89% Nvidia 員工支持黃仁勳返嚟；另外討論烏克蘭 28 點和平方案傳聞、政府停擺同伊朗等地緣風險。",
+          "url": "https://www.youtube.com/watch?v=18by3TXfH5k",
+          "time": "18:23"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "Valuetainment：Musk Wants Jensen Back. Bessent Wants Nvidia Cleared Out.",
+          "summary": "同一集 PBD #891 嘅 17 分鐘剪輯，馬斯克推動黃仁勳返嚟，貝森特想徹查 Nvidia 中國相關銷售；新加坡佔 NVDA 2024 年銷售高達約 20%，只有約 1% 晶片留喺當地，係調查核心。",
+          "url": "https://www.youtube.com/watch?v=mC9nBI15YPY",
+          "time": "18:23"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "a16z：What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas",
+          "summary": "兩人唔認同 OpenAI 同 Anthropic 嘅極端收入預測，話 token 用量升但收入大致持平，因為前沿實驗室打緊價格戰；真正轉型要 agent 識得協調，而家 agent 大多數只係平行工作。",
+          "url": "https://www.youtube.com/watch?v=g_67TmQ8lGY",
+          "time": "18:23"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "pjfp 文章：Grok Bot's Lauren Tan and Roman Ugarte on Building a Team of AI Coworkers",
+          "summary": "Lauren Tan 同 Roman Ugarte 用七星期起咗 xAI 嘅 Grok Bot，Tan 每個月經 Slack 派超過 4,000 個 pull request；佢哋主張倒金字塔式投資，最多落 codebase 架構同 lint 規則，最少落 review。",
+          "url": "https://pjfp.com/grok-bot-lauren-tan-roman-ugarte-ai-coworkers/",
+          "time": "18:23"
         }
       ]
     }
