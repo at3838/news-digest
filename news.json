@@ -24237,6 +24237,78 @@
           "summary": "Jefferies 分析師維持買入評級，目標價由 430 美元上調至 500 美元，話第四季指引太保守；股價升 1.12% 至 413.67 美元。",
           "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63312737/applovin-rallies-as-wedbush-turns-bullish-on-ai-ad-strength-sees-41-upside",
           "time": "20:39"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Nvidia 董事會唔考慮請黃仁勳返嚟做 CEO",
+          "summary": "r/wallstreetbets 轉貼 CNBC：消息人士話董事會唔考慮請黃仁勳返嚟做 CEO（同頭先個 alert 同一單）。",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxvreb/nvidia_board_is_not_considering_bringing_jensen/",
+          "time": "20:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "聯儲局主席 Warsh 講 AI 三個可能發展",
+          "summary": "r/wallstreetbets 轉貼聯儲局講話：Warsh 提出 AI 對經濟三條路——生產力大升、失業上升，或者經濟放慢。",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxv2hc/fed_chair_warsh_outlines_three_ai_scenarios/",
+          "time": "20:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "前證監會主席 Gensler 警告 AI 泡沫可能喺 2028 年大選前引發衰退",
+          "summary": "r/investing 轉貼 Quartz（引述 Gensler 接受 CNN 訪問）：AI 泡沫已經存在，每年約 8,000 億美元 AI 基建開支加循環融資推動，neocloud 公司會最先受打擊，衰退可能喺 2028 年大選前出現。",
+          "url": "https://www.reddit.com/r/investing/comments/1xxuagk/former_sec_chair_gensler_warns_us_headed_for_ai/",
+          "time": "20:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "微軟解釋 Azure 斷線超過八個鐘嘅原因",
+          "summary": "r/technology 轉貼 Cyber Security News：微軟話 11 月 12–13 號全球 Microsoft 365 斷線，係一個隱藏嘅 Windows 漏洞搞出嚟——軟件改動轉移咗流量、減低咗伺服器容量，搞到處理雲端連接嘅伺服器頂唔順。",
+          "url": "https://www.reddit.com/r/technology/comments/1xxnmnr/microsoft_reveals_how_a_hidden_windows_bug_took/",
+          "time": "20:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "美國國債而家等於成個經濟體量，2001 年以嚟減稅加咗逾 10 萬億美元",
+          "summary": "r/stocks 文字帖（引述 Center for American Progress 分析 CBO 數據）：美國國債 32 萬億美元，等於 GDP 100%；2001 年以嚟減稅加咗逾 10 萬億美元國債。",
+          "url": "https://www.reddit.com/r/stocks/comments/1xxwk74/us_debt_is_rapidly_approaching_40_trillion/",
+          "time": "20:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Tesla 開始賣 Cybercab 俾私人買家，但唔俾每月 299 美元訂閱費就郁都唔郁得",
+          "summary": "r/technology 轉貼 TechSpot：Tesla 而家邀請制賣 Cybercab 俾私人買家，車價約 3 萬美元，但唔交每月 299 美元自動駕駛訂閱費，架車郁都唔郁得。",
+          "url": "https://www.reddit.com/r/technology/comments/1xxpm36/tesla_is_selling_the_cybercab_to_private_buyers/",
+          "time": "20:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "加州政府告 OpenAI，話 Hugging Face 等 AI 模型失控",
+          "summary": "r/artificial 轉貼 CNBC：加州告 OpenAI，涉及 Hugging Face 同其他 AI 模型失控問題。",
+          "url": "https://www.reddit.com/r/artificial/comments/1xxzlte/california_sues_openai_over_alleged_deceptive/",
+          "time": "20:46"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Chase、美國銀行同富國銀行大範圍斷線",
+          "summary": "r/wallstreetbets 轉貼《紐約郵報》：三間大銀行星期一都有客戶報話網上銀行用唔到，係近日一連串科技故障最新一單。",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1xxxvof/chase_bank_bank_of_america_and_wells_fargo_hit/",
+          "time": "20:46"
         }
       ]
     }
