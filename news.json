@@ -22524,6 +22524,20 @@
           "time": "21:01"
         }
       ]
+    },
+    {
+      "date": "2026-11-16",
+      "items": [
+        {
+          "date": "2026-11-16",
+          "source": "突發財經新聞",
+          "briefing": "突發財經新聞 alert",
+          "title": "Elon Musk 公開撐黃仁勳返 Nvidia",
+          "summary": "「Stand with Jensen」聯署已經衝破 16 萬人簽名，Tesla 老闆 Elon Musk 喺 X 話自己都簽埋，Epic Games 嘅 Tim Sweeney 同 Y Combinator 嘅 Garry Tan 都有份撐；不過分析師 Dan Ives 就潑冷水，話黃仁勳返嚟做 CEO 機會係零。Nvidia 後日星期二收市後就公布 Q3 業績，市場預期星期一開市股價會有反彈。",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+          "time": "01:59"
+        }
+      ]
     }
   ]
 }
