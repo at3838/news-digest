@@ -23184,6 +23184,96 @@
           "summary": "Martin Wolf 揀出今年必讀嘅經濟學書。",
           "url": "https://www.ft.com/content/45fcd5a0-54d2-4178-ac05-0171ae8b5a35",
           "time": "12:52"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "英偉達盤前再跌近 4%，一個月跌近 29%，摩根大通策略師話跌勢未必完",
+          "summary": "英偉達今朝盤前再跌近 4%，報 156.14 美元，一個月已經跌咗差唔多 29%。摩根大通策略師話呢輪跌勢未必完，不過公司賺錢能力強、現金流勁，似微軟同蘋果當年咁有機會慢慢行返上嚟。",
+          "url": "https://www.benzinga.com/markets/tech/26/11/63285307/nvidia-stocks-icarus-fall-isnt-over-yet-but-microsoft-apple-show-path-to-recovery-says-top-strategist-wildly-profitable",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "前證監會主席 Gensler 警告 AI 熱潮可能以科網泡沫式爆破收場",
+          "summary": "前證監會主席 Gensler 警告，AI 熱潮可能以科網泡沫式爆破收場，借貸借得太多太快，2028 年大選之前可能出現溫和衰退甚至更嚴重嘅情況。",
+          "url": "https://www.benzinga.com/markets/macro/26/11/63283689/soft-recession-or-something-more-dramatic-former-sec-chair-gary-gensler-warns-ai-boom-could-end-in-dot-com-scale-bust-they-loaned-too-much-money-too-fast",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Schwab 派息 ETF SCHD 今年吸 275 億美元，成美國最大派息 ETF",
+          "summary": "Schwab 派息 ETF SCHD 今年吸咗 275 億美元資金，超越 VIG 成為美國最大派息 ETF，反映資金可能由 AI 股轉去收息股。",
+          "url": "https://www.benzinga.com/etfs/specialty-etfs/26/11/63285209/meet-wall-streets-new-dividend-king-schds-27-5b-inflow-surge-signals-shift-away-from-ai",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "比特幣跌到 6.4 萬美元附近，一星期跌近 14%",
+          "summary": "比特幣跌到 6.4 萬美元附近，一星期跌咗差唔多 14%。Strive 行政總裁話如果走勢跟返 SpaceX 上市前嗰次咁，明年 2 月底之前有機會上返 9 萬美元。",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63285114/bitcoin-anthropic-ipo",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "XRP 跌穿 1 美元，一星期跌 12%",
+          "summary": "XRP 跌穿 1 美元，一星期跌咗 12%，跌勢未止。",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63284582/xrp-loses-1-after-12-weekly-crash-what-is-going-on",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "家得寶就嚟公布第三季業績，市場預期每股賺 3.84 美元",
+          "summary": "家得寶就嚟公布第三季業績，市場預期每股賺 3.84 美元、收入 427.8 億美元，股息率 2.67 厘。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63285005/how-to-earn-500-a-month-from-home-depot-stock-ahead-of-q3-earnings",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "沃爾瑪盤前升近 1%，星期四出業績",
+          "summary": "沃爾瑪盤前升近 1%，報 129.32 美元，星期四出業績，預期每股賺 0.64 美元，納指期貨跌 1% 之下都照升。",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63281214/whats-going-on-with-walmart-stock-monday-2",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "阿斯利康攞到美國同歐洲兩項批文，盤前升 0.73%",
+          "summary": "阿斯利康攞到美國同歐洲兩項批文，包括罕見病藥 Klygefa 同膀胱癌 Imfinzi 組合療法，盤前升 0.73%，報 185.78 美元。",
+          "url": "https://www.benzinga.com/news/fda/26/11/63285561/astrazeneca-secures-dual-rare-disease-and-bladder-cancer-approvals-across-us-europe",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "加拿大天然資源以約 25.3 億加元收購 Advantage Energy",
+          "summary": "加拿大天然資源用大約 25.3 億加元現金收購 Advantage Energy，每股 13.55 加元，每日多 7.9 萬桶油當量產量，預計明年第一季完成。",
+          "url": "https://www.benzinga.com/m-a/26/11/63284075/canadian-natural-goes-big-on-alberta-oil-and-gas-with-advantage-energy-deal",
+          "time": "13:10"
+        },
+        {
+          "date": "2026-11-16",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Ackman 話房利美同房地美係組合表現最差持倉，特朗普一個帖文可令佢哋升十倍",
+          "summary": "Ackman 話房利美同房地美係佢組合入面表現最差嘅持倉，不過話特朗普一個帖文就可以令佢哋升十倍。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63283335/bill-ackman-calls-fannie-mae-freddie-mac-his-worst-performing-position-but-says-trump-could-unlock-10x-gains-with-a-single-tweet",
+          "time": "13:10"
         }
       ]
     }
