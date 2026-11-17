@@ -26582,6 +26582,42 @@
           "summary": "Google 用地熱技術汽化岩石發電。（briefing 其他要聞一欄只列標題，未附撮要同連結）",
           "url": null,
           "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Finimize",
+          "briefing": "Finimize Daily（即時）",
+          "title": "Nvidia 業績冇失手",
+          "summary": "Nvidia 星期二行上業績台，交出亮麗成績：今季收入 1,158 億美元，按年升 103%，高過預期約 1,090 億美元，數據中心收入 1,076 億美元升 110%；第四季指引約 1,300 億美元。電話會最大問題係領導層：黃仁勳話如果董事會叫佢返去做 CEO 佢願意返，但董事會主席話冇計劃咁做。",
+          "url": null,
+          "time": "23:19"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Finimize",
+          "briefing": "Finimize Daily（即時）",
+          "title": "Anthropic 上市愈睇愈好",
+          "summary": "Anthropic 嘅 IPO 快到，預計星期三公布定價，星期四喺納斯達克上市，估值可能超過 1.4 萬億美元，遠低過最初講嘅 2 萬億美元；Finimize 決定將佢加入投資組合。",
+          "url": "https://app.finimize.com/content/why-anthropic-is-going-into-the-finimize-portfolio",
+          "time": "23:19"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Finimize",
+          "briefing": "Finimize Daily（即時）",
+          "title": "美國進一步限制中國用 Nvidia 晶片",
+          "summary": "由星期一起，新限制要求海外數據中心用 Nvidia 晶片向中國公司提供大量算力要攞美國牌照，向新加坡、馬來西亞、泰國、印尼同巴西運 Nvidia 晶片亦要另外攞牌；星期二中國 AI 開發商同雲端供應商股價跌，阿里巴巴跌 5%。",
+          "url": null,
+          "time": "23:19"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Finimize",
+          "briefing": "Finimize Daily（即時）",
+          "title": "Andrew's Digest：新美國晶片管制震盪東南亞數據中心熱潮、德意志銀行外洩文件、Apollo 同高盛安排 402 億美元資助 SpaceX 晶片",
+          "summary": "新美國晶片管制震盪東南亞數據中心熱潮，迫海外雲端對中國相關 AI 需求做更嚴格檢查；德意志銀行外洩文件睇落唔係致命傷，後果可能只係協商罰款；Apollo 同高盛安排 402 億美元資助 SpaceX 晶片，結構上令債務唔上 SpaceX 資產負債表。",
+          "url": null,
+          "time": "23:19"
         }
       ]
     }
