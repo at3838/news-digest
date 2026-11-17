@@ -26483,6 +26483,105 @@
           "summary": "喺 170 多個市場嘅參與地點，客戶可以將 USDC 兌換做現金。",
           "url": "https://www.tradingview.com/news/newsbtc:702f70317094b:0-moneygram-and-solflare-launch-usdc-cash-out-at-participating-locations-in-170-plus-markets/",
           "time": "22:01"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "SEC 查緊 Nvidia",
+          "summary": "調查重點暫時未清楚，包括公司披露有冇誤導投資者，據知情人士講；同時 Nvidia 又報咗一季破紀錄銷售，收入 1,158 億美元，不過投資者焦點係公司冇咗長期 CEO 黃仁勳之後會點，黃仁勳話如果董事會叫佢返去做 CEO，佢願意返任。",
+          "url": "https://www.wsj.com/business/the-sec-is-investigating-nvidia-c59a9845",
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "NSA 機密內部通訊網絡斷咗",
+          "summary": "知情人士話 NSA 只係更新軟件修補系統，NSANet 只會短暫離線，冇證據顯示係網絡攻擊；NSA 發言人話部分內部系統受影響，但關鍵任務能力仍然全面運作。",
+          "url": "https://www.wsj.com/politics/national-security/classified-u-s-intelligence-system-is-down-for-now-u-s-officials-say-aa09b6d1",
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "Anthropic 預計 IPO 定價高過原定",
+          "summary": "Claude 開發商可能以每股超過 80 美元定價，高過最初 70 至 78 美元嘅範圍，據知情人士講；估值大約去到 1.5 萬億或者 1.6 萬億美元，準備星期四喺納斯達克上市，代碼「ANT」。",
+          "url": "https://www.wsj.com/finance/anthropic-plans-to-raise-ipo-price-after-strong-demand-1a6b0af1",
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "Kalshi 唔再開特朗普相關賭盤",
+          "summary": "公司停咗所有畀用戶賭特朗普喺特定日期會講咩嘅合約，據知情人士講；決定係因為商品期貨交易委員會上星期五命令 Kalshi 暫時停呢啲合約，擔心容易被操縱。",
+          "url": "https://www.wsj.com/politics/policy/kalshi-to-halt-bets-that-are-based-on-trumps-remarks-71bbc94b",
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "FAA 全國停飛之後叫停路由器安裝",
+          "summary": "FAA 官員話暫停安裝，等機構評估上星期五出咩事——嗰次全國停飛取消咗近 20,000 班機，仲有幾千班延誤；聯邦官員話，阿肯色州南部一個無線電發射站新裝嘅路由器，似乎干擾咗全國機師同空中交通管制員之間嘅通訊。",
+          "url": "https://www.wsj.com/business/airlines/faa-pauses-router-installations-after-nationwide-ground-stop-9cd6c424",
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "數字：7,700",
+          "summary": "美國過去兩年麻疹個案數目，另有數百人入院、十幾人死亡；接種率下跌令疾病重新扎根，美國失去咗維持咗幾十年嘅麻疹消除地位。",
+          "url": "https://www.wsj.com/health/healthcare/vaccination-is-down-measles-is-up-how-the-u-s-lost-measles-elimination-status-2cd014c1",
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "焦點：習近平最新政治同軍事清洗，揭示佢對權力嘅掌控",
+          "summary": "一波撤職，包括習近平最親近嘅盟友，令人質疑最高層嘅忠誠、穩定同決策；呢場動盪背後嘅緊張局勢，可能影響北京喺習近平準備喺深圳亞太經合組織峰會見特朗普之際對華盛頓嘅取態。",
+          "url": null,
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "特朗普提名嘅政府監察人選，共和黨人都有反對",
+          "summary": "特朗普提名嘅政府監察人選，共和黨人都有反對。（briefing 其他要聞一欄只列標題，未附撮要同連結）",
+          "url": null,
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "通用汽車搵外部 CEO 人選接替 Mary Barra",
+          "summary": "通用汽車搵外部 CEO 人選接替 Mary Barra。（briefing 其他要聞一欄只列標題，未附撮要同連結）",
+          "url": null,
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "烏克蘭襲擊切斷咗俄羅斯克里米亞大橋一部分",
+          "summary": "烏克蘭襲擊切斷咗俄羅斯克里米亞大橋一部分。（briefing 其他要聞一欄只列標題同連結，未附撮要）",
+          "url": "https://www.wsj.com/world/ukrainian-strike-severs-part-of-russias-crimean-bridge-a688b0f1",
+          "time": "23:03"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "WSJ",
+          "briefing": "WSJ What's News",
+          "title": "Google 用地熱技術汽化岩石發電",
+          "summary": "Google 用地熱技術汽化岩石發電。（briefing 其他要聞一欄只列標題，未附撮要同連結）",
+          "url": null,
+          "time": "23:03"
         }
       ]
     }
