@@ -26222,6 +26222,177 @@
           "summary": "Jane Street 一個 AI 小組重溫 15 年前「FOOM」辯論，四位頂尖預測者對超級智能時間線分歧好大，由 2028 年底前完全自動化 AI 研究有 50% 機會，到自動化所有工作要 15 至 20 年；大家都同意未來三年會分出勝負。",
           "url": "https://pjfp.com/jane-street-ai-panel-singularity-timelines/",
           "time": "19:17"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "道指跌 1.4%，Salesforce 帶頭拖低軟件股，Anthropic IPO 在即",
+          "summary": "Salesforce 跌 9.72% 去 193.95 美元（收市核實係跌 9.45% 去 194.52 美元），係 2024 年 5 月以來最差一日，蒸發大約 170 億美元市值；道指跌 695 點去 50,913 點，軟件 ETF IGV 跌 3.4%；Anthropic 計劃發行 8.25 億股、每股 70 至 78 美元，最多集資 644 億美元，星期三開價、星期四掛牌。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63359152/stock-market-today-salesforce-software-selloff-anthropic-ipo-nvidia-november-17",
+          "time": "21:39"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Apollo CEO Marc Rowan 話 AI 熱潮可能需要高達 8 萬億美元融資，重塑美國信貸市場",
+          "summary": "佢喺 CNBC 話 AI、數據中心、能源同基建融資全個周期要 6 至 8 萬億美元，會以前所未有嘅方式考驗美國資本市場；以晶片抵押嘅融資可以賺多 200 至 300 點子息差，五年內還清；Apollo 參與一單大約 400 億美元、涉及 Nvidia 晶片畀 SpaceX 嘅交易；佢話未來幾年十大投資級債券發行人入面可能有六間係超大規模商，取代六間銀行。",
+          "url": "https://www.benzinga.com/markets/private-markets/26/11/63368410/apollo-ceo-marc-rowan-says-ai-boom-could-require-up-to-8-trillion-reshape-us-credit-markets",
+          "time": "21:39"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "CalPERS 有 650 億美元 AI 相關部署，更加密切注視大型科技公司",
+          "summary": "CalPERS 管理大約 6,500 億美元資產，喺 AI 相關公司有大約 650 億美元部署；佢喺超過 100 次同上市公司嘅討論入面提出 AI 關注，修訂咗代理投票指引，網絡安全同 AI 模型可靠性納入盡職調查；董事 Theresa Taylor 質疑 AI 基建投資同氣候目標有衝突（數據中心開發商為求快用天然氣發電機）；CalPERS 目標 2030 年之前向氣候技術撥 1,000 億美元，截至 6 月財年完結已投 710 億美元。",
+          "url": "https://www.benzinga.com/markets/private-markets/26/11/63371143/65-billion-in-ai-exposure-why-calpers-takes-a-closer-look-at-big-tech",
+          "time": "21:39"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "GraniteShares：星期二 Nvidia、星期四 Anthropic，係全年最關鍵嘅 AI 一週",
+          "summary": "Nvidia 今晚收市後出 Q3 業績（指引營收 1,080 億美元 ±2%、毛利率 74%），係黃仁勳離任後第一份業績，臨時 CEO Kress 主持電話會；Anthropic 預計星期四掛牌，GraniteShares 會推出兩倍槓桿 ETF（呢篇本身係佢哋嘅 ETF 宣傳）。",
+          "url": "https://graniteshares.substack.com/p/tuesday-nvidia-thursday-anthropic",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Bank of Vol：Nvidia 喺倒掛嘅 VIX 曲線下出業績",
+          "summary": "標普期貨 7,427、VIX 23.1；星期一標普跌 1.9%、納指跌 2.5%、SOX 跌 5.3% 成員全部下跌，VIX 收 22.91 升 18.7%，曲線倒掛加深；12 月加息機率大約 95%，零售銷售升 0.2%、進口價格升 1.1%，加息理由更充分。",
+          "url": "https://bankofvol.substack.com/p/nvidia-reports-into-an-inverted-vix-curve",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Kenny Polcari：科技股再捱打，華爾街等 Nvidia 喺冇黃仁勳之下第一份業績",
+          "summary": "星期一半導體跌 5.3%、軟件跌 2.2%、記憶體跌 7.4%，納指跌穿長期趨勢線收 24,509，較 10 月高位跌 11.3%；另外談咗連續幾日科技故障（微軟、FAA、摩根大通）帶出嘅營運風險，話唔係網攻但值得關注。",
+          "url": "https://kennypolcari.substack.com/p/tech-takes-another-beating-as-wall",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Agentic AI Hype：Anthropic 聽日開價",
+          "summary": "發行大約 8.25 億股、每股 70 至 78 美元，估值由大約 9,170 億到超過 1.4 萬億美元不等，認購據報超額大約六倍；Nvidia 今晚出業績，市場預期營收約 1,090 億美元、EPS 約 2.47 美元，關鍵係 Kress 能唔能夠令人相信 Nvidia 係一間機器唔係個人崇拜；另外提到聯儲局理事 Barr 警告 AI 代理自動轉移存款可能引發機器速度銀行擠提。",
+          "url": "https://agenticaihype.substack.com/p/anthropics-1-trillion-float-prices",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Burak Finance：拆解 21 間對沖基金 Q3 13F",
+          "summary": "最多人買係 Intel，最多人沽係 Alphabet；Meta 買家最多（8 間），淨買入約 23.3 億美元；Gerstner 增持 Tesla 新倉、Meta +25%、Nvidia +6%，同時買 SMH 認沽；Baker 將 Nebius 由 6.4 萬股加到 113 萬股，納指認沽加 59%；Druckenmiller 台積電減 94%、Seagate 加 180%；Aschenbrenner 由 202 億跌到 15.8 億美元。",
+          "url": "https://burakfinance.substack.com/p/21-hedge-funds-billions-moved-heres",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Butterfly Market Insider：Cathie Wood 喺 Q3 13F 入面將 Nvidia 持股加 85%",
+          "summary": "加咗近 118 萬股，佔組合 3.37%，同時將 AMD 減持 52%；ARK 組合總值 174 億美元，Tesla 仍然係最大持倉（6.89%）、SpaceX 第二（5.86%）；佢又將 CoreWeave 加 58%、Meta 加 105%，資金嚟自減持 Twist、10X Genomics 等醫療股；不過作者提醒 13F 反映 9 月 30 日持倉，黃仁勳離任等事之後先發生。",
+          "url": "https://butterflymarketinsider.substack.com/p/cathie-wood-bought-the-nvidia-dip",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "No Excuses：上星期標普升 2.5%，星期一一個交易日就攞返近八成",
+          "summary": "佢將市況定性為修正（Regime: CORRECTION，結論：沽反彈），SPY 跌穿 749、QQQ 跌穿 200 日線，10 年債息企喺 5.12% 高過 5.10% 輪動失效線；10 年期債息升、增長弱、聯儲局照加息，係股票最難定價嘅組合。",
+          "url": "https://noexcuses.substack.com/p/cross-currents",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "George Noble：話 Nvidia 係 AI 牛市最唔使擔心嘅問題",
+          "summary": "真正風險係融資鏈：超大規模商資產負債表已經拉緊、自由現金流惡化，董事局遲早會問回報喺邊；據估計靠創投資金生存嘅初創佔頂級 AI 實驗室用量七至八成，錢喺同一圈子入面循環，融資一斷，實驗室收入預測就會散。",
+          "url": "https://georgenoble.substack.com/p/nvidia-is-the-least-of-the-ai-bulls",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Sahil Maheshwari：AI 泡沫係咪爆緊？",
+          "summary": "佢話技術係真、價錢可能太貴：四大超大規模商今年計劃合共使大約 7,300 億美元，OpenAI 上季收入約 100 億美元但蝕咗約 110 億美元；不過今次同 2000 年唔同，花錢嘅係本身大賺錢嘅公司，而且 AI 已經真係做到嘢（Google 約 75% 新程式碼由 AI 寫）；結論係價錢可能爆、技術唔會消失。",
+          "url": "https://itisahill.substack.com/p/is-the-ai-bubble-bursting",
+          "time": "21:38"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Nvidia 第三季業績大勝預期",
+          "summary": "營收 1,158 億美元，按年升 103%，數據中心收入 1,076 億美元升 110%，非通用會計準則 EPS 2.68 美元（預期 2.47 美元），第四季指引 1,300 億美元 ±3%（預期約 1,253 億美元），董事會加碼 1,500 億美元回購；股價盤後升大約 2.2%。",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1xywqb5/nvidia_hits_1158_billion_revenue_up_103_as_ai/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "SEC 喺黃仁勳離任期間查緊 Nvidia",
+          "summary": "帖文連結去華爾街日報，話 SEC 喺 CEO 離任前後展開調查，消息喺業績公布前不久傳出。",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1xyw83l/sec_is_probing_nvidia_amid_departure_of_ceo/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "特朗普賬戶買賣 Nvidia 最多 9,750 萬美元",
+          "summary": "帖文講特朗普嘅賬戶自上任以來交易 Nvidia 103 次，持倉由大約 61.5 萬美元增至 1,250 萬至 5,800 萬美元，最高峰可能去到 9,750 萬美元。",
+          "url": "https://www.reddit.com/r/stocks/comments/1xykmem/trumps_accounts_traded_up_to_975_million_in/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Anthropic 可能高過 70 至 78 美元範圍開價",
+          "summary": "帖文指 IPO 定價或高過原定範圍，估值 1.5 至 1.6 萬億美元；星期三開價、星期四掛牌。",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1xynkgw/anthropic_likely_to_price_ipo_above_the_current/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "傳奇投資者 Druckenmiller 轉揸現金",
+          "summary": "「我哋而家係保本，唔係賺錢」；佢話自己股票既唔長倉亦唔短倉，沽空銅，認為聯儲局係加息唔係減息，專注保本多過賺錢。",
+          "url": "https://www.reddit.com/r/investing/comments/1xyraab/legendary_investor_druckenmiller_moves_to_cash/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "網絡攻擊打中 178 個大網站",
+          "summary": "帖文講大規模網絡攻擊影響 178 個主要網站，包括多個大型平台；今晚稍早 CNBC 亦有報道一輪斷線事件，話係例行維護／內部更新引起，唔係協同攻擊。",
+          "url": "https://www.reddit.com/r/technology/comments/1xykxww/cyber_attack_hits_178_major_websites_including/",
+          "time": "21:44"
+        },
+        {
+          "date": "2026-11-17",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "三星、美光、SK 海力士被控合謀推高記憶體價格",
+          "summary": "帖文講三間公司面臨官司，指控佢哋合謀操控記憶體晶片價格；背景係記憶體價格今年大幅上漲，HBM 合約價據報 2027 年可能翻倍。",
+          "url": "https://www.reddit.com/r/technology/comments/1xyn2kg/samsung_micron_and_sk_hynix_are_accused_of/",
+          "time": "21:44"
         }
       ]
     }
