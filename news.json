@@ -28387,6 +28387,168 @@
           "summary": "據 The Information 報道，字節跳動正深入洽談額外畀大約 5 億美元微軟雲服務，主要係經 Azure 用 OpenAI 模型；落實之後佢每年喺 Azure AI 同雲服務嘅開支會超過 10 億美元，成為微軟喺中國最大嘅 AI 客戶。",
           "url": "https://x.com/Jason/status/2123091115259920878",
           "time": "19:29"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "聯儲局 10 月會議紀要：幾乎全部官員認同再加息可能合適",
+          "summary": "幾乎全部官員都話未來再加息可能合適，有個別話 12 月通脹唔理想嘅話可以考慮加多過 25 點子；10 月會議只有 Cook 同 Hammack 反對維持利率、主張加息；紀要仲將 AI 相關債務列為金融穩定風險，話 AI 投資回報令人失望嘅情景值得警惕。",
+          "url": "https://www.benzinga.com/markets/economic-data/26/11/63409950/fed-minutes-almost-all-officials-more-hikes-ai-debt",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Waller 加息警告：12 月可能加息半厘",
+          "summary": "聯儲局理事 Waller 話 12 月可能要加息半厘震一震市場，或者加 25 點子再暗示 1 月再加；文章話通脹保值債券 ETF 未必頂得住加息，2022 年 CPI 升 6.5% 嗰年，TIPS 指數照跌約 12%，短年期嗰隻只跌 2.84%。",
+          "url": "https://www.benzinga.com/etfs/specialty-etfs/26/11/63409365/wallers-rate-hike-warning-puts-3-tips-etfs-inflation-protection-to-the-test",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Anthropic IPO：考慮以每股 80 至 85 美元定價",
+          "summary": "據彭博引述消息人士，Anthropic 考慮緊以每股 80 至 85 美元定價，高過原先 70 至 78 美元區間，截稿嗰陣仲未有最終決定；以 85 美元計，連同 260 億美元私募，成單交易超過 960 億美元，會係有史以來最大 IPO，聽日以 ANT 掛牌。",
+          "url": "https://www.benzinga.com/markets/ipos/26/11/63414118/anthropic-ipo-price-85-per-share-biggest-ipo-ever",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "Palo Alto Networks 收市後業績雙勝預期",
+          "summary": "2027 財年第一季營收 34.5 億美元、經調整 EPS 1.05 美元，雙雙勝預期，營收按年升 39%，新一代安全業務年化收入升 66% 到 97.3 億美元；同時宣佈以 45 億美元全股票收購 Applied Compute，並上調全年指引，股價盤後升 8.11% 到 367.50 美元。",
+          "url": "https://www.benzinga.com/markets/earnings/26/11/63414200/palo-alto-posts-q1-double-beat-announces-applied-compute-acquisition",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "輝達 CEO 人選：貝森特話要由外面請",
+          "summary": "財長貝森特話要由外面請 CEO，仲要董事會 10 日內交代出口管制問題；大股東 Gerstner 就話董事會應該慢啲，唔好急住排除黃仁勳回任；Polymarket 俾輝達年底前搵到正式 CEO 嘅機會率 20%，黃仁勳年底前回任得 8%。",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63409363/nvidia-ceo-search",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "英特爾：自 9 月底以來跌約 55%，1972 年有數據以來最勁兩個月跌幅",
+          "summary": "自 9 月底以來跌咗約 55%，報 54 美元附近，係 1972 年有數據以來最勁嘅兩個月跌幅，勁過 1974 年嗰次；10 月 30 號第四季指引令人失望嗰日一日跌 28.6%，公司預期 PC 出貨 2026 年跌約 12%、2027 年再跌 10%。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63414033/intel-stock-worst-two-month-drop-on-record-triple-digit-rally",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "沃爾瑪業績前瞻：聽日開市前出第三季業績",
+          "summary": "市場預期 EPS 0.64 美元、營收 1,872.1 億美元；期權市場暗示波幅 5.99%，以市值 1 萬億美元計，上下就係約 606 億美元；同日仲有 Intuit，暗示波幅 10.72% 係最大。",
+          "url": "https://www.benzinga.com/markets/options/26/11/63410983/walmart-could-swing-by-60-6-billion-after-earnings",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "GTA 6 正式開賣，Metacritic 99 分",
+          "summary": "正式開賣，Metacritic 99 分打和歷來最高紀錄，開賣三小時內同時睇直播人數近 790 萬，係遊戲開賣直播歷來最多；Take-Two 股價升 7.35% 到 218.91 美元，Wells Fargo 預期到 3 月底賣到約 6,500 萬隻。",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63411086/gta-6-sales",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "末日購物：大停擺令消費者搶購應急物資",
+          "summary": "連串大停擺（微軟、FAA、摩通、聯合航空、NSA）令消費者搶購應急物資，Mizuho 話 Costco 美國同店銷售（唔計汽油）10 月最後一週升 11 至 12%，頭三週只係 6 至 7%，26 款貴價發電機有 21 款賣晒，目標價由 1,100 美元上調到 1,150 美元。",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63412145/doomsday-shopping-lifts-costco-and-walmart-as-preppers-buy-emergency-supplies",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（收市後）",
+          "title": "私募 HALO 交易：由軟件轉投重資產業務",
+          "summary": "PitchBook 報告話私募基金由軟件轉投 HALO（重資產、低淘汰率）業務，頭三季佔全球私募交易額 22.7% 創新高，軟件只得 9%；美國軟件私募交易額由 2025 年第三季 1,100 億美元高峰，九個月內跌到 107 億美元；不過 PitchBook 警告 HALO 估值已經貴咗。",
+          "url": "https://www.benzinga.com/markets/private-markets/26/11/63411936/private-equity-halo-trade-is-taking-off-as-investors-flee-software-for-ai",
+          "time": "21:41"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "CanopyAtlas 市況掃描：利率市唔係業績市",
+          "summary": "輝達業績大勝但開高走低，Waller 加息半厘言論、美元 19 個月高位、金屬暴跌，作者話呢個係利率市唔係業績市；新興雲商 CoreWeave、Nebius 盤前升完即刻倒跌，Anthropic 今晚定價聽日上市，資金要賣嘢去認購。",
+          "url": "https://canopyatlas.substack.com/p/market-sweep-stocks-fade-after-nvidia",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Running Yield：Jennison 嘅 Mark Baribeau 話恨不得再有一個科網泡沫",
+          "summary": "而家市場比 1999–2000 年懷疑得多、克制得多；佢話輝達明年有望增長 70%，Claude Code 係無人預見嘅殺手級應用，Anthropic 同 OpenAI 明年收入共識 2,500 至 3,000 億美元；數據中心資本開支今年 8,500 億美元，2027 年估計 1.5 至 2 萬億美元，係佢唯一承認擔心嘅地方。",
+          "url": "https://runningyield.substack.com/p/if-only-this-were-a-bubble-like-the",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Sbeautiful：Anthropic 上市首日係最唔抵買嘅時刻",
+          "summary": "作者讀完招股書話，定價預計高過 70 至 78 美元區間頂，估值 15 至 16,000 億美元，大約係第三季收入年化 22 至 24 倍；收入由 2024 年全年 3.86 億美元升到 2026 年第三季單季 170 億美元，但算力承諾 9,009 億美元，16 億股鎖定股 76 日內可以流入市場。",
+          "url": "https://sbeautiful.substack.com/p/should-you-buy-the-anthropic-ipo",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Bank of Vol：輝達勝預期加指引，股價照跌",
+          "summary": "輝達勝預期加指引，但股價截稿嗰陣照跌 2.3% 到 151.86 美元，作者話而家炒 CEO 問題多過業績；標普守住 7,305 底部兩日，金跌 3.4% 到 3,732 美元一年低位，銀跌 5%、油跌 4%。",
+          "url": "https://bankofvol.substack.com/p/nvidia-beats-and-falls-gold-breaks-to-a-one-year-low",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Kendall Report：好消息買唔到升市",
+          "summary": "輝達幾乎每條線都勝預期，但沽盤照賣，作者話問題從來唔係今季數字，而係造就呢啲數字嘅開支可唔可以繼續；星期二 11 個板塊全跌，唔係輪動，係資金離場；10 年債息佢睇會升到 5.23 厘再試 5.33 厘。",
+          "url": "https://kendallreport.substack.com/p/nvidia-beat-the-numbers-sellers-kept",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "CTT 早市簡報：輝達倒跌係因為參議院要查中國晶片出口",
+          "summary": "輝達由盤前升 2.5% 倒跌，原因唔係業績，係參議院銀行委員會主席 Tim Scott 話要公開聽證查輝達同 Megaspeed 嘅中國晶片出口；標普跌穿 200 日線 732.56，新低 498 隻對新高 52 隻；Target 業績勝預期升 6.1%。",
+          "url": "https://confluencetradingtools.substack.com/p/ctt-ai-analyst-morning-briefing-nov-13e",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "No1's Daily Digest：伊朗戰事由油輪打到基地",
+          "summary": "美軍打 Qeshm 島，伊朗無人機襲科威特 Ali Al Salem 同巴林 Sheikh Isa，LPG 船 Tara Gas 第二次被擊、一名船員失蹤；輝達勝預期加指引但未交 10-Q，SEC 開查；黃金跌穿 3,800 美元，標普收低於 200 日線。",
+          "url": "https://no1sdailydigest.substack.com/p/daily-digest-2026-11-18",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "Substack",
+          "briefing": "Substack 熱門美股＋AI（收市後）",
+          "title": "Memia 週掃：黃仁勳下台係「色情報復」定有部署嘅打擊",
+          "summary": "令開源 AI 失去最有力嘅美國倡導者，Hugging Face 129 億美元收購同 Nemotron 開放模型系列去向未明；微軟 365 停擺近兩日波及 74 個國家，NHS 要用返紙本紀錄；Anthropic 今晚定價、聽日以 ANT 上市。",
+          "url": "https://memia.substack.com/p/memia-202646-sexpionage-or-hit-job",
+          "time": "21:30"
         }
       ]
     }
