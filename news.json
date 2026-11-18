@@ -28261,6 +28261,132 @@
           "summary": "文章介紹一隻 ETF，話佢可以省卻揀股嘅煩惱，適合買入之後長期持有幾十年。",
           "url": "https://www.fool.com/investing/2026/11/18/if-i-were-investing-my-first-1000-today-this-is-the-etf-id-buy-and-hold-for-decades/",
           "time": "19:30"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "Meet Kevin：The Stock Market is about to do something UNBELIEVABLE.",
+          "summary": "美銀調查得 3% 投資者預期衰退，但科技股照跌，52% 預期 AI 資本開支會削減；大摩睇好標普 500 十二個月基本情況 8,700 點，話應該揀超大規模雲商同 AI 應用者，唔好追擠迫嘅消費品動量股。",
+          "url": "https://www.youtube.com/watch?v=Tn8IEhp_iq4",
+          "time": "19:28"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "Hoover Institution：AI, Trust, and the Future of Decision Making",
+          "summary": "討論以人為本嘅 AI 應該點樣幫人加強判斷而唔係淨係自動化、可信賴唔等於有能力，同埋「人類在環」好多時變成橡皮圖章；佢唔主張加速，話而家軌跡唔民主、唔公平、唔可持續。",
+          "url": "https://www.youtube.com/watch?v=gulYQ6eP-Lo",
+          "time": "19:28"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "Dwarkesh Patel：How Hackers Got Into OpenAI's Code and Anthropic's Slack - Paul Christiano",
+          "summary": "Christiano 話 Anthropic 同 OpenAI 最近都俾唔高明嘅入侵者攻入，攞到絕大部分演算法發展成果；佢話美國領先中國唔係幾個月，而係得 12 個鐘——即係外人攞到秘密用咗幾耐。",
+          "url": "https://www.youtube.com/watch?v=-PQpJAdp7gw",
+          "time": "19:28"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "a16z：OpenAI's Mark Chen: The Future Is Models Aligning Models",
+          "summary": "遞歸自我改進令對齊問題更迫切，模型可能慢慢偏離目標甚至自己發明子目標；Chen 話而家最有效嘅對齊工具係思維鏈監察，未來一定要係更強嘅模型去對齊其他模型。",
+          "url": "https://www.youtube.com/watch?v=5OszlMNUZD0",
+          "time": "19:28"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "a16z：What It Takes to Run a Personal Assistant Around the Clock",
+          "summary": "First Person Labs 起緊「Second」——一個帶住記憶、偏好同目標嘅個人模型，靠電腦 24 小時數碼足跡學嘢，主動幫手而唔係淨係被動通知；成本係最大限制，10 個 agent 全日行，用 Opus 大約每日 1,000 美元。",
+          "url": "https://www.youtube.com/watch?v=kBJe4H_WobA",
+          "time": "19:28"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "pjfp 文章：Brian Armstrong on Agent Teams, Coinbase Brain and Fintech's 4% Problem",
+          "summary": "Armstrong 而家用七八個首席 AI agent 加幕僚長 agent 管 Coinbase，內部「Coinbase Brain」將會議同程式碼審查變成記憶；佢話 10 年內 99.999% 交易會係 agent 同 agent 之間做，全部 fintech 加埋只佔全球金融服務收入約 4%。",
+          "url": "https://pjfp.com/brian-armstrong-agent-teams-coinbase-brain-fintech/",
+          "time": "19:28"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "pjfp 文章：TomorrowX Summit Day 1: Gerstner, Druckenmiller and Solomon on the AI Trade",
+          "summary": "Gerstner 話 Anthropic 收入 run rate 約 1,000 億美元、認購約 10 倍；Druckenmiller 話好少試過咁睇唔清，已經轉資本保全模式；Solomon 話今次拋售係長週期早期重新校準，未來 10 至 20 年最大價值喺應用層。",
+          "url": "https://pjfp.com/tomorrowx-summit-day-1-gerstner-druckenmiller-solomon-ai/",
+          "time": "19:28"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "X財經台",
+          "briefing": "X財經台（夜晚 7 點）",
+          "title": "@zerohedge：聯儲局 10 月會議紀要（今日 19:00 公布）",
+          "summary": "有幾位官員話 12 月加息超過 25 點子可能有理，幾乎所有官員都認為進一步行動可能適當。",
+          "url": "https://x.com/zerohedge/status/2123129256901509193",
+          "time": "19:29"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "X財經台",
+          "briefing": "X財經台（夜晚 7 點）",
+          "title": "@zerohedge：Arm Rene Haas 獲輝達董事會接觸",
+          "summary": "輝達董事會喺 CEO 搜尋中接觸咗 Arm 行政總裁 Rene Haas，同 11 月 13 號 FT 獨家報道一致，今次係再有消息確認。",
+          "url": "https://x.com/zerohedge/status/2123122749849694548",
+          "time": "19:29"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "X財經台",
+          "briefing": "X財經台（夜晚 7 點）",
+          "title": "@elerianm：Waller 再提加息 50 點子，美元轉強",
+          "summary": "El-Erian 話美元指數轉強，因為聯儲局理事 Waller 再話央行應該考慮喺下次政策會議加息 50 點子；留意呢個係 Waller 11 月 10 號倫敦演講嘅立場，唔係今日新講嘢。",
+          "url": "https://x.com/elerianm/status/2123055961426493608",
+          "time": "19:29"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "X財經台",
+          "briefing": "X財經台（夜晚 7 點）",
+          "title": "@elerianm：英國 10 月 CPI 3.6%",
+          "summary": "整體通脹由 9 月 3.5% 微升到 3.6%，按月升 0.5% 符合預期，主因家庭能源帳單升 4%；核心通脹維持 2.8% 不變，服務通脹維持 3.7%。",
+          "url": "https://x.com/elerianm/status/2122958193441521987",
+          "time": "19:29"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "X財經台",
+          "briefing": "X財經台（夜晚 7 點）",
+          "title": "@tbpn：Kalanick 專訪話黃仁勳被逼走係一場 op",
+          "summary": "Kalanick 話黃仁勳被逼走係一場有部署嘅行動，仲有反擊劇本；佢話輝達下任 CEO 會想盡辦法唔俾黃仁勳返嚟，但佢自己押注黃仁勳會返嚟，仲話輝達員工應該罷工支持黃仁勳。",
+          "url": "https://x.com/tbpn/status/2123118431708836066",
+          "time": "19:29"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "X財經台",
+          "briefing": "X財經台（夜晚 7 點）",
+          "title": "@unusual_whales：白宮擬要求美企公開披露用中國 AI 模型",
+          "summary": "白宮同財政部正討論計劃，要求美國公司公開披露幾時用中國 AI 模型，公司要喺自己網站貼出披露，目的係用公眾壓力令企業唔用中國 AI；唔會加新限制，避免引起科技界或者北京反彈。",
+          "url": "https://x.com/unusual_whales/status/2123126394087457065",
+          "time": "19:29"
+        },
+        {
+          "date": "2026-11-18",
+          "source": "X財經台",
+          "briefing": "X財經台（夜晚 7 點）",
+          "title": "@Jason：字節跳動據報再畀約 5 億美元微軟經 Azure 用 OpenAI 模型",
+          "summary": "據 The Information 報道，字節跳動正深入洽談額外畀大約 5 億美元微軟雲服務，主要係經 Azure 用 OpenAI 模型；落實之後佢每年喺 Azure AI 同雲服務嘅開支會超過 10 億美元，成為微軟喺中國最大嘅 AI 客戶。",
+          "url": "https://x.com/Jason/status/2123091115259920878",
+          "time": "19:29"
         }
       ]
     }
