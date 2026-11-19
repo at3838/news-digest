@@ -29742,6 +29742,42 @@
           "summary": "一篇11月18日嘅論文叫三個頂級大模型由零設計神經網絡，唔用梯度下降，結果三個都唔揀transformer，改用稀疏查表，準確率54.4%，仲好過同等大小嘅transformer嘅29.8%。",
           "url": "https://www.reddit.com/r/artificial/comments/1xzt8ya/three_frontier_llms_asked_to_design_a_neural_net/",
           "time": "14:49"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Finimize",
+          "briefing": "Finimize 每週熱門（即時）",
+          "title": "GTA VI 就嚟出，Take-Two 隻股點玩",
+          "summary": "Grand Theft Auto VI 有機會成為史上最大嘅遊戲發行。不過 Take-Two 隻股已經反映咗成功嘅預期，投資者要諗嘅唔止係銷量破唔破紀錄咁簡單。",
+          "url": null,
+          "time": "16:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Finimize",
+          "briefing": "Finimize 每週熱門（即時）",
+          "title": "Morgan Stanley 睇好 CrowdStrike 嘅 ARR 增長仲有空間",
+          "summary": "間銀行預計今個財年第三季淨新增 ARR 有 4 億至 4.05 億美元，主要係客戶將更多保安開支集中去 Falcon 平台。",
+          "url": null,
+          "time": "16:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Finimize",
+          "briefing": "Finimize 每週熱門（即時）",
+          "title": "Nvidia 係咪開始失去 AI 交易嘅主導地位？｜Market Open",
+          "summary": "AI 交易一直都要有個領頭羊，好長一段時間都係 Nvidia。但隨住中國業務、競爭同領導層嘅問題越嚟越多，呢個位置突然變得冇咁穩。今個星期 Market Open 入面，Reda 同 Russell 講下 Anthropic 上市係咪代表重心由賣基建嘅公司，轉去真正要靠 AI 賺錢嘅公司，以及如果呢個轉變令人失望會點。",
+          "url": null,
+          "time": "16:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Finimize",
+          "briefing": "Finimize 每週熱門（即時）",
+          "title": "擁有贏家：喺贏家通吃嘅市場入面投資",
+          "summary": "現代市場唔獎勵平庸嘅表現，只獎勵最出色嗰幾間。長遠嚟講，公開市場幾乎所有財富增長都係嚟自少數公司，其餘大多數股票對整體回報貢獻好少，甚至零。呢個唔係近期科技周期嘅一時現象，而係統計上嘅現實——理解呢點會改變你對風險同分散投資嘅諗法。",
+          "url": null,
+          "time": "16:16"
         }
       ]
     }
