@@ -28812,6 +28812,362 @@
           "time": "23:18"
         }
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "items": [
+        {
+          "date": "2026-11-19",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "特朗普喺深圳同普京會面，之後會同習近平三方會談",
+          "summary": "特朗普今日喺深圳同普京會面，之後會同習近平三方會談，話會提核不擴散議題。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "哈里王子話如果有需要，佢願意重返軍隊服役",
+          "summary": "哈里王子喺烏克蘭訪問期間接受《電訊報》訪問，話如果有需要佢願意重返軍隊對抗俄羅斯威脅。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "英格蘭同威爾斯將廢除 leasehold 制度，地租上限封頂 £250",
+          "summary": "政府今日向國會提交《Commonhold 同 Leasehold 改革法案》，英格蘭同威爾斯新樓盤以後以 commonhold 為標準，地租 2028 年起封頂每年 250 鎊，40 年後減到零。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "歐盟通過同印尼嘅貿易協議，減關稅應對美國關稅壓力",
+          "summary": "歐盟通過同印尼嘅貿易協議，減關稅應對美國關稅壓力。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "英國 10 月通脹升到 3.6%，一年新高",
+          "summary": "英國 10 月通脹升到 3.6%，一年新高，主要係燃油貴；核心通脹維持 2.8%。英倫銀行本月初先加息到 4%，市場估 12 月 17 日再加息嘅機會約八成。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "Anthropic 上市集資 813 億美元，歷來最大 IPO",
+          "summary": "Anthropic 上市集資 813 億美元，歷來最大 IPO，超前 SpaceX。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "英鎊受通脹數據拖累，跌到 1.3182 美元",
+          "summary": "英鎊受通脹數據拖累，跌到 1.3182 美元。",
+          "url": null,
+          "time": "06:59"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "歐洲新聞：柏林「自願聯盟」峰會、歐盟 450 億歐元援烏貸款、克里米亞大橋遇襲、特朗普深圳會普京、法軍烏克蘭訓練任務",
+          "summary": "烏克蘭主要歐洲盟友今日喺柏林開「自願聯盟」峰會，重點係停火後具法律約束力嘅安全保證，英國會宣布新一輪援烏方案包括長程無人機；歐盟委員會建議 2027 年向烏克蘭提供 450 億歐元貸款；烏克蘭 11 月 16 至 17 號兩度襲擊克里米亞大橋。",
+          "url": null,
+          "time": "07:02"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "英國新聞：Commonhold 改革法案、能源帳單明年升 26%、哈里王子、Burnham 訪布魯塞爾",
+          "summary": "政府今日向國會提交《Commonhold 同 Leasehold 改革法案》，新樓盤以後以 commonhold 為標準；Cornwall Insight 預測明年一月起一般家庭能源帳單升 26%，即每年加 443 鎊；首相 Burnham 星期五去布魯塞爾同歐盟領袖首次會面。",
+          "url": null,
+          "time": "07:02"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "歐洲財經：富時 100 跌 1.30%、英國 10 月通脹 3.6%、英鎊 1.3141 美元",
+          "summary": "富時 100 指數跌 1.30%，收 10,551 點；英國 10 月通脹 3.6%，一年新高；英鎊跌到 1.3141 美元，歐元對美元 1.0972。",
+          "url": null,
+          "time": "07:02"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "窮家有道：巴郡第三季大手回購背後嘅盤算",
+          "summary": "分析巴郡第三季大手回購背後嘅盤算，話 Greg Abel 用真金白銀表態邊隻股票值得買。",
+          "url": "https://facebook.com/100044631090718/posts/pfbid02hxRne15dHJz2HuXDAs5wHAXWCm1J53vuNR7JTJV9hxKmm8e2ipfBsae4f7QmuHs1l/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "Fomo研究院：輝達 5,300 億美元擔保傳聞",
+          "summary": "Cramer 問代理行政總裁 Kress，市場傳輝達要背 5,300 億美元擔保會唔會食光現金流，Kress 話實際數字係 1,180 億。",
+          "url": "https://facebook.com/61573146584049/posts/pfbid02dmmE3g4QSeUgGRyCkb4M9x3oRwCmbEpMruseNPza4yVNMnqeuEgBvyL9KbdZo8xSl/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "Stas Talks Stocks：Ackman 批評輝達董事會",
+          "summary": "Ackman 公開批評輝達董事會，話董事會倉促處理黃仁勳離任，令股東失望，甚至可能違反受信責任。",
+          "url": "https://facebook.com/100063745742896/posts/pfbid09QjSL7PMqysCu9jUkuVW2iN3fHek7gH5gyT1FziiZAnctQzMkwSHRUXNjydHzfhrl/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "Sheraton Wu：Palo Alto 營收大升 39%",
+          "summary": "Palo Alto 營收 34.45 億美元，按年大增 39%，勝預期約 4%，盤前升 9% 盤後再升 9%，仲宣布用 45 億美元股票收購 Applied Compute。",
+          "url": "https://facebook.com/647765631/posts/pfbid02dBadEEpws4bLGJkUNgghgXvDW3vfbSBnmiD15MgUtG32GPpoyvmNpUMdXfYDRYfRl/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "窮家有道：輝達第一個冇黃仁勳嘅全體員工大會",
+          "summary": "輝達開咗第一個冇黃仁勳嘅全體員工大會，Kress 一開場叫大家「向前睇」，作者批評管理層回應捉錯用神。",
+          "url": "https://facebook.com/100044631090718/posts/pfbid064mvUAyd4cUeNNTqqzoLKSuYrZuCrwuRXgTwaQGtMW7vabcPCSq5zPs59zxNZFWil/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "軒翥而翔：財務出身嘅人管科技公司",
+          "summary": "批評搵財務出身嘅人管科技公司，穩定軍心淨係識派錢，但輝達七成六至七成八員工已經係百萬富翁，留低係為咗改變世界，派錢激勵有限。",
+          "url": "https://facebook.com/100063749708762/posts/pfbid0YyVn8VtpPdW4UZ7n7SZUnuHLsQhhv3VbzE6o4NeKFwBgpxmeGNqRmXPqLuLq6yurl/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（朝早 7 點）",
+          "title": "Kyle Chu：Google 發表 Gemini 4 Neon",
+          "summary": "Anthropic 以 83 美元定價 IPO 嗰日，Google 發表最高階付費版 Gemini 4 Neon，測試話大部份評比遠勝 Claude Opus 5.5 同 OpenAI 高階版。",
+          "url": "https://facebook.com/groups/1713764039757273/permalink/1890232242110451/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（朝早 7 點）",
+          "title": "一人公司研究所：港大開源 PhoneGo",
+          "summary": "港大開源 PhoneGo，手機助手自己開 App、一步步操作，仲可以跨 App 搬資料。",
+          "url": "https://facebook.com/61588107756334/posts/pfbid02fDJrTUntoqu2DbzY4q7rUX3YuY7rJL77hMEyfvLyXoo9U869MnAiMXZgPAZ7MVFrl/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（朝早 7 點）",
+          "title": "一人公司研究所：Claude Code 遙控 Android 電視盒",
+          "summary": "有人用 Claude Code 經 adb 連入平價 Android 電視盒，本機跑 0.5GB 嘅 Qwen3.5 細模型，再用 Telegram 遙控，講一句「play Dune」電視自己搜尋播放。",
+          "url": "https://facebook.com/61588107756334/posts/pfbid06gbWbQtbj7nd4T8VDpyzTfSUzZgLnCM2m3imH4z5FRT1txemTFEJGuHimbfeUea9l/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（朝早 7 點）",
+          "title": "海總理：Mac app 疊加顯示 AI Quota 水位",
+          "summary": "整咗個 Mac app，可以喺原本個 icon 上面疊加顯示 AI Quota 水位，唔使半個鐘就整好。",
+          "url": "https://facebook.com/reel/1129095173235797/",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "硅谷101：Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子",
+          "summary": "講 Dario Amodei 由百度、Google Brain、OpenAI 到 2020 年帶隊出走創立 Anthropic 嘅經過，PBC 治理架構同融資歷程；收入兩年升 112 倍，但增長放緩、客戶集中同數千億算力承諾係風險。",
+          "url": "https://www.youtube.com/watch?v=sYdN4b14rHU",
+          "time": "07:11"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "a16z：John Schulman on Getting AI Models to Tell the Truth",
+          "summary": "81 秒短片，John Schulman 講點樣用訓練目標獎勵模型講出自己內部狀態；OpenAI「自白」研究發現獎勵誠實可以令模型更誠實。",
+          "url": "https://www.youtube.com/watch?v=oRmAbrpECkQ",
+          "time": "07:11"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "Meet Kevin：The FAA Ground Stop Story Doesn't Add Up",
+          "summary": "美國航空管制系統全面停擺，Kevin 話官方講法講唔通，關鍵係新路由器部署淹沒舊站點；撥款要求由 106 億升到 500 億美元。",
+          "url": "https://www.youtube.com/watch?v=2TvRFHq4u4c",
+          "time": "07:11"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "Andrei Jikh：Saudi Arabia Is Running Out of Dollars",
+          "summary": "63 秒短片：伊朗戰爭加霍爾木茲海峽封閉令海灣經濟模式停擺，沙特要油價 170 美元先夠補收入，儲備下跌威脅美元掛鈎。",
+          "url": "https://www.youtube.com/watch?v=9il75PXZ6JU",
+          "time": "07:11"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "This Week in Tech：The Reason Behind the Global Outlook Outage",
+          "summary": "Microsoft 365 全球斷線約 24 小時，原因係網絡改動衝突加路由器死機引發連鎖反應，唔係網絡攻擊。",
+          "url": "https://www.youtube.com/watch?v=1Eq3fG_UPXM",
+          "time": "07:11"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "pjfp：Anthropic IPO Prices at $83: A $1.5 Trillion Bet With a Trust on the Board",
+          "summary": "Anthropic 以每股 83 美元定價，集資約 813 億美元，歷來最大基本 IPO，估值約 1.5 萬億美元，今日以 ANT 喺 Nasdaq 掛牌。",
+          "url": "https://pjfp.com/anthropic-ipo-prices-83-per-share-nasdaq-ant/",
+          "time": "07:11"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "pjfp：Travis Kalanick: Bring Back Jensen, Because We Don't Want an AI Overlord",
+          "summary": "Uber 聯合創始人喺 TomorrowX 專訪講新公司 Atoms 同自動化對工作嘅影響，最後呼籲請黃仁勳返輝達，甚至話罷工好過聯署。",
+          "url": "https://pjfp.com/travis-kalanick-jensen-huang-atoms-ai-overlord-tomorrowx/",
+          "time": "07:11"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "今日焦點：Anthropic 以 83 美元定價，今日掛牌",
+          "summary": "Anthropic 以每股 83 美元定價，賣出 9.8 億股，集資約 813 億美元，估值約 1.5 萬億美元，今日以 ANT 喺 Nasdaq 掛牌；另有 260 億美元科技大廠私募配售，總計可達約 950 億美元。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "宏觀大市：指數分歧，銅金齊跌，美元再強",
+          "summary": "輝達跌 2.9%，道指跌 1.1%，標普連跌第五日；銅價單日跌 5.3%，黃金跌 3.5% 到 3,730 美元；美元指數升到 103.82，CME 顯示 12 月加息機會率 100%。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "AI 半導體：輝達財報亮眼但前景懸空",
+          "summary": "營收 1,158 億美元、年增 103%，Q4 指引 1,300 億美元，但法說會 10 條市場最想問嘅問題得 3 條完整回答；「輝達銀行」收緊，Neocloud 融資加咗「紀律」同「選擇性」條件。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "策略組合：ARK 細額調整，資安股急升",
+          "summary": "ARK 11 月 18 號交易全部係細額調整，冇大倉位變動；Palo Alto 業績超預期加收購消息，收升 9.9%，盤後再升 12%，帶動 CrowdStrike、Okta 等資安股升逾一成。",
+          "url": null,
+          "time": "07:15"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "TheStreet：Zillow 警告樓市",
+          "summary": "Zillow 警告而家睇緊樓市嘅人要留意。",
+          "url": "https://www.threads.com/@thestreet/post/Df6cMuzEeXJ",
+          "time": "07:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "TheStreet：企業數據儲存公司受惠 AI 熱潮，股價升 42%",
+          "summary": "一間企業數據儲存公司受惠人工智能熱潮，股價升咗 42%。",
+          "url": "https://www.threads.com/@thestreet/post/Df6YwW6jt-i",
+          "time": "07:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "TheStreet：巴郡最新披露持有意大利科技公司",
+          "summary": "巴郡最新披露持有意大利科技公司。",
+          "url": "https://www.threads.com/@thestreet/post/Df6VVchDgwi",
+          "time": "07:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "TheStreet：華爾街對出年展望分歧愈嚟愈大",
+          "summary": "華爾街對出年展望分歧愈嚟愈大。",
+          "url": "https://www.threads.com/@thestreet/post/Df6OeNsjgYC",
+          "time": "07:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "大叔美股筆記：市場越恐慌越要冷靜",
+          "summary": "市場越恐慌越要冷靜，唔好喺情緒最亂嗰陣做錯決定，等值得出手嘅價先郁。",
+          "url": "https://www.threads.com/@unclestocknotes/post/Df6NgYblNDK",
+          "time": "07:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "WhaleAgent：德國 Ledger 硬件錢包 10 分鐘內被轉走 4.72 個比特幣",
+          "summary": "德國買嘅 Ledger 硬件錢包，10 分鐘內俾人轉走約 4.72 個比特幣，涉款逾 32 萬美元。",
+          "url": "https://www.threads.com/@whaleagent/post/Df6J3f0Ezjm",
+          "time": "07:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "TheStreet：巴郡第三季增持達美航空 710 萬股",
+          "summary": "巴郡第三季增持達美航空 710 萬股。",
+          "url": "https://www.threads.com/@thestreet/post/Df6EMFujgMz",
+          "time": "07:16"
+        },
+        {
+          "date": "2026-11-19",
+          "source": "Threads",
+          "briefing": "Threads AI 摘要（朝早 7 點）",
+          "title": "WhaleAgent：美國高中 AI 槍械偵測器因成日誤報停用",
+          "summary": "美國一間高中試用人工智能槍械偵測器一年幾，最後因為成日誤報要停用，準確度遠未達標。",
+          "url": "https://www.threads.com/@whaleagent/post/Df6ZUOqkwnz",
+          "time": "07:16"
+        }
+      ]
     }
   ]
 }
