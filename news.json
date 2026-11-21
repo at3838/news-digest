@@ -32929,6 +32929,78 @@
           "summary": "雖然華爾街過去幾星期好波動，但高盛預計未來 12 個月市況會明顯向好。文章講呢個預測嘅背景。",
           "url": "https://www.fool.com/investing/2026/11/20/report-goldman-sachs-predicts-the-s-and-p-500-will-gain-26-in-12-months/",
           "time": "07:26"
+        },
+        {
+          "date": "2026-11-21",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@elerianm：收市愈嚟愈難睇，技術面主導一切",
+          "summary": "納指跌逾 5%，VIX 衝到接近 40，但 10 年期債息反而跌至 4.93%；佢話技術面不利因素完全蓋過基本面，唔少股票基本面幾好都照跌。",
+          "url": "https://x.com/elerianm/status/2123886615378395535",
+          "time": "07:24"
+        },
+        {
+          "date": "2026-11-21",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@Jason：黃仁勳係嗰種「戰士願意為佢打仗」嘅領袖",
+          "summary": "佢轉發紐約時報講黃仁勳管理風格嘅片段，話呢種領袖就係戰士想跟住打仗嗰種；報道話黃仁勳用近乎羞辱嘅手段鞭策員工，要求離譜但有耐性同遠見，Chamath 亦轉發同一篇，話呢類領袖會篩走捱唔住壓力嘅平庸員工。",
+          "url": "https://x.com/Jason/status/2124023697447231545",
+          "time": "07:24"
+        },
+        {
+          "date": "2026-11-21",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@unusual_whales：FBI 全國犯罪資訊中心被黑",
+          "summary": "據 CNN 報道，FBI 嘅全國犯罪資訊中心（NCIC）被黑客入侵。",
+          "url": "https://x.com/unusual_whales/status/2123976668234621408",
+          "time": "07:24"
+        },
+        {
+          "date": "2026-11-21",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@theallinpod：Friedberg 話限制開源 AI 係通往暴政之路",
+          "summary": "佢話開源應該被容許甚至鼓勵擴散，因為冇開源，掌握 AI 嘅集團最終會變得暴虐，就算佢哋本意唔係咁。",
+          "url": "https://x.com/theallinpod/status/2123994998156722681",
+          "time": "07:24"
+        },
+        {
+          "date": "2026-11-21",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "今日焦點：美股第七日急跌，標普入技術性修正",
+          "summary": "標普收 6,910.39 跌 3.7%，納指跌 5.28%，道指跌 1.93%，VIX 收 35.89，標普同道指正式入修正區，納指抹走今年全部升幅，全週標普跌 8.6%、納指跌 10%；Anthropic 上市第二日再跌約一成，低見 85.63 美元；輝達面對 SEC 會計調查同加州傳票。",
+          "url": null,
+          "time": "07:22"
+        },
+        {
+          "date": "2026-11-21",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "宏觀大市：HFI 話標普由年初升 12% 跌到基本打平",
+          "summary": "HFI Research 話 Anthropic 上市係一場財富大轉移，伊朗控制荷姆茲海峽一日，油市緊、通脹高企、風險資產受壓，佢繼續持有 ARKK put spread 並買入 BNO call；Bonner 話保證金貸款 6 月見頂後回落，之前幾次見頂之後都係大跌市；Don Durrett 話標普較歷史高位低 12%，金銀礦業創今年新低。",
+          "url": null,
+          "time": "07:22"
+        },
+        {
+          "date": "2026-11-21",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "AI 半導體：Beth Kindig 話 AI 交易啱啱開始",
+          "summary": "Beth Kindig 話 Rubin 首季出貨 200 億美元，幾乎係 Blackwell 首季兩倍，輝達供應承諾 3,900 億美元，雲端積壓訂單升至 2.5 萬億美元，估值係十年嚟最低；AMD 俾 Hunterbrook 做空報告狙擊跌 7.7%，作者核對後話七項外圍事實全部屬實，但全貌而家無法得知；軟銀孫正義曾經諗過用 1 萬億美元收購 SK 海力士，現已唔再積極考慮。",
+          "url": null,
+          "time": "07:22"
+        },
+        {
+          "date": "2026-11-21",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "策略組合：ES 賣出循環模式，星期一睇會唔會延續",
+          "summary": "Adam Mancini 話 ES 賣出循環有固定模式，星期三跌到 7,305 點低位就係「電梯向下」之後掃低位再反彈，機構吸貨多數喺 Failed Breakdown 出現；Seeking Alpha 有文話輝達而家風險高、撈底言之尚早，亦有文話 AI 拋售可能完結，Nebius 由 Buy 上調至 Strong Buy。",
+          "url": null,
+          "time": "07:22"
         }
       ]
     }
