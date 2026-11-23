@@ -35180,6 +35180,96 @@
           "summary": "標普 500 跌 3.70% 收 6,910.39，連續第七日下跌並正式入調整區，一星期跌 8.61%；納指跌 5.28% 抹晒今年升幅，道指跌 1.93% 同樣入調整區，觸發點係路透社報道 SEC 調查 NVDA 會計做法，NVDA 單日跌 14.01% 收 125.53 美元。VIX（Yahoo 收市數，Cboe 未能直接核實）升 26.2% 至 35.89，盤中高見 40.03，9 日波幅 40.72 高過 30 日波幅，前端倒掛加深。Cboe 11 月 20 日最終 put/call 總數 1.13、指數 1.27、個股 0.77、SPX 1.41，四項齊升，避險買盤全面加重。情緒恐慌偏淡、短線偏弱但未確認見底，星期一睇 VIX 會唔會升穿 40、put/call 總數係咪繼續企喺 1 樓上，同埋星期三 PCE 數據。",
           "url": null,
           "time": "07:18"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "今日焦點：上星期歷史性大跌，聯儲局 12 月 9 號加唔加息成最大懸念",
+          "summary": "上星期係美股自 2025 年 3 月以嚟最差一星期，標普跌 8.6%、納指跌 10%，標普由 10 月高位跌 11.6% 入調整區，NVDA 單星期跌 23% 收 125.53 美元，VIX 收 35.89；星期三朝早 8 點半一次過出 10 月 PCE、第三季 GDP 第二次估算等數據，係議息前最大關口。",
+          "url": null,
+          "time": "07:38"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "宏觀大市：Robin Brooks 話聯儲局係跌市元兇，信貸息差闊到 5 月以嚟最闊",
+          "summary": "Robin Brooks 話聯儲局言論完全冇理會油價跌拉低通脹預期、推高實質利率，美元多倉已去到 2011/12 年歐債危機水平，套息交易爆倉風險升，12 月 9 號可能因市場太亂而加唔成息；投資級信貸息差闊到 5 月以嚟最闊，CCC 級以下高收益息差跳到 13.5%，係 2020 年 7 月以嚟最高。",
+          "url": null,
+          "time": "07:38"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "AI 半導體：NVDA Q3 收入 1,158 億美元升 103%，但黃仁勳離任暴露融資依賴",
+          "summary": "NVDA Q3 收入 1,158 億美元按年升 103%，數據中心 1,076 億美元，Q4 指引 1,300 億美元，但自由現金流 438 億美元落後淨利潤，應收賬升到 810 億美元；FUNDA 話黃仁勳離任暴露成個行業嘅融資依賴，Nebius 由高位跌 73% 收 81.31 美元，跌因係執行甩轆同資本開支爆炸。",
+          "url": null,
+          "time": "07:38"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "Gmail 股市信件",
+          "briefing": "Gmail 股市信件",
+          "title": "其他：Claude 證出黎曼猜想獲 Lean 社群認證",
+          "summary": "Brief AI 話 Lean 同 Mathlib 社群聯合聲明認證 Anthropic 數學家 Alpöge 嘅黎曼猜想證明正確，1,700 萬行 Lean 程式庫獨立重現編譯；ChatGPT Space 由 11 月 20 號起開放俾 Plus 用戶；GoldFix 話 10 月黃金成中國第三大進口類別。",
+          "url": null,
+          "time": "07:38"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@unusual_whales：民主黨攞到 258 席眾議院，1992 年以嚟最大多數",
+          "summary": "民主黨星期日攞到第 258 席，Chuck Hubbard 喺北卡羅來納州贏咗 Virginia Foxx，今次一共贏咗 44 席；仲有 4 席未定，共和黨暫時最少 173 席；民主黨 1 月 3 號接管參眾兩院，Hakeem Jeffries 做眾議院議長。",
+          "url": "https://x.com/unusual_whales/status/2124697506269515785",
+          "time": "07:40"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@unusual_whales：Trump 希望 Nvidia 董事會請返 Jensen Huang",
+          "summary": "Trump 公開話希望 Nvidia 董事會重新聘用黃仁勳；背景係黃仁勳 11 月 12 號辭職，CFO Colette Kress 暫代 CEO，董事會搵緊正式人選；財長 Bessent 星期日話黃仁勳會唔會返，要睇責任歸邊個。",
+          "url": "https://x.com/unusual_whales/status/2124700434778689589",
+          "time": "07:40"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@unusual_whales：Alice Huang 被指捲入 Jensen 黃仁勳私情同中國間諜案",
+          "summary": "NYT 報道，Alice Huang 喺同黃仁勳有婚外情期間，接觸過中國國家安全部官員；美國官員未認定佢係間諜；FT 早前調查話佢同一個被指涉柬埔寨犯罪集團嘅晶片供應網絡有關。",
+          "url": "https://x.com/unusual_whales/status/2124696171314839617",
+          "time": "07:40"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@unusual_whales：Trump 傾向 2027 年 1 月 1 號後恢復打擊伊朗",
+          "summary": "Trump 星期日接受 Fox News 訪問，話如果談判失敗，傾向元旦之後恢復對伊朗大規模軍事打擊；佢同時警告，伊朗船隻如果試圖闖美國海軍封鎖，會被擊沉。",
+          "url": "https://x.com/unusual_whales/status/2124694150876635211",
+          "time": "07:40"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "Meet Kevin：Why did the Stock Market JUST Crash?",
+          "summary": "納指嗰星期跌 10.02%，係 2020 年 3 月以嚟最差一星期；標普跌 8.6% 到 6,910 點，晶片指數成個星期跌約 17%；佢話跌市背後唔係需求崩潰，而係政策同信心問題，1996 年同 2018 年聯儲局暫停加息之後股市都大升。",
+          "url": "https://www.youtube.com/watch?v=1xa7PMF8SBE",
+          "time": "07:43"
+        },
+        {
+          "date": "2026-11-23",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "All-In（Chamath）：The Market is BAD for Stocks Right Now",
+          "summary": "Anthropic 估值難撐、NVIDIA 業績好股價跌，通脹黏性加十年債息向上令聯儲局減息空間細，甚至有加息可能；參議院同國會新領導層為市場創造不確定性。",
+          "url": "https://www.youtube.com/watch?v=jHOvCD1nGEQ",
+          "time": "07:43"
         }
       ]
     }
