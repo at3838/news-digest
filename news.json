@@ -38979,6 +38979,96 @@
           "summary": "美國貿易代表署今日公布 Section 301 調查結果，以「產能過剩」為由，正式向中國、歐盟、日本、印度等 14 個貿易夥伴提出新關稅；中國要喺 2018 年嗰 25% 之上再加 20%，唔遵守十月釜山休戰協議稅率可能加到 40%，最快一月先實施。消息拖累美股期貨，納指期貨盤前跌超過 2%。",
           "url": null,
           "time": "13:29"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "期指跌，市場押注 12 月加息",
+          "summary": "道指期貨跌 0.74%、標普期貨跌 1.30%、納指 100 期貨跌 2.21%，FedWatch 顯示 12 月加息機率 99.8%；特朗普叫黃仁勳「講真話」；Dell 第三季 EPS 9.45 美元後盤前跌 7.54%。",
+          "url": "https://www.benzinga.com/markets/equities/26/11/63615832/stock-market-today-dow-jones-sp-500-futures-fall-as-traders-bet-on-december-fed-hike-trump-tells-huang-to-just-tell-the-truth-dell-wday-adsk-in-focus",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "PCE 3.8% 符合預期、Q3 GDP 上修至 4.3%",
+          "summary": "10 月 PCE 按年升 3.8% 符合預期，核心升 3.3% 高過預期 3.2%，月率同升 0.3%；第三季 GDP 二估年化 4.3%，由初值 3.4% 大幅上修，高過預期 3.5%；個人收入升 0.7% 勝預期。",
+          "url": "https://www.benzinga.com/markets/economic-data/26/11/63619838/pce-inflation-october-gdp-second-estimate",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "微軟 24 小時斷網後啟動最高級別應變",
+          "summary": "微軟 365 斷網 24 小時，影響 Exchange Online、Outlook、Teams、Copilot 等，高峰期 Outlook 投訴超過 13 萬宗；微軟盤前跌 2.99% 報 481.30 美元。",
+          "url": "https://www.benzinga.com/markets/tech/26/11/63620510/microsoft-launches-code-red-after-24-hour-outage-wants-critical-fixes-deployed-worldwide-in-just-1-hour-report",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Micron 盤前跌近 8%",
+          "summary": "報 580.97 美元跌 7.75%，NVDA 重新受審視加上美國晶片出口限制，拖低 AI 晶片股；NVDA 盤前跌超過 5%，國會議員定咗 12 月 1 日約見黃仁勳、12 月 2 日約見 NVDA 總法律顧問 Tim Teter。",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63620201/what-is-going-on-with-micron-tech-stock-on-wednesday-2",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Bitcoin 考驗六年均線 56,700 美元",
+          "summary": "週末急跌嗰陣短暫跌穿，上次跌穿係 FTX 爆煲嗰陣，之後喺均線之下徘徊咗約兩個月；再跌落去可能見 53,500 美元同 47,000 美元（長期持有者成本）。",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63620183/this-rare-moving-average-test-determines-if-bitcoin-hits-47000-next",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Deere 跌",
+          "summary": "盤前跌 3.36% 報 593.13 美元，第四季每股盈利 3.89 美元差過預期 4.07 美元；全球淨銷售跌 2% 至 121.15 億美元但勝預期；大型農業疲弱，生產及精準農業銷售跌 15%。",
+          "url": "https://www.benzinga.com/markets/earnings/26/11/63620352/deere-stock-slips-as-large-agriculture-weakness-overshadows-revenue-beat",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Workday 跌",
+          "summary": "盤前跌 9.33% 報 162.50 美元，第三季業績勝預期，但第四季訂閱收入指引差過預期，加上自由現金流唔達標；AI 年化經常性收入超過 7.5 億美元。",
+          "url": "https://www.benzinga.com/markets/large-cap/26/11/63620072/workday-shares-decline-on-wednesday",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Amazon 同 Meta 傳傾 Muse AI 購物停火",
+          "summary": "據報兩邊傾緊協議，可能恢復 Meta 嘅 Muse AI 購物助手接入 Amazon 市集，未必傾得成；Amazon 9 月以違反服務條款為由封咗 Muse。",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63620031/are-amazon-and-meta-exploring-muse-ai-shopping-truce",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "特朗普撐醫保擴大概念",
+          "summary": "特朗普話候任參議員 Abdul El-Sayed 係「聰明人」，對方將全民醫保包裝做「TrumpCare」，特朗普話大家可能搵到中間落墨；消息出嚟嗰陣 UNH 反彈 1.7%、Humana 反彈 5%。",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63620600/trumpcare-medicare-health-insurer-stocks",
+          "time": "14:07"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "Benzinga",
+          "briefing": "Benzinga 美股頭條（開市前）",
+          "title": "Ambarella 警告記憶體短缺",
+          "summary": "盤前暴跌 35.34% 報 28.75 美元，第四季收入指引 7000 萬至 7500 萬美元，遠低過預期 1.12 億美元；記憶體短缺加價，客戶調低預測，大部分延遲收入係訂單推遲而唔係取消。",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63620016/ambarella-warns-of-memory-shortages-delayed-orders-and-revenue-pressure",
+          "time": "14:07"
         }
       ]
     }
