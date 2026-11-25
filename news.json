@@ -39825,6 +39825,24 @@
           "summary": "市場流動性有限，Bitcoin 成日充當流動性嘅蓄水池。文章探討 Anthropic 上市吸走資金，同 Bitcoin 近期回落之間有冇關係。",
           "url": "https://www.fool.com/investing/2026/11/25/is-the-anthropic-ipo-to-blame-for-bitcoins-recent-downturn-the-answer-might-surprise-you/",
           "time": "19:31"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "pjfp 文章：Anthropic vs SpaceX IPO：史上最大兩單 IPO 有幾似",
+          "summary": "兩單 IPO 機制幾乎一樣：都係 Nasdaq 上市、高盛加摩通做主承銷、賣少過一成公司、首日升 17 至 19%，而家兩隻都跌穿招股價；Anthropic 集資 813 億美元係史上最大 IPO，流通量得 8.7% 係最大分別。",
+          "url": "https://pjfp.com/anthropic-vs-spacex-ipo-comparison/",
+          "time": "19:17"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（夜晚 7 點）",
+          "title": "pjfp 文章：如果 P = NP 證明咗，比特幣同密碼學嘅假設時間線",
+          "summary": "冇人證明到 P = NP，呢篇係思想實驗；最壞版本係幾日內比特幣先崩，然後所有公鑰系統失效，而且冇數學上嘅替代品可以遷移。",
+          "url": "https://pjfp.com/what-if-p-equals-np-hypothetical-timeline/",
+          "time": "19:17"
         }
       ]
     }
