@@ -38808,6 +38808,42 @@
           "summary": "AI 搵軟件安全漏洞越嚟越快，Debian 計劃移除支援舊加密演算法同唔安全儲存庫等高風險舊功能；AI 係雙面刃，幫手搵漏洞之餘亦降低攻擊者利用漏洞嘅門檻，冇人維護嘅舊功能會陸續被淘汰。",
           "url": "https://www.youtube.com/watch?v=hPOUDUDgJHs",
           "time": "07:37"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "大行報告",
+          "briefing": "大行評級變動（11/25）",
+          "title": "META：摩根大通維持 Overweight，目標價由 $940 下調至 $775",
+          "summary": "摩根大通維持 META 增持評級，目標價由 $940 下調至 $775。",
+          "url": "https://tinyurl.com/2czr4cvj",
+          "time": "08:13"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "大行報告",
+          "briefing": "大行評級變動（11/25）",
+          "title": "TSLA：瑞銀維持 Neutral，目標價由 $425 上調至 $430",
+          "summary": "瑞銀維持 TSLA 中性評級，目標價由 $425 上調至 $430，並將 Robotaxi 業務估值 $800 億納入模型。",
+          "url": "https://tinyurl.com/22qejkaw",
+          "time": "08:13"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "大行報告",
+          "briefing": "大行評級變動（11/25）",
+          "title": "SNDK：Evercore ISI 維持 Outperform，目標價由 $200 下調至 $175",
+          "summary": "Evercore ISI 維持 SNDK 跑贏大市評級，目標價由 $200 下調至 $175（已拆 8 換 1；週二跌約 11%）。",
+          "url": "https://tinyurl.com/26xpykx7",
+          "time": "08:13"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "大行報告",
+          "briefing": "大行評級變動（11/25）",
+          "title": "CRWV：Evercore ISI 維持 Outperform，目標價由 $100 下調至 $80",
+          "summary": "Evercore ISI 維持 CoreWeave 跑贏大市評級，目標價由 $100 下調至 $80。",
+          "url": "https://tinyurl.com/267kd76w",
+          "time": "08:13"
         }
       ]
     }
