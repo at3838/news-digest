@@ -38781,6 +38781,33 @@
           "summary": "11月24日星期二收市，標普跌0.50%至7,201.09，納指跌1.48%，道指升0.85%收喺50,000點樓上；費半跌7.88%，30隻成份股全跌，MU、SNDK齊跌逾11%，NVDA回吐5.86%收155.38美元，係分化市唔係全面跌。VIX（Yahoo收市數，Options Recap核實）跌至26.36，9日波幅倒掛差唔多消失；Cboe 11月24日最終put/call總數0.95、指數1.12、個股0.57、SPX 1.15，係最終結算數，異常大單由星期一65%喺call掉轉做67%喺put。情緒中性偏審慎，Dell業績大超預期盤後升約2至3%；星期三睇VIX守唔守得住30樓下、NVDA 150.50美元低位，同埋上午8:30一次過出嘅10月PCE、第三季GDP同失業救濟數據。",
           "url": null,
           "time": "07:29"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "X財經台",
+          "briefing": "X財經台朝早",
+          "title": "@unusual_whales：特朗普話願意特赦黃仁勳",
+          "summary": "特朗普話願意畀黃仁勳一個特赦，呢則係 Unusual Whales 轉述特朗普嘅講法，帖文得一句，冇講特赦原因或者時間表。",
+          "url": "https://x.com/unusual_whales/status/2125423063529562344",
+          "time": "07:30"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "Meet Kevin：The Collapse of Stocks: Bottom & Recession.",
+          "summary": "Meet Kevin 講股市崩跌見底同衰退：黃仁勳話自己犯咗嚴重錯誤、每日接受心理治療；H100 租賃價 11 月頭十日按月升 47%，舊晶片需求仲強；Amodei 兩兄弟喺招股價附近各沽約 338 萬股，合共約 5.6 億美元。S&P 500 而家只係普通回調，Anthropic 股價守住負 20% 嗰條線。",
+          "url": "https://www.youtube.com/watch?v=zD8aD03pj90",
+          "time": "07:37"
+        },
+        {
+          "date": "2026-11-25",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "This Week in Tech：Debian Drops Features After AI Uncovers Vulnerabilities",
+          "summary": "AI 搵軟件安全漏洞越嚟越快，Debian 計劃移除支援舊加密演算法同唔安全儲存庫等高風險舊功能；AI 係雙面刃，幫手搵漏洞之餘亦降低攻擊者利用漏洞嘅門檻，冇人維護嘅舊功能會陸續被淘汰。",
+          "url": "https://www.youtube.com/watch?v=hPOUDUDgJHs",
+          "time": "07:37"
         }
       ]
     }
