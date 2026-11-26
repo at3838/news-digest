@@ -40523,6 +40523,33 @@
           "summary": "Claude Messages API 本來係單線程 Python 單體，團隊揀 Rust 重寫，靠模型補返學習曲線，估計模型寫咗大約 75% 嘅 code，兩邊系統一齊跑 shadow traffic 逐日將差異率壓向零；agent 開嘅 pull request 大約八成工程師冇逐行睇，嚴謹由審查搬去驗證。",
           "url": "https://pjfp.com/katelyn-lesse-anthropic-claude-api-rust-rewrite/",
           "time": "07:08"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "Anthropic 上市點樣令 Alphabet 投資者受惠",
+          "summary": "Alphabet 持有 Anthropic 大筆股權，加上 Anthropic 幾乎肯定會繼續用佢嘅雲端服務，Anthropic 將來做得好，對 Alphabet 嚟講係雙重利好。",
+          "url": "https://www.fool.com/investing/2026/11/26/2-ways-anthropic-s-ipo-pays-off-for-alphabet-investors/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "Dell 創紀錄 AI 訂單之後，Nvidia 仲值唔值得留意",
+          "summary": "Dell 最新一批 AI 伺服器訂單大部分都係跑喺 Nvidia 最新系統上面，文章拆解呢個創紀錄積壓訂單對 Nvidia 意味住啲乜。",
+          "url": "https://www.fool.com/investing/2026/11/25/is-nvidia-stock-a-buy-after-dell-s-record-ai-backlog/",
+          "time": "07:26"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Motley Fool",
+          "briefing": "Motley Fool",
+          "title": "Broadcom 股價跌返去 2025 年 7 月以來最低",
+          "summary": "呢隻 AI 晶片設計商嘅股價而家幾乎冇反映明年計劃中嘅增長，文章分析點解作者認為市場低估咗佢。",
+          "url": "https://www.fool.com/investing/2026/11/25/broadcom-stock-hasn-t-traded-this-low-since-july-2025-i-think-it-s-a-buy/",
+          "time": "07:26"
         }
       ]
     }
