@@ -40241,6 +40241,290 @@
           "time": "23:17"
         }
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "items": [
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "英國政府同歐盟今日公布脫歐重置協議文本",
+          "summary": "英國政府同歐盟今日下午公布脫歐重置協議文本，落實上星期達成嘅協議。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "SpaceX 獲批發射一百萬粒衛星，喺太空起 AI 數據中心",
+          "summary": "美國監管機構批准 SpaceX 發射一百萬粒衛星，喺太空起 AI 數據中心。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "Duran Duran 結他手 Andy Taylor 逝世，終年 65 歲",
+          "summary": "Duran Duran 結他手 Andy Taylor 逝世，終年 65 歲。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "美國對包括中國在內多國加徵新關稅",
+          "summary": "美國宣布對包括中國在內多國加徵新關稅。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "開羅油罐車撞車大火，31 死 21 傷",
+          "summary": "開羅公路油罐車撞車大火，31 死 21 傷。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "英鎊企穩 1.31，市場預期英倫銀行 12 月加息機會近八成",
+          "summary": "英鎊企穩 1.31 美元附近，英倫銀行官員放鷹，市場預期 12 月 17 號加息機會近八成。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "美國 10 月 PCE 按年升 3.8%，高過預期",
+          "summary": "美國 10 月 PCE 通脹按年升 3.8%，高過預期，聯儲局 12 月加息機會市場定價 98%。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "Ofgem 一月起調高能源價格上限 26%，四年新高",
+          "summary": "Ofgem 一月起將家庭能源價格上限調高 26%，四年新高，幾百萬戶電費會貴一截。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "早晨簡報",
+          "briefing": "早晨簡報新聞節",
+          "title": "今日美國感恩節，美股休市",
+          "summary": "今日美國感恩節，美股休市。",
+          "url": null,
+          "time": "07:00"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "歐洲新聞：EU 傾 1.582 萬億歐元預算同烏克蘭貸款、Merz 警告俄羅斯威脅、COP31 崩盤、西班牙提前大選",
+          "summary": "EU 領袖今明兩日喺布魯塞爾開會，傾 2028–34 年 1.582 萬億歐元預算同埋 450 億歐元烏克蘭貸款，德國要求 27 國齊齊出錢，匈牙利等四國反對；德國總理 Merz 警告俄羅斯威脅不斷升級，國防開支會加到 2030 年超過 2,000 億歐元；歐洲準備同普京對話；COP31 氣候峰會崩盤，草案完全冇提化石燃料，EU 帶頭拒絕，係 2009 年哥本哈根以來首次傾唔成；西班牙星期日提前大選，民調顯示右翼人民黨加 Vox 有望攞到絕對多數。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "英國新聞：政府今日公布 EU 新條約、能源費 1 月加 26%、Poundland 破產管理、警隊歧視報告",
+          "summary": "政府今日公布同 EU 傾掂嘅新條約，入面有 10 年終止條款，萬一要重建邊境檢查，費用有得賠返；能源費 1 月起加 26%，去到近四年最高，幾百萬家庭首當其衝；Poundland 進入破產管理，超過 11,000 個職位受威脅；獨立報告話倫敦警察廳仍然存在制度性種族、性別同性取向歧視，警隊總監話會接受建議；政府將簡化跟蹤法例，合併做單一罪行。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "英國報章",
+          "briefing": "英國報章早晨摘要",
+          "title": "歐洲財經：FTSE 100 跌 0.38% 收 10,426.94、英鎊跌至近 19 個月低位、easyJet 全年利潤跌 96%",
+          "summary": "FTSE 100 尋日收 10,426.94，跌 0.38%，德國 DAX 跌 1.26%、法國 CAC 跌 0.75%，科技股拋售拖累全歐，今日美國感恩節休市，交投會較靜；英鎊兌美元跌到 1.3058 美元，近 19 個月低位，市場預期英倫銀行 12 月加息機會約八成；英倫銀行話英國食品通脹明年可能升到 5%，easyJet 全年利潤跌 96%，燃油成本多咗 2.44 億鎊，不過 Apollo 收購案如期進行。",
+          "url": null,
+          "time": "07:01"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "WhaleAgent：輝達叫 Dell 同 Supermicro 暫停向東南亞四國付運 AI 伺服器",
+          "summary": "輝達叫 Dell 同 Supermicro 暫停向馬來西亞、新加坡、泰國同印尼付運 AI 伺服器，背景係美國出新招，防中國企業經當地雲端服務商借用受管制晶片。",
+          "url": "https://www.threads.com/@whaleagent/post/DgMgB6gE1Wx",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "WhaleAgent：滙豐穩定幣 RedCoin 推出首月已有超過 10 萬人用",
+          "summary": "滙豐發行嘅穩定幣 RedCoin 推出首月已有超過 10 萬人用，行政總裁話首星期已經有超過 5 萬人登記。",
+          "url": "https://www.threads.com/@whaleagent/post/DgMUA28E21s",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "Fomo研究院：黃仁勳返 NVIDIA 總部開全員大會，認錯並接受心理治療",
+          "summary": "黃仁勳返到 NVIDIA 總部開離開 11 日之後第一場全員大會，認錯話對妻子不忠，每日做一個半鐘心理治療，仲會接受每月一次 360 度評估直送董事會，但就拒絕改公司結構。",
+          "url": "https://www.threads.com/@fomo_soc/post/DgMRqWpGeDU",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "辺の美股筆記：馬斯克話美國每位兒童會攞到兩股 SpaceX 股票",
+          "summary": "馬斯克話美國每位兒童會攞到兩股 SpaceX 股票，一股嚟自公司，一股嚟自佢個人。",
+          "url": "https://www.threads.com/@watanabe.wei/post/DgMPBskEzpg",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "1M2%：交易心態分享，設好條件單就熄機",
+          "summary": "交易心態分享，以前五分鐘睇一次報價、半夜起身睇美股，宜家設好條件單就熄機去飲咖啡做運動，學識將情緒由戶口拎走。",
+          "url": "https://www.threads.com/@1month2percent/post/DgMQkD5j8dG",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Threads",
+          "briefing": "Threads 美股摘要（朝早 7 點）",
+          "title": "WhaleAgent：南韓央行加息 0.25 厘至 3.25%，今年第三次加息",
+          "summary": "南韓央行加息 0.25 厘至 3.25%，係 2024 年 10 月以來最高，亦係今年第三次加息，話通脹會長時間高過目標，仲將今年經濟增長預測上調至 3.9%，兩名委員反對，主張維持 3%。",
+          "url": "https://www.threads.com/@whaleagent/post/DgMNJRfE9-8",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Threads",
+          "briefing": "Threads AI 摘要（朝早 7 點）",
+          "title": "WhaleAgent：OpenAI 認 GPT-6.2 推出嗰陣計費出錯，唔追收差額",
+          "summary": "OpenAI 認 GPT-6.2 推出嗰陣計費出錯，少計咗多數用戶 Astra 同 Sol 兩款模型嘅用量，付費用戶配額會用得快啲，唔會追收差額，Go、Plus、Pro 同 Business 用戶各送一次用量重置。",
+          "url": "https://www.threads.com/@whaleagent/post/DgMa4NRE3RK",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Threads",
+          "briefing": "Threads AI 摘要（朝早 7 點）",
+          "title": "WhaleAgent：AI 黑客工具俾人濫用，兩星期內攻擊誘捕系統超過 1 萬次",
+          "summary": "本來幫企業測試防線嘅 AI 黑客工具俾人濫用，Shadowserver 發現兩星期內有 80 幾個 IP 用佢哋攻擊誘捕系統超過 1 萬次，搜刮密碼、將流量轉駁去銀行同加密貨幣服務。",
+          "url": "https://www.threads.com/@whaleagent/post/DgMSS38k60s",
+          "time": "07:04"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "大叔美股筆記：Michael Burry 平掉剩低一半納指 100 認沽期權",
+          "summary": "大賣空主角 Michael Burry 趁科技股回落，平掉埋剩低一半納指 100 認沽期權，話市況樂觀嗰陣、NVDA 接近 200 蚊先會再沽，依家組合係近年最偏多，現金得返四分一左右。",
+          "url": "https://facebook.com/100085478805813/posts/pfbid035puaqRwb45L2dbMqhwdM42pgxHoaNJCRkQFbUUxoSTxo5HSUcPQWi8ws8YDpHf67l/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "大叔美股筆記：PLTR 董事長 Peter Thiel 買入 85 萬股，涉資約 1.22 億美元",
+          "summary": "PLTR 董事長 Peter Thiel 喺 11 月 20 號公開市場買入 85 萬股，均價 143.8 蚊，涉資約 1.22 億美元，係真金白銀買入唔係歸屬股份；不過呢注只係佔佢持股大約 1.2%，而且有勾到 10b5-1 預設買入計劃，唔係臨時抄底。",
+          "url": "https://facebook.com/100085478805813/posts/pfbid0Yy4fX8VPSLdcyNQ688SEEjyuVf3u47R9tcXqZTrAk3PRoMppAiyxXiVuU4m...",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "東岸跪婦的大城小事：黃仁勳復職後 NVDA 實質失去自主權",
+          "summary": "評論話黃仁勳復職之後，NVDA 實質已經失去自主權，變成由美國聯邦政府主導嘅企業，好似當年房利美、房地美同埋舊年嘅 Intel 咁；又話過去兩星期已經見到 AI 估值基礎唔穩。",
+          "url": "https://facebook.com/100071791046301/posts/pfbid021hC73oCSiRiTG9y6MPMc5V5o7RR9AWY1GjXqq8eB2swEX22nYRgr5L8HzUKkdXVql/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "加州樂誌：SpaceX 捐股俾每位開咗川普帳戶嘅美國細路",
+          "summary": "SpaceX 趕喺感恩節前宣布，捐出新發行嘅 Class A 普通股，送一股 SPCX 俾每位開咗川普帳戶嘅美國細路，馬斯克個人再一比一加碼跟送，總裁 Gwynne Shotwell 另外再捐超過 200 萬股。",
+          "url": "https://facebook.com/100063772713814/posts/pfbid0krQ2M8jjTt9GmX2XN5Sik14jE9973JeHPTGYGtqUBwmY84cvsuS7hLqW9B2QKPG3l/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "Hon Wai Choy：Tesla Cybertruck 確定停產，台灣預訂全數取消",
+          "summary": "Tesla Cybertruck 確定停產，台灣預訂全數取消，特斯拉官方俾八年頂級連線做轉單補償。",
+          "url": "https://facebook.com/groups/2299289946792298/permalink/29161065210188074/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "CJay Tech：黃仁勳話識到馬斯克係呢世人最幸運嘅事之一",
+          "summary": "黃仁勳話呢世人最幸運嘅事之一就係識到馬斯克，佢好早已經幫手做 Tesla 第一代車載電腦同自動駕駛系統，兩個人合作多年。",
+          "url": "https://facebook.com/reel/1615674153103775/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook 美股摘要（朝早 7 點）",
+          "title": "iDrop News：Meta 旗下 Threads 原生 iPad app 正式推出",
+          "summary": "Meta 旗下 Threads 原生 iPad app 正式推出。",
+          "url": "https://facebook.com/100068606649529/posts/pfbid02ZTtogBCdFmQcUU3YJfwgNxqHvcafUSRbg5AmVGRK9FgQXhR4CUw43uoWfZT4ZJPkl/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（朝早 7 點）",
+          "title": "Masao Wu：FCC 批准 SpaceX 部署最多 100 萬顆衛星起太空數據中心",
+          "summary": "FCC 批准 SpaceX 部署最多 100 萬顆衛星，喺太空起龐大數據中心，係太空 AI 算力嘅第一步。",
+          "url": "https://facebook.com/groups/287564302061253/permalink/2447026312781697/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "Facebook",
+          "briefing": "Facebook AI 摘要（朝早 7 點）",
+          "title": "大公報：內地首宗 AI 指導心臟驟停急救成功",
+          "summary": "內地首宗 AI 指導心臟驟停急救成功，新疆急救中心用 AI 實時監察按壓位置同頻率，最終救返病人。",
+          "url": "https://facebook.com/100063839001390/posts/pfbid02G6RxjoQntKNtUL5VGeZV7GqcX4pZPPtGsVW6t4azADKsqdCEqeY58woJrrQ986E7l/",
+          "time": "07:05"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "pjfp：Naveen Rao：Unconventional AI 打造超越生物嘅晶片",
+          "summary": "Rao 係 Nervana 同 MosaicML 創辦人，而家搞 Unconventional AI，目標係超越生物，關鍵指標係每粒 token 用幾多焦耳；架構放棄馮諾依曼式分離，將記憶同運算撳埋一齊，第一粒測試晶片跑擴散模型每張細圖大約 900 納焦耳，比 GPU 對照慳四至五個數量級，不過嗰啲係 CIFAR 細圖，粒晶片只係學習工具唔係產品。",
+          "url": "https://pjfp.com/naveen-rao-unconventional-ai-chip-beat-biology/",
+          "time": "07:08"
+        },
+        {
+          "date": "2026-11-26",
+          "source": "YouTube",
+          "briefing": "YouTube 財經／科技 Podcast 更新（朝早 7 點）",
+          "title": "pjfp：Katelyn Lesse：Anthropic 幾個月內將 Claude API 由 Python 改寫成 Rust",
+          "summary": "Claude Messages API 本來係單線程 Python 單體，團隊揀 Rust 重寫，靠模型補返學習曲線，估計模型寫咗大約 75% 嘅 code，兩邊系統一齊跑 shadow traffic 逐日將差異率壓向零；agent 開嘅 pull request 大約八成工程師冇逐行睇，嚴謹由審查搬去驗證。",
+          "url": "https://pjfp.com/katelyn-lesse-anthropic-claude-api-rust-rewrite/",
+          "time": "07:08"
+        }
+      ]
     }
   ]
 }
