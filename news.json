@@ -43075,6 +43075,78 @@
           "summary": "XRP 由 11 月低位 0.86 美元反彈約 14%，今日高見 0.985 美元；短線出現黃金交叉，空頭平倉推動升勢，但 1.09 美元 SuperTrend 同 50 日線 1.13 美元係上方阻力，升勢係咪企得穩要睇收市可唔可以企上 1 美元。",
           "url": "https://www.benzinga.com/crypto/cryptocurrency/26/11/63686488/xrp-bulls-push-for-1-ahead-of-weekend-can-this-rally-stick",
           "time": "21:41"
+        },
+        {
+          "date": "2026-11-27",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "銀行想甩手 AI 相關債務",
+          "summary": "報道話銀行想甩手 AI 相關債務，反映市場對 AI 基建融資憂慮升溫，呼應今週 CoreWeave 貸款出售同 CDS 創新高。",
+          "url": "https://www.reddit.com/r/technology/comments/1y728g9/banks_look_to_dump_ai_debt/",
+          "time": "21:45"
+        },
+        {
+          "date": "2026-11-27",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "道指升近 600 點，創 2022 年以來最好一星期",
+          "summary": "道指今日升近 600 點，收市 50,775 點，係 2022 年以來最好一星期。",
+          "url": "https://www.reddit.com/r/StockMarket/comments/1y70gfw/dow_rallies_nearly_600_points_to_close_out_best/",
+          "time": "21:45"
+        },
+        {
+          "date": "2026-11-27",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "騰訊向 Oracle 租 10 萬粒晶片加快 AI 部署",
+          "summary": "騰訊向 Oracle 租 10 萬粒晶片加快 AI 部署。",
+          "url": "https://www.reddit.com/r/wallstreetbets/comments/1y6yw55/chinas_tencent_leases_100000_chips_from_oracle_to/",
+          "time": "21:45"
+        },
+        {
+          "date": "2026-11-27",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "美國空軍旗艦雲端平台 Cloud One 俾黑客入侵",
+          "summary": "路透社獨家：黑客入侵美國空軍旗艦雲端平台 Cloud One，過去一個月升級系統嗰陣先發現，經軟件漏洞入到控制層；邊個做、偷咗幾多未查到，系統遷移同軟件更新已經暫停，網絡司令部介入調查。",
+          "url": "https://www.reddit.com/r/technology/comments/1y6s5so/us_air_forces_main_cloud_platform_has_been_hacked/",
+          "time": "21:45"
+        },
+        {
+          "date": "2026-11-27",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Claude 將黎曼猜想證明縮短 150 倍以上",
+          "summary": "Claude 將黎曼猜想證明縮短 150 倍以上——原本 1,700 萬行 Lean 證明大幅壓縮（聲稱，未經獨立核實）。",
+          "url": "https://www.reddit.com/r/technology/comments/1y6way9/claude_makes_a_claimed_riemann_hypothesis_proof/",
+          "time": "21:45"
+        },
+        {
+          "date": "2026-11-27",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "Claude 被指蓄意拖慢細型 ML 研究",
+          "summary": "MagicPath CEO 喺 X 投訴 Claude 蓄意拖慢 ML 研究，帖文瘋傳；Anthropic 文件話 Fable 5.2 本身刻意限制咗加速器內核優化同 LLM 架構能力，部份請求會轉去舊模型，唔係模型自己搞破壞。",
+          "url": "https://www.reddit.com/r/artificial/comments/1y6yv4p/claude_found_intentionally_sabotaging_even_minor/",
+          "time": "21:45"
+        },
+        {
+          "date": "2026-11-27",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "特朗普話黃仁勳有兩款新晶片勁過 Blackwell",
+          "summary": "特朗普話黃仁勳有兩款新晶片即將推出，勁過 Blackwell（特朗普講法）。",
+          "url": "https://www.reddit.com/r/StockMarket/comments/1y6nocc/trump_jensen_huang_has_two_new_chips_coming_out/",
+          "time": "21:45"
+        },
+        {
+          "date": "2026-11-27",
+          "source": "Reddit",
+          "briefing": "Reddit 熱門美股＋AI（收市後）",
+          "title": "AI 電力樽頸要五年先解決",
+          "summary": "AI 電力樽頸要五年先解決，而且唔係淨係加發電量就得，電網基建都要配合。",
+          "url": "https://www.reddit.com/r/investing/comments/1y6f156/ai_power_bottleneck_buildout_looks_like_5_years/",
+          "time": "21:45"
         }
       ]
     }
